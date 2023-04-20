@@ -53,14 +53,14 @@ subs {
                 default(true)
             }
             audio(1) {
-                name("Commentary 2.0 Opus")
+                name("Japanese 5.1 Opus"")
                 lang("jpn")
-                default(true)    
+                default(false)    
             }
             audio(2) {
-    name("Commentary 2.0 Opus")
+                name("Commentary 2.0 Opus")
                 lang("jpn")
-                default(true)    
+                default(false)    
 
             }
             subtitles {
