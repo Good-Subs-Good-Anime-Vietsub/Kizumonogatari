@@ -53,7 +53,7 @@ subs {
                 default(true)
             }
             audio(1) {
-                name("Japanese 5.1 Opus"")
+                name("Japanese 5.1 Opus")
                 lang("jpn")
                 default(false)    
             }
