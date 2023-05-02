@@ -16,7 +16,8 @@ Video File: ../../[OZR] Monogatari Series (BD 1080p HEVC Opus)/[OZR] Kizumonogat
 Video AR Mode: 4
 Video AR Value: 2.352941
 Video Zoom Percent: 0.625000
-Active Line: 10
+Scroll Position: 211
+Active Line: 234
 Video Position: 83923
 
 [V4+ Styles]
@@ -24,7 +25,7 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Blogemonogatari,Gentium Basic,60,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
 Style: Black and Red,Gentium Basic,70,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
 Style: other signs,Montara  Gothic,75,&H00FFFFFF,&H000000FF,&H1E000000,&H96000000,0,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
-Style: Main,KiOZ Ubuntu Dialogue,66,&H00FFFFFF,&H000000FF,&H00000000,&HC4000000,0,0,0,0,100,100,0,0,1,3.6,0,2,12,12,40,1
+Style: Main,KiOZ Ubuntu Dialogue,66,&H00FFFFFF,&H000000FF,&H00181919,&HC4181919,0,0,0,0,100,100,0,0,1,3.6,0,2,12,12,40,1
 Style: OST,Signika SemiBold,82,&H00FFFFFF,&H000000FF,&H00091641,&H971F3DBB,0,0,0,0,100,100,0,0,1,4,2,2,10,10,60,1
 Style: Signs,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: GT,KiOZ Ubuntu Dialogue,45,&H00FFFFFF,&H000000FF,&H97000000,&H82000000,0,0,0,0,100,100,0,0,3,0.1,0,8,10,10,30,1
@@ -32,506 +33,508 @@ Style: GT 2,KiOZ Ubuntu Dialogue,45,&H00FFFFFF,&H000000FF,&H000A0937,&HB40000FF,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Comment: 5,0:00:00.00,0:00:00.02,Main,chptr,0,0,0,,{Rực cháy}
-Comment: 5,0:05:55.25,0:05:55.29,Main,chptr,0,0,0,,{Giới thiệu}
-Comment: 5,0:06:50.31,0:06:50.35,Main,chptr,0,0,0,,{Gặp gỡ Hanekawa Tsubasa}
-Comment: 5,0:18:12.86,0:18:12.90,Main,chptr,0,0,0,,{Dục vọng}
-Comment: 5,0:20:06.98,0:20:07.02,Main,chptr,0,0,0,,{Gặp gỡ Heart-under-blade}
-Comment: 5,0:29:20.74,0:29:20.78,Main,chptr,0,0,0,,{Rút đao tương trợ}
-Comment: 5,0:32:23.17,0:32:23.21,Main,chptr,0,0,0,,{Tập làm ma cà rồng}
-Comment: 5,0:42:56.47,0:42:56.51,Main,chptr,0,0,0,,{Thợ săn ma cà rồng}
-Comment: 5,0:49:35.29,0:49:35.33,Main,chptr,0,0,0,,{Oshino Meme}
-Comment: 5,0:58:38.49,0:58:38.49,Main,chptr,0,0,0,,{ED}
-Comment: 5,1:02:41.56,1:02:41.56,Main,chptr,0,0,0,,{Báo trước}
-Dialogue: 5,0:08:15.41,0:08:16.72,Main,,0,0,0,,Ưm...
-Dialogue: 5,0:08:17.21,0:08:19.47,Main,,0,0,0,,K-Không thấy gì đâu.
-Dialogue: 5,0:08:45.68,0:08:47.63,Main,,0,0,0,,Nói sao nhỉ...
-Dialogue: 5,0:08:48.02,0:08:50.64,Main,,0,0,0,,Nếu không muốn để người ta nhìn thấy,
-Dialogue: 5,0:08:50.64,0:08:54.14,Main,,0,0,0,,thì váy ấy, \Nsuy cho cùng không mấy an toàn ha.
-Dialogue: 5,0:08:54.42,0:08:58.64,Main,,0,0,0,,Chính ra, mặc quần spat lại kín đáo hơn,\N kiểu như tường lửa ấy nhỉ.
-Dialogue: 5,0:08:59.59,0:09:01.14,Main,,0,0,0,,C-Chịu~
-Dialogue: 5,0:09:12.65,0:09:15.27,Main,,0,0,0,,Vậy thôi, chào cậu tớ đi đây.
-Dialogue: 5,0:09:17.04,0:09:18.93,Main,,0,0,0,,Ơ chờ đã nào!
-Dialogue: 5,0:09:33.79,0:09:35.33,Main,,0,0,0,,Mãi mới đuổi kịp.
-Dialogue: 5,0:09:36.49,0:09:38.05,Main,,0,0,0,,Cậu bước đi nhanh thật đấy.
-Dialogue: 5,0:09:39.57,0:09:40.64,Main,,0,0,0,,Araragi{*}-kun{*}.
-Dialogue: 5,0:09:48.94,0:09:51.36,Main,,0,0,0,,Sao cậu lại biết tên tớ thế?
-Dialogue: 5,0:09:53.03,0:09:54.74,Main,,0,0,0,,Lại chả biết thì sao.
-Dialogue: 5,0:09:54.74,0:09:56.32,Main,,0,0,0,,Tụi mình học cùng trường còn gì.
-Dialogue: 5,0:09:58.43,0:10:00.70,Main,,0,0,0,,Ghép bộ "phụ" với chữ "khả" trong "khả năng",
-Dialogue: 5,0:10:01.20,0:10:03.20,Main,,0,0,0,,viết tiếp 2 lần chữ "ngoan" trong "bé ngoan",
-Dialogue: 5,0:10:03.73,0:10:06.20,Main,,0,0,0,,rồi thêm chữ "cây" trong "cây cối",\N ta có họ là Araragi-kun.
-Dialogue: 5,0:10:06.67,0:10:09.96,Main,,0,0,0,,Còn tên cậu là Lịch từ "âm lịch", tức Koyomi...
-Dialogue: 5,0:10:10.30,0:10:11.50,Main,,0,0,0,,Đúng chứ nhỉ?
-Dialogue: 5,0:10:11.50,0:10:13.59,Main,,0,0,0,,Thế là thành... Araragi Koyomi{*}-kun{*}.
-Dialogue: 5,0:10:18.44,0:10:21.11,Main,,0,0,0,,Cậu là... Hanekawa...
-Dialogue: 5,0:10:22.55,0:10:24.60,Main,,0,0,0,,Hanekawa Tsubasa.
-Dialogue: 5,0:10:34.60,0:10:38.30,Main,,0,0,0,,Ghê~ Cậu biết tên tớ luôn mà.
-Dialogue: 5,0:10:38.90,0:10:41.41,Main,,0,500,0,,{\q2}Đợt thi cuối học kì 1 năm 2,
-Dialogue: 5,0:10:41.41,0:10:45.09,Main,,0,500,0,,{\q2}trong tất cả các môn, tính cả \Nmôn Sức khỏe & Thể chất lẫn các môn Nghệ thuật...
-Dialogue: 5,0:10:45.09,0:10:47.75,Main,,0,500,0,,{\q2}có một người chỉ sai duy nhất một lỗi,
-Dialogue: 5,0:10:47.75,0:10:49.25,Main,,0,500,0,,{\q2}đó là cậu, Hanekawa Tsubasa.
-Dialogue: 5,0:10:49.92,0:10:52.63,Main,,0,500,0,,Ơ khoan?! Không phải chứ!
-Dialogue: 5,0:10:52.63,0:10:54.79,Main,,0,500,0,,Sao cậu lại nắm rõ thế?
-Dialogue: 5,0:10:56.30,0:10:59.26,Main,,0,0,0,,Có khi nào cậu Araragi-kun đây...
-Dialogue: 5,0:10:59.26,0:11:01.39,Main,,0,0,0,,lại bám đuôi tớ sao?
-Dialogue: 5,0:11:04.36,0:11:07.77,Main,,0,0,0,,Nói thế nghe cứ như kiểu\N tớ bị "hoang tưởng bức hại" ấy nhỉ.
-Dialogue: 5,0:11:08.54,0:11:09.52,Main,,0,0,0,,Có sao đâu.
-Dialogue: 5,0:11:10.82,0:11:12.77,Main,,0,0,0,,Tớ có đứa bạn ngoài hành tinh nói thế này.
-Dialogue: 5,0:11:13.58,0:11:15.40,Main,,0,0,0,,Araragi-kun cũng có bạn cơ á?
-Dialogue: 5,0:11:18.40,0:11:21.41,Main,,0,0,0,,Sao lại không thắc mắc cái chỗ "ngoài hành tinh" hả!!
-Dialogue: 5,0:11:21.53,0:11:23.49,Main,,0,0,0,,À thì tại...
-Dialogue: 5,0:11:23.49,0:11:24.69,Main,,0,0,0,,Araragi-kun ý,
-Dialogue: 5,0:11:24.69,0:11:25.89,Main,,0,0,0,,lúc nào cũng có một mình,
-Dialogue: 5,0:11:25.89,0:11:28.87,Main,,0,0,0,,nên tớ có ấn tượng là \Ncậu sống tách biệt với mọi người.
-Dialogue: 5,0:11:36.04,0:11:40.11,Main,,0,0,0,,Mà... cậu nói đúng rồi đấy, tớ không có bạn.
-Dialogue: 5,0:11:40.11,0:11:46.01,Main,,0,0,0,,Nhưng cậu thì nổi tiếng tới cái mức\N mà kẻ cô độc như tớ cũng phải biết tới.
-Dialogue: 5,0:11:46.41,0:11:48.77,Main,,0,0,0,,Thôi, đừng mà.
-Dialogue: 5,0:11:48.77,0:11:52.27,Main,,0,0,0,,Đùa thế không vui đâu.
-Dialogue: 5,0:11:59.09,0:12:01.28,Main,,0,0,0,,Này! Araragi{*}-kun{*}.
-Dialogue: 5,0:12:07.11,0:12:10.54,Main,,0,0,0,,Araragi-kun có tin vào ma cà rồng không?
-Dialogue: 5,0:12:13.93,0:12:16.52,Main,,0,0,0,,Ma cà rồng... thì sao à?
-Dialogue: 5,0:12:17.44,0:12:18.88,Main,,0,0,0,,Gần đây ấy,
-Dialogue: 5,0:12:18.88,0:12:21.90,Main,,0,0,0,,có hơi rộ lên một tin đồn thế này,
-Dialogue: 5,0:12:21.90,0:12:25.47,Main,,0,0,0,,trong thành phố hiện đang có một con ma cà rồng.
-Dialogue: 5,0:12:25.47,0:12:29.52,Main,,0,0,0,,Thế nên người ta kêu là đừng có ra ngoài vào ban đêm.
-Dialogue: 5,0:12:29.52,0:12:34.06,Main,,0,0,0,,Mơ hồ quá, không đáng tin chút nào.
-Dialogue: 5,0:12:34.48,0:12:38.08,Main,,0,0,0,,Họ bảo ả ta tóc vàng, nhan sắc thì tuyệt trần,
-Dialogue: 5,0:12:38.69,0:12:43.70,Main,,0,0,0,,ánh mắt thì băng giá\N khiến người ta lạnh sống lưng.
-Dialogue: 5,0:12:43.70,0:12:47.25,Main,,0,0,0,,Nhưng chỉ có thế \Nthì sao khẳng định là ma cà rồng được?
-Dialogue: 5,0:12:47.95,0:12:51.70,Main,,0,0,0,,Hoàn toàn có thể là một cô gái\N với mái tóc vàng nổi bật.
+Comment: 0,0:00:00.00,0:00:00.02,Main,chptr,0,0,0,,{Rực cháy}
+Comment: 0,0:05:55.25,0:05:55.29,Main,chptr,0,0,0,,{Giới thiệu}
+Comment: 0,0:06:50.31,0:06:50.35,Main,chptr,0,0,0,,{Gặp gỡ Hanekawa Tsubasa}
+Comment: 0,0:18:12.86,0:18:12.90,Main,chptr,0,0,0,,{Dục vọng}
+Comment: 0,0:20:06.98,0:20:07.02,Main,chptr,0,0,0,,{Gặp gỡ Heart-under-blade}
+Comment: 0,0:29:20.74,0:29:20.78,Main,chptr,0,0,0,,{Rút đao tương trợ}
+Comment: 0,0:32:23.17,0:32:23.21,Main,chptr,0,0,0,,{Tập làm ma cà rồng}
+Comment: 0,0:42:56.47,0:42:56.51,Main,chptr,0,0,0,,{Thợ săn ma cà rồng}
+Comment: 0,0:49:35.29,0:49:35.33,Main,chptr,0,0,0,,{Oshino Meme}
+Comment: 0,0:58:38.49,0:58:38.49,Main,chptr,0,0,0,,{ED}
+Comment: 0,1:02:41.56,1:02:41.56,Main,chptr,0,0,0,,{Báo trước}
+Dialogue: 0,0:08:15.41,0:08:16.72,Main,,0,0,0,,Ưm...
+Dialogue: 0,0:08:17.21,0:08:19.47,Main,,0,0,0,,K-Không thấy gì đâu.
+Dialogue: 0,0:08:45.68,0:08:47.63,Main,,0,0,0,,Nói sao nhỉ...
+Dialogue: 0,0:08:48.02,0:08:50.64,Main,,0,0,0,,Nếu không muốn để người ta nhìn thấy,
+Dialogue: 0,0:08:50.64,0:08:54.14,Main,,0,0,0,,thì váy ấy, \Ntính ra không mấy an toàn ha.
+Dialogue: 0,0:08:54.42,0:08:58.64,Main,,0,0,0,,Chính ra, mặc quần spat lại kín đáo hơn,\N kiểu như tường lửa ấy nhỉ.
+Dialogue: 0,0:08:59.59,0:09:01.14,Main,,0,0,0,,C-Chịu~
+Dialogue: 0,0:09:12.65,0:09:15.27,Main,,0,0,0,,Vậy thôi, chào cậu tớ đi đây.
+Dialogue: 0,0:09:17.04,0:09:18.93,Main,,0,0,0,,Ơ chờ đã nào!
+Dialogue: 0,0:09:33.79,0:09:35.33,Main,,0,0,0,,Mãi mới đuổi kịp.
+Dialogue: 0,0:09:36.49,0:09:38.05,Main,,0,0,0,,Cậu bước đi nhanh thật đấy.
+Dialogue: 0,0:09:39.57,0:09:40.64,Main,,0,0,0,,Araragi{*}-kun{*}.
+Dialogue: 0,0:09:48.94,0:09:51.36,Main,,0,0,0,,Sao cậu lại biết tên tớ thế?
+Dialogue: 0,0:09:53.03,0:09:54.74,Main,,0,0,0,,Lại chả biết thì sao.
+Dialogue: 0,0:09:54.74,0:09:56.32,Main,,0,0,0,,Tụi mình học cùng trường còn gì.
+Dialogue: 0,0:09:58.43,0:10:00.70,Main,,0,0,0,,Ghép bộ "phụ" với chữ "khả" trong "khả năng",
+Dialogue: 0,0:10:01.20,0:10:03.20,Main,,0,0,0,,viết tiếp 2 lần chữ "ngoan" trong "bé ngoan",
+Dialogue: 0,0:10:03.73,0:10:06.20,Main,,0,0,0,,rồi thêm chữ "cây" trong "cây cối",\N ta có họ là Araragi-kun.
+Dialogue: 0,0:10:06.67,0:10:09.96,Main,,0,0,0,,Còn tên cậu là Lịch từ "âm lịch", tức Koyomi...
+Dialogue: 0,0:10:10.30,0:10:11.50,Main,,0,0,0,,Đúng không nào?
+Dialogue: 0,0:10:11.50,0:10:13.59,Main,,0,0,0,,Thế là thành... Araragi Koyomi{*}-kun{*}.
+Dialogue: 0,0:10:18.44,0:10:21.11,Main,,0,0,0,,Cậu là... Hanekawa...
+Dialogue: 0,0:10:22.55,0:10:24.60,Main,,0,0,0,,Hanekawa Tsubasa.
+Dialogue: 0,0:10:34.60,0:10:38.30,Main,,0,0,0,,Ghê~ Cậu biết tên tớ luôn mà.
+Dialogue: 0,0:10:38.90,0:10:41.41,Main,,0,500,0,,{\q2}Đợt thi cuối học kì 1 năm 2,
+Dialogue: 0,0:10:41.41,0:10:45.09,Main,,0,500,0,,{\q2}tất cả các môn, kể cả \Nmôn Sức khỏe & Thể chất lẫn các môn Nghệ thuật...
+Dialogue: 0,0:10:45.09,0:10:47.75,Main,,0,500,0,,{\q2}có một người chỉ sai duy nhất một lỗi,
+Dialogue: 0,0:10:47.75,0:10:49.25,Main,,0,500,0,,{\q2}đó là cậu, Hanekawa Tsubasa.
+Dialogue: 0,0:10:49.92,0:10:52.63,Main,,0,500,0,,Ơ khoan?! Không phải chứ!
+Dialogue: 0,0:10:52.63,0:10:54.79,Main,,0,500,0,,Sao cậu lại nắm rõ thế?
+Dialogue: 0,0:10:56.30,0:10:59.26,Main,,0,0,0,,Có khi nào cậu Araragi-kun đây...
+Dialogue: 0,0:10:59.26,0:11:01.39,Main,,0,0,0,,lại bám đuôi tớ sao?
+Dialogue: 0,0:11:04.36,0:11:07.77,Main,,0,0,0,,Nói thế nghe cứ như kiểu\N tớ bị "hoang tưởng bức hại" ấy nhỉ.
+Dialogue: 0,0:11:08.54,0:11:09.52,Main,,0,0,0,,Có sao đâu.
+Dialogue: 0,0:11:10.82,0:11:12.77,Main,,0,0,0,,Đứa bạn ngoài hành tinh của tớ từng bảo.
+Dialogue: 0,0:11:13.58,0:11:15.40,Main,,0,0,0,,Araragi-kun cũng có bạn cơ á?
+Dialogue: 0,0:11:18.40,0:11:21.41,Main,,0,0,0,,Sao không thắc mắc cái "ngoài hành tinh" đi hả trời!!
+Dialogue: 0,0:11:21.53,0:11:23.49,Main,,0,0,0,,À thì tại...
+Dialogue: 0,0:11:23.49,0:11:24.69,Main,,0,0,0,,Araragi-kun ý,
+Dialogue: 0,0:11:24.69,0:11:25.89,Main,,0,0,0,,lúc nào cũng có một mình,
+Dialogue: 0,0:11:25.89,0:11:28.87,Main,,0,0,0,,nên tớ có ấn tượng là \Ncậu sống tách biệt với mọi người.
+Dialogue: 0,0:11:36.04,0:11:40.11,Main,,0,0,0,,Mà... cậu nói đúng rồi đấy, tớ không có bạn.
+Dialogue: 0,0:11:40.11,0:11:46.01,Main,,0,0,0,,Nhưng cậu thì nổi tiếng tới cái mức\N mà kẻ cô độc như tớ cũng phải biết tới.
+Dialogue: 0,0:11:46.41,0:11:48.77,Main,,0,0,0,,Thôi mà, đừng nói thế mà.
+Dialogue: 0,0:11:48.77,0:11:52.27,Main,,0,0,0,,Đùa thế không vui đâu.
+Dialogue: 0,0:11:59.09,0:12:01.28,Main,,0,0,0,,Này, Araragi{*}-kun{*}.
+Dialogue: 0,0:12:07.11,0:12:10.54,Main,,0,0,0,,Araragi-kun có tin vào ma cà rồng không?
+Dialogue: 0,0:12:13.93,0:12:16.52,Main,,0,0,0,,Ma cà rồng... thì sao à?
+Dialogue: 0,0:12:17.44,0:12:18.88,Main,,0,0,0,,Gần đây ấy,
+Dialogue: 0,0:12:18.88,0:12:21.90,Main,,0,0,0,,có hơi rộ lên một tin đồn thế này,
+Dialogue: 0,0:12:21.90,0:12:25.47,Main,,0,0,0,,trong thành phố hiện đang có một con ma cà rồng.
+Dialogue: 0,0:12:25.47,0:12:29.52,Main,,0,0,0,,Thế nên người ta kêu là đừng có ra ngoài vào ban đêm.
+Dialogue: 0,0:12:29.52,0:12:34.06,Main,,0,0,0,,Mơ hồ quá, không đáng tin chút nào.
+Dialogue: 0,0:12:34.48,0:12:38.08,Main,,0,0,0,,Họ bảo ả ta tóc vàng, nhan sắc thì tuyệt trần,
+Dialogue: 0,0:12:38.69,0:12:43.70,Main,,0,0,0,,ánh mắt thì băng giá\N khiến người ta lạnh sống lưng.
+Dialogue: 0,0:12:43.70,0:12:47.25,Main,,0,0,0,,Nhưng chỉ có thế \Nthì sao khẳng định là ma cà rồng được?
+Dialogue: 0,0:12:47.95,0:12:51.70,Main,,0,0,0,,Hoàn toàn có thể là một cô gái\N với mái tóc vàng nổi bật mà.
 Dialogue: 0,0:12:52.28,0:12:52.96,Main,,0,0,0,,Cơ mà...
-Dialogue: 5,0:12:52.96,0:12:57.67,Main,,0,0,0,,họ còn bảo lúc đèn đường chiếu vào\N thì mái tóc cứ như là sáng rực lên,
-Dialogue: 5,0:12:58.21,0:12:59.91,Main,,0,0,0,,nhưng lại không thấy bóng đâu cả.
-Dialogue: 5,0:13:04.66,0:13:07.84,Main,,0,0,0,,Nhưng cũng đêm hôm cả rồi.
-Dialogue: 5,0:13:08.52,0:13:12.59,Main,,0,0,0,,Dù nói là được đèn đường chiếu sáng,\N chứ vẫn có thể là nhìn nhầm mà.
-Dialogue: 5,0:13:13.10,0:13:17.45,Main,,0,0,0,,Ừm! Tớ cũng cho đây chỉ là tin đồn nhảm.
-Dialogue: 5,0:13:17.98,0:13:19.49,Main,,0,0,0,,Nhưng mà...
-Dialogue: 5,0:13:20.13,0:13:23.31,Main,,0,0,0,,Tớ ấy nhé, nếu ma cà rồng mà có thật,
-Dialogue: 5,0:13:23.31,0:13:25.70,Main,,0,0,0,,thì cũng muốn gặp một lần.
-Dialogue: 5,0:13:26.00,0:13:30.18,Main,,0,0,0,,Kiểu như...\N việc tồn tại một thứ cao cấp hơn loài người ấy.
-Dialogue: 5,0:13:30.18,0:13:31.95,Main,,0,0,0,,Thích thật nhỉ.
-Dialogue: 5,0:13:32.34,0:13:35.79,Main,,0,0,0,,Cao cấp hơn loài người ư?\N Kiểu Thần Thánh ấy à?
-Dialogue: 5,0:13:35.79,0:13:39.08,Main,,0,0,0,,Không nhất thiết cứ phải là Thần.
-Dialogue: 5,0:13:43.00,0:13:46.59,Main,,0,0,0,,Nếu không thì... \Nchả gặt hái được gì cả đúng không nào?
-Dialogue: 5,0:13:58.50,0:13:59.98,Main,,0,0,0,,Không phải, không phải đâu.
-Dialogue: 5,0:14:00.44,0:14:03.23,Main,,0,0,0,,Araragi-kun ấy, cũng dễ bắt chuyện nhỉ.
-Dialogue: 5,0:14:04.67,0:14:09.61,Main,,0,0,0,,Tớ lỡ nói linh tinh ấy mà,\N tại bắt chuyện với cậu dễ quá.
-Dialogue: 5,0:14:11.61,0:14:14.03,Main,,0,0,0,,Mà lạ thật, Araragi-kun ấy...
-Dialogue: 5,0:14:14.03,0:14:16.76,Main,,0,0,0,,chả có bạn bè mà nói chuyện như đúng rồi.
-Dialogue: 5,0:14:16.76,0:14:19.17,Main,,0,0,0,,Sao cậu lại không có bạn thế?
-Dialogue: 5,0:14:20.79,0:14:24.42,Main,,0,0,0,,Việc kết bạn sẽ khiến \Ncái {\i1}sức mạnh thuộc tính người{\i0} suy yếu.
-Dialogue: 5,0:14:27.17,0:14:30.11,Main,,0,0,0,,Xin lỗi, cậu nói gì chả hiểu.
-Dialogue: 5,0:14:30.11,0:14:32.18,Main,,0,0,0,,À thì... tại vì...
-Dialogue: 5,0:14:32.18,0:14:34.68,Main,,0,0,0,,Nói sao nhỉ...
-Dialogue: 5,0:14:35.35,0:14:39.19,Main,,0,0,0,,Nếu có bạn bè, \Nthì sẽ phải quan tâm người ta đúng không?
-Dialogue: 5,0:14:39.94,0:14:43.16,Main,,0,0,0,,Bạn mà tổn thương, thì mình cũng thương tổn.
-Dialogue: 5,0:14:43.16,0:14:45.69,Main,,0,0,0,,Bạn mà buồn, thì mình cũng tủi.
-Dialogue: 5,0:14:46.30,0:14:49.95,Main,,0,0,0,,Có thể nói là sẽ có nhiều yếu điểm hơn.
-Dialogue: 5,0:14:50.45,0:14:52.77,Main,,0,0,0,,Và thế là con người ta suy yếu.
-Dialogue: 5,0:14:54.49,0:14:58.96,Main,,0,800,0,,Cơ mà... bạn mà vui, \Nthì mình cũng tươi này.
-Dialogue: 5,0:14:58.96,0:15:02.09,Main,,0,800,0,,Bạn mà hạnh,\N thì mình cũng phúc.
-Dialogue: 5,0:15:02.09,0:15:05.60,Main,,0,800,0,,Đâu phải chỉ mỗi yếu đi đâu?
-Dialogue: 5,0:15:05.60,0:15:06.50,Main,,0,800,0,,Không.
-Dialogue: 5,0:15:06.50,0:15:09.41,Main,,0,0,0,,Bạn mà vui,\N thì mình chỉ có ghen tị thôi.
-Dialogue: 5,0:15:09.41,0:15:12.14,Main,,0,0,0,,Bạn mà hạnh phúc... thì đố kỵ.
-Dialogue: 5,0:15:14.51,0:15:16.26,Main,,0,0,0,,Người đâu tiểu nhân thế.
-Dialogue: 5,0:15:17.52,0:15:19.27,Main,,0,0,0,,{\i1}Thì kệ đi.
-Dialogue: 5,0:15:26.79,0:15:27.70,Main,,0,0,0,,Tớ...
-Dialogue: 5,0:15:28.94,0:15:31.70,Main,,0,0,0,,...đang tính tới thư viện.
-Dialogue: 5,0:15:32.16,0:15:34.07,Main,,0,0,0,,Araragi-kun có muốn đi cùng không?
-Dialogue: 5,0:15:34.87,0:15:35.97,Main,,0,0,0,,Tại sao?
-Dialogue: 5,0:15:36.69,0:15:38.33,Main,,0,0,0,,Cậu tới thư viện để làm gì?
-Dialogue: 5,0:15:39.25,0:15:41.50,Main,,0,0,0,,Để học chứ làm gì nữa.
-Dialogue: 5,0:15:42.47,0:15:43.82,Main,,0,0,0,,Chứ làm gì nữa...?
-Dialogue: 5,0:15:44.91,0:15:48.33,Main,,0,0,0,,Tiếc là... tớ không đủ dở người tới mức tự giác...
-Dialogue: 5,0:15:48.33,0:15:52.29,Main,,0,0,0,,lao đầu vào học giữa kỳ nghỉ xuân\N trong khi chả có bài tập về nhà.
-Dialogue: 5,0:15:52.29,0:15:56.26,Main,,0,0,0,,Cơ mà... năm sau là thi đại học rồi đấy.
-Dialogue: 5,0:15:56.26,0:15:58.18,Main,,0,0,0,,Thì thố cái gì.
-Dialogue: 5,0:15:58.83,0:16:01.27,Main,,0,0,0,,Tốt nghiệp thôi là phúc mấy đời rồi.
-Dialogue: 5,0:16:02.32,0:16:04.55,Main,,0,0,0,,Muộn rồi, vô phương cứu chữa.
-Dialogue: 5,0:16:08.98,0:16:12.06,Main,,0,0,0,,Araragi{*}-kun{*} này, cậu có điện thoại di động không?
-Dialogue: 5,0:16:12.06,0:16:14.41,Main,,0,0,0,,Ờ thì cũng có.
-Dialogue: 5,0:16:15.53,0:16:16.62,Main,,0,0,0,,Mượn cái.
-Dialogue: 5,0:16:24.67,0:16:26.79,Main,,0,0,0,,Cảm ơn! Đây, trả nè.
-Dialogue: 5,0:16:41.02,0:16:44.31,Main,,0,0,0,,Tớ có lưu lại số với email của tớ ấy mà.
-Dialogue: 5,0:16:48.30,0:16:52.12,Main,,0,0,0,,Chết cậu rồi~ Cậu vừa mới kết bạn đấy~
-Dialogue: 5,0:17:35.73,0:17:37.17,Main,,0,0,0,,Quái gì không biết.
-Dialogue: 5,0:23:47.48,0:23:48.15,Main,,0,0,0,,Nhà ngươi!
-Dialogue: 5,0:23:51.04,0:23:54.70,Main,,0,0,0,,Lão nương cho phép nhà ngươi cứu.
-Dialogue: 5,0:23:56.42,0:23:57.95,Main,,0,0,0,,Có nghe thấy không hả?
-Dialogue: 5,0:23:58.99,0:24:03.96,Main,,0,0,0,,Lão nương nói là \Ncho phép nhà ngươi cứu lão nương.
-Dialogue: 5,0:24:09.38,0:24:11.35,Main,,0,0,0,,N-Này...
-Dialogue: 5,0:24:13.95,0:24:17.14,Main,,0,0,0,,Cô... có sao không thế?
-Dialogue: 5,0:24:20.06,0:24:22.64,Main,,0,0,0,,T-Tôi gọi cấp cứu ngay đây.
-Dialogue: 5,0:24:41.29,0:24:43.10,Main,,0,0,0,,Cấp cứu?
-Dialogue: 5,0:24:43.10,0:24:44.96,Main,,0,0,0,,Vô tích sự.
-Dialogue: 5,0:24:49.78,0:24:51.46,Main,,0,0,0,,Nên là...
-Dialogue: 5,0:24:51.46,0:24:53.72,Main,,0,0,0,,Nhà ngươi hiến máu đi.
-Dialogue: 5,0:25:01.48,0:25:04.98,Main,,0,0,0,,{\i1}Araragi-kun có tin vào ma cà rồng không?
-Dialogue: 5,0:25:05.62,0:25:08.81,Main,,0,0,0,,{\i1}Họ bảo ả ta tóc vàng, nhan sắc thì tuyệt trần,
-Dialogue: 5,0:25:09.14,0:25:13.69,Main,,0,0,0,,{\i1}ánh mắt thì băng giá\N khiến người ta lạnh sống lưng.
-Dialogue: 5,0:25:14.62,0:25:19.75,Main,,0,0,0,,Tên ta là \NKiss-shot Acerola-orion Heart-under-blade.
-Dialogue: 5,0:25:20.58,0:25:24.71,Main,,0,0,0,,Ma cà rồng Máu Sắt, Máu Nóng, Máu Lạnh.
-Dialogue: 5,0:25:26.25,0:25:31.05,Main,,0,0,0,,Máu của nhà ngươi,\N ta sẽ hút nó thành da thịt của ta.
-Dialogue: 5,0:25:31.05,0:25:34.59,Main,,0,0,0,,Nên là... Nhà ngươi hiến máu đi.
-Dialogue: 5,0:25:40.86,0:25:46.72,Main,,0,0,0,,Ma cà rồng chả phải... được cho là bất tử sao?
-Dialogue: 5,0:25:47.44,0:25:49.71,Main,,0,0,0,,Ta mất nhiều máu quá rồi.
-Dialogue: 5,0:25:50.50,0:25:54.26,Main,,0,0,0,,Không thể tái tạo cũng như biến hình được nữa.
-Dialogue: 5,0:25:54.94,0:25:57.95,Main,,0,0,0,,Cứ thế này thì sớm muộn ta cũng chết.
-Dialogue: 5,0:26:04.15,0:26:10.33,Main,,0,0,0,,Với tư cách con người thấp kém,\N được trở thành máu thịt của ta là phúc phận của nhà ngươi.
-Dialogue: 5,0:26:11.48,0:26:13.16,Main,,0,0,0,,M-Máu...
-Dialogue: 5,0:26:13.81,0:26:16.31,Main,,0,0,0,,Truyền máu chẳng hạn, không cứu được sao?
-Dialogue: 5,0:26:18.52,0:26:22.10,Main,,0,0,0,,C-Cô—cần—bao nhiêu?
-Dialogue: 5,0:26:23.19,0:26:28.35,Main,,0,0,0,,Vào lúc này, \Nmột mình nhà ngươi là ta qua được cơn nguy kịch.
-Dialogue: 5,0:26:28.35,0:26:30.95,Main,,0,0,0,,Hiểu rồi, một mình tôi...
-Dialogue: 5,0:26:44.36,0:26:45.70,Main,,0,0,0,,Sao thế hả?
-Dialogue: 5,0:26:45.70,0:26:48.46,Main,,0,0,0,,Máu... Hiến máu đi!
-Dialogue: 5,0:26:48.46,0:26:50.71,Main,,0,0,0,,Khẩn trương lên!\N Khẩn trương không thì bảo!
-Dialogue: 5,0:26:53.21,0:26:55.77,Main,,0,0,0,,{\an8}Khẩn trưởng lên! Nhà ngươi chậm chạp quá đấy!
-Dialogue: 5,0:26:54.63,0:26:56.15,Main,,0,0,0,,Không sao cả.
-Dialogue: 5,0:26:56.15,0:26:58.21,Main,,0,0,0,,Có thể chạy được.
-Dialogue: 5,0:26:56.62,0:27:00.22,Main,,0,0,0,,{\an8}Nhà ngươi không còn phúc phận nào lớn hơn đâu!
-Dialogue: 5,0:26:59.85,0:27:01.56,Main,,0,0,0,,Có thể thoát được.
-Dialogue: 5,0:27:14.18,0:27:15.11,Main,,0,0,0,,Này!
-Dialogue: 5,0:27:18.47,0:27:20.98,Main,,0,0,0,,Nhà ngươi đùa ta à!
-Dialogue: 5,0:27:25.54,0:27:28.95,Main,,0,0,0,,Dám... không cứu ta sao?
-Dialogue: 5,0:27:36.63,0:27:41.72,Main,,0,0,0,,Không thể được!!
-Dialogue: 5,0:27:42.01,0:27:46.72,Main,,0,0,0,,Không! Không thể được! \NTa không muốn chết!
-Dialogue: 5,0:27:46.72,0:27:49.47,Main,,0,0,0,,Ta không muốn chết! Ta không muốn chết!
-Dialogue: 5,0:27:49.47,0:27:52.98,Main,,0,0,0,,Cứu ta! Cứu ta! Làm ơn!
-Dialogue: 5,0:27:56.98,0:27:59.99,Main,,0,0,0,,L-Làm ơn cứu ta với!
-Dialogue: 5,0:28:00.32,0:28:02.34,Main,,0,0,0,,Cứu với...
-Dialogue: 5,0:28:03.14,0:28:04.49,Main,,0,0,0,,Không!
-Dialogue: 5,0:28:16.15,0:28:18.23,Main,,0,0,0,,{\fad(0,300)}Thứ lỗi cho ta!
-Dialogue: 5,0:28:18.23,0:28:19.93,Main,,0,0,0,,{\fad(0,300)}Thứ lỗi cho ta!
-Dialogue: 5,0:28:19.93,0:28:21.93,Main,,0,0,0,,{\fad(0,300)}Thứ lỗi cho ta!
-Dialogue: 5,0:28:21.93,0:28:23.26,Main,,0,0,0,,{\fad(0,0)}Thứ lỗi cho ta!
-Comment: 5,0:28:23.70,0:28:32.43,Main,,0,0,0,,Thứ lỗi cho ta!
-Comment: 5,0:28:33.00,0:28:35.85,Main,,0,0,0,,Thứ lỗi cho ta!
-Comment: 5,0:28:36.17,0:28:42.44,Main,,0,0,0,,Thứ lỗi cho ta!
-Comment: 5,0:28:54.38,0:28:58.46,Main,,0,0,0,,Thứ lỗi cho ta!
-Dialogue: 5,0:29:28.26,0:29:29.74,Main,,0,0,0,,Mình sẽ chết.
-Dialogue: 5,0:29:32.15,0:29:34.50,Main,,0,0,0,,Mà có thế nào thì cô ta là {\i1}yêu ma quái.{\i0}
-Dialogue: 5,0:29:36.50,0:29:38.00,Main,,0,0,0,,Là ma cà rồng.
-Dialogue: 5,0:29:40.55,0:29:42.44,Main,,0,0,0,,Không việc gì phải cứu.
-Dialogue: 5,0:29:44.07,0:29:45.67,Main,,0,0,0,,Đúng rồi còn?
-Dialogue: 5,0:29:57.52,0:30:03.98,Main,,0,0,0,,{\fad(0,3557)}Biết chứ sao lại không!!!
-Dialogue: 5,0:30:34.06,0:30:35.81,Main,,0,0,0,,Từ bỏ cái nỗi gì! Ngu ngốc!
-Dialogue: 5,0:30:47.68,0:30:49.96,Main,,0,0,0,,Đ-Được sao?
-Dialogue: 5,0:30:49.96,0:30:53.51,Main,,0,0,0,,Được được cái quái gì! Khốn nạn!
-Dialogue: 5,0:30:55.97,0:30:58.41,Main,,0,0,0,,Như c*c! Như c*c! Như c*c!
-Dialogue: 5,0:30:59.64,0:31:00.83,Main,,0,0,0,,Tại sao?
-Dialogue: 5,0:31:01.84,0:31:04.05,Main,,0,0,0,,Sao lại thành ra thế này!
-Dialogue: 5,0:31:12.50,0:31:16.44,Main,,0,0,0,,Kiếp sau, thề là sẽ tốt đẹp hơn.
-Dialogue: 5,0:31:17.94,0:31:22.85,Main,,0,0,0,,Sẽ lanh lợi khôn ngoan hơn, \Ncó chuyện xảy ra là đổ lên đầu người khác.
-Dialogue: 5,0:31:23.98,0:31:26.92,Main,,0,0,0,,Người như vậy, mới đáng để đầu thai.
-Dialogue: 5,0:31:29.37,0:31:30.37,Main,,0,0,0,,Vậy nên...
-Dialogue: 5,0:31:31.66,0:31:33.54,Main,,0,0,0,,...tôi sẽ cứu cô.
-Dialogue: 5,0:31:34.47,0:31:35.90,Main,,0,0,0,,Hút máu tôi đi.
-Dialogue: 5,0:31:37.14,0:31:38.16,Main,,0,0,0,,Hút hết đi.
-Dialogue: 5,0:31:38.76,0:31:40.16,Main,,0,0,0,,Không chừa giọt nào.
-Dialogue: 5,0:31:40.62,0:31:42.00,Main,,0,0,0,,Hút cạn đi!
-Dialogue: 5,0:31:48.94,0:31:50.53,Main,,0,0,0,,Đa tạ.
-Dialogue: 5,0:32:57.70,0:32:58.87,Main,,0,0,0,,Mơ sao?
+Dialogue: 0,0:12:52.96,0:12:57.67,Main,,0,0,0,,họ còn bảo là lúc đèn đường chiếu vào\N thì mái tóc cứ như sáng rực lên,
+Dialogue: 0,0:12:58.21,0:12:59.91,Main,,0,0,0,,nhưng lại không thấy bóng đâu cả.
+Dialogue: 0,0:13:04.66,0:13:07.84,Main,,0,0,0,,Nhưng cũng đêm hôm cả rồi.
+Dialogue: 0,0:13:08.52,0:13:12.59,Main,,0,0,0,,Dù nói là được đèn đường chiếu sáng,\N nhưng vẫn có thể là nhìn nhầm mà.
+Dialogue: 0,0:13:13.10,0:13:17.45,Main,,0,0,0,,Ừm! Tớ cũng cho đây chỉ là tin đồn nhảm.
+Dialogue: 0,0:13:17.98,0:13:19.49,Main,,0,0,0,,Nhưng mà...
+Dialogue: 0,0:13:20.13,0:13:23.31,Main,,0,0,0,,Tớ ấy nhé, nếu ma cà rồng mà có thật,
+Dialogue: 0,0:13:23.31,0:13:25.70,Main,,0,0,0,,thì cũng muốn gặp một lần.
+Dialogue: 0,0:13:26.00,0:13:30.18,Main,,0,0,0,,Kiểu như...\N tồn tại một thứ cao cấp hơn loài người ấy.
+Dialogue: 0,0:13:30.18,0:13:31.95,Main,,0,0,0,,Thích thật nhỉ.
+Dialogue: 0,0:13:32.34,0:13:35.79,Main,,0,0,0,,Cao cấp hơn loài người ư?\N Kiểu Thần Thánh ấy à?
+Dialogue: 0,0:13:35.79,0:13:39.08,Main,,0,0,0,,Không nhất thiết cứ phải là Thần.
+Dialogue: 0,0:13:43.00,0:13:46.59,Main,,0,0,0,,Nếu không thì... \Nchả gặt hái được gì cả đúng không nào?
+Dialogue: 0,0:13:58.50,0:13:59.98,Main,,0,0,0,,Thôi kệ đi, không có gì đâu.
+Dialogue: 0,0:14:00.44,0:14:03.23,Main,,0,0,0,,Araragi-kun ấy, cũng dễ bắt chuyện nhỉ.
+Dialogue: 0,0:14:04.67,0:14:09.61,Main,,0,0,0,,Tại bắt chuyện với cậu dễ quá,\N nên tớ lỡ nói linh tinh ấy mà.
+Dialogue: 0,0:14:11.61,0:14:14.03,Main,,0,0,0,,Mà lạ thật, Araragi-kun ấy...
+Dialogue: 0,0:14:14.03,0:14:16.76,Main,,0,0,0,,Chả có bạn mà bắt chuyện như đúng rồi.
+Dialogue: 0,0:14:16.76,0:14:19.17,Main,,0,0,0,,Sao cậu lại không có bạn thế?
+Dialogue: 0,0:14:20.79,0:14:24.42,Main,,0,0,0,,Việc kết bạn sẽ khiến \Ncái {\i1}sức mạnh thuộc tính người{\i0} suy yếu.
+Dialogue: 0,0:14:27.17,0:14:30.11,Main,,0,0,0,,Xin lỗi, cậu nói gì chả hiểu.
+Dialogue: 0,0:14:30.11,0:14:32.18,Main,,0,0,0,,À thì... tại vì...
+Dialogue: 0,0:14:32.18,0:14:34.68,Main,,0,0,0,,Nói sao nhỉ...
+Dialogue: 0,0:14:35.35,0:14:39.19,Main,,0,0,0,,Nếu mà có bạn ấy, \Nthì sẽ phải quan tâm người ta đúng không?
+Dialogue: 0,0:14:39.94,0:14:43.16,Main,,0,0,0,,Bạn mà tổn thương, thì mình cũng thương tổn.
+Dialogue: 0,0:14:43.16,0:14:45.69,Main,,0,0,0,,Bạn mà buồn, thì mình cũng tủi.
+Dialogue: 0,0:14:46.30,0:14:49.95,Main,,0,0,0,,Để mà nói thì... sẽ có nhiều yếu điểm hơn.
+Dialogue: 0,0:14:50.45,0:14:52.77,Main,,0,0,0,,Và thế là con người ta suy yếu.
+Dialogue: 0,0:14:54.49,0:14:58.96,Main,,0,800,0,,Cơ mà... bạn mà vui, \Nthì mình cũng tươi này.
+Dialogue: 0,0:14:58.96,0:15:02.09,Main,,0,800,0,,Bạn mà hạnh,\N thì mình cũng phúc.
+Dialogue: 0,0:15:02.09,0:15:05.60,Main,,0,800,0,,Đâu phải chỉ mỗi yếu đi đâu?
+Dialogue: 0,0:15:05.60,0:15:06.50,Main,,0,800,0,,Không.
+Dialogue: 0,0:15:06.50,0:15:09.41,Main,,0,0,0,,Bạn mà vui,\N thì mình chỉ có ghen tị thôi.
+Dialogue: 0,0:15:09.41,0:15:12.14,Main,,0,0,0,,Bạn mà hạnh phúc... thì đố kỵ.
+Dialogue: 0,0:15:14.51,0:15:16.26,Main,,0,0,0,,Người đâu tiểu nhân thế.
+Dialogue: 0,0:15:17.52,0:15:19.27,Main,,0,0,0,,{\i1}Kệ người ta!
+Dialogue: 0,0:15:26.79,0:15:27.70,Main,,0,0,0,,Tớ...
+Dialogue: 0,0:15:28.94,0:15:31.70,Main,,0,0,0,,...đang tính tới thư viện.
+Dialogue: 0,0:15:32.16,0:15:34.07,Main,,0,0,0,,Araragi-kun có muốn đi cùng không?
+Dialogue: 0,0:15:34.87,0:15:35.97,Main,,0,0,0,,Tại sao?
+Dialogue: 0,0:15:36.69,0:15:38.33,Main,,0,0,0,,Cậu tới thư viện làm gì?
+Dialogue: 0,0:15:39.25,0:15:41.50,Main,,0,0,0,,Để học chứ làm gì nữa.
+Dialogue: 0,0:15:42.47,0:15:43.82,Main,,0,0,0,,Chứ làm gì nữa...?
+Dialogue: 0,0:15:44.91,0:15:48.33,Main,,0,0,0,,Tiếc là... tớ không đủ dở người tới mức tự giác...
+Dialogue: 0,0:15:48.33,0:15:52.29,Main,,0,0,0,,lao đầu vào học giữa kỳ nghỉ xuân\N trong khi chả có bài tập về nhà.
+Dialogue: 0,0:15:52.29,0:15:56.26,Main,,0,0,0,,Cơ mà... năm sau là thi đại học rồi đấy.
+Dialogue: 0,0:15:56.26,0:15:58.18,Main,,0,0,0,,Thi thố cái gì.
+Dialogue: 0,0:15:58.83,0:16:01.27,Main,,0,0,0,,Tốt nghiệp thôi là phúc mấy đời rồi.
+Dialogue: 0,0:16:02.32,0:16:04.55,Main,,0,0,0,,Muộn rồi, vô phương cứu chữa.
+Dialogue: 0,0:16:08.98,0:16:12.06,Main,,0,0,0,,Araragi{*}-kun{*} này, cậu có điện thoại di động không?
+Dialogue: 0,0:16:12.06,0:16:14.41,Main,,0,0,0,,Ờ thì cũng có.
+Dialogue: 0,0:16:15.53,0:16:16.62,Main,,0,0,0,,Mượn cái.
+Dialogue: 0,0:16:24.67,0:16:26.79,Main,,0,0,0,,Cảm ơn! Đây, trả nè.
+Dialogue: 0,0:16:41.02,0:16:44.31,Main,,0,0,0,,Tớ có lưu lại số điện thoại với email của tớ ấy.
+Dialogue: 0,0:16:48.30,0:16:52.12,Main,,0,0,0,,Chết cậu rồi~ Cậu vừa mới kết bạn đấy~
+Dialogue: 0,0:17:35.73,0:17:37.17,Main,,0,0,0,,Quái gì không biết!
+Dialogue: 0,0:23:47.48,0:23:48.15,Main,,0,0,0,,Nhà ngươi!
+Dialogue: 0,0:23:51.04,0:23:54.70,Main,,0,0,0,,Lão nương cho phép nhà ngươi cứu lão nương.
+Dialogue: 0,0:23:56.42,0:23:57.95,Main,,0,0,0,,Có nghe thấy không hả?
+Dialogue: 0,0:23:58.99,0:24:03.96,Main,,0,0,0,,Lão nương nói là \Ncho phép nhà ngươi cứu lão nương.
+Dialogue: 0,0:24:09.38,0:24:11.35,Main,,0,0,0,,N-Này...
+Dialogue: 0,0:24:13.95,0:24:17.14,Main,,0,0,0,,Cô... có sao không thế?
+Dialogue: 0,0:24:20.06,0:24:22.64,Main,,0,0,0,,T-Tôi gọi cấp cứu ngay đây.
+Dialogue: 0,0:24:41.29,0:24:43.10,Main,,0,0,0,,Cấp cứu?
+Dialogue: 0,0:24:43.10,0:24:44.96,Main,,0,0,0,,Vô tích sự.
+Dialogue: 0,0:24:49.78,0:24:51.46,Main,,0,0,0,,Nên là...
+Dialogue: 0,0:24:51.46,0:24:53.72,Main,,0,0,0,,Nhà ngươi hiến máu đi.
+Dialogue: 0,0:25:01.48,0:25:04.98,Main,,0,0,0,,{\i1}Araragi-kun có tin vào ma cà rồng không?
+Dialogue: 0,0:25:05.62,0:25:08.81,Main,,0,0,0,,{\i1}Họ bảo ả ta tóc vàng, nhan sắc thì tuyệt trần,
+Dialogue: 0,0:25:09.14,0:25:13.69,Main,,0,0,0,,{\i1}ánh mắt thì băng giá\N khiến người ta lạnh sống lưng.
+Dialogue: 0,0:25:14.62,0:25:19.75,Main,,0,0,0,,Lão nương tên là \NKiss-shot Acerola-orion Heart-under-blade.
+Dialogue: 0,0:25:20.58,0:25:24.71,Main,,0,0,0,,Ma cà rồng Thiết Huyết, Nhiệt Huyết, Lãnh Huyết.
+Dialogue: 0,0:25:26.25,0:25:31.05,Main,,0,0,0,,Lão nương sẽ hút máu của nhà ngươi\N và biến nó thành da thịt của lão nương.
+Dialogue: 0,0:25:31.05,0:25:34.59,Main,,0,0,0,,Nên là... Nhà ngươi hiến máu đi.
+Dialogue: 0,0:25:40.86,0:25:46.72,Main,,0,0,0,,Ma cà rồng chả phải... được cho là bất tử sao?
+Dialogue: 0,0:25:47.44,0:25:49.71,Main,,0,0,0,,Lão nương mất quá nhiều máu rồi.
+Dialogue: 0,0:25:50.50,0:25:54.26,Main,,0,0,0,,Không thể tái tạo cũng như biến hình được nữa.
+Dialogue: 0,0:25:54.94,0:25:57.95,Main,,0,0,0,,Cứ thế này thì sớm muộn lão nương cũng chết.
+Dialogue: 0,0:26:04.15,0:26:10.33,Main,,0,0,0,,Với tư cách con người thấp kém, được trở thành\N máu thịt của lão nương là phúc phận của nhà ngươi.
+Dialogue: 0,0:26:11.48,0:26:13.16,Main,,0,0,0,,M-Máu...
+Dialogue: 0,0:26:13.81,0:26:16.31,Main,,0,0,0,,Truyền máu chẳng hạn, không cứu được sao?
+Dialogue: 0,0:26:18.52,0:26:22.10,Main,,0,0,0,,C-Cô—cần—bao nhiêu?
+Dialogue: 0,0:26:23.19,0:26:28.35,Main,,0,0,0,,Vào lúc này, một mình nhà ngươi\N là đủ để lão nương qua cơn nguy kịch.
+Dialogue: 0,0:26:28.35,0:26:30.95,Main,,0,0,0,,Hiểu rồi, một mình tôi...
+Dialogue: 0,0:26:44.36,0:26:45.70,Main,,0,0,0,,Sao thế hả?
+Dialogue: 0,0:26:45.70,0:26:48.46,Main,,0,0,0,,Máu... Hiến máu đi!
+Dialogue: 0,0:26:48.46,0:26:50.71,Main,,0,0,0,,Khẩn trương lên!\N Khẩn trương không thì bảo!
+Dialogue: 0,0:26:53.21,0:26:55.77,Main,,0,0,0,,{\an8}Khẩn trưởng lên! Nhà ngươi chậm chạp quá đấy!
+Dialogue: 0,0:26:54.63,0:26:56.15,Main,,0,0,0,,Không sao cả.
+Dialogue: 0,0:26:56.15,0:26:58.21,Main,,0,0,0,,Có thể chạy được.
+Dialogue: 0,0:26:56.62,0:27:00.22,Main,,0,0,0,,{\an8}Nhà ngươi không còn phúc phận nào lớn hơn đâu!
+Dialogue: 0,0:26:59.85,0:27:01.56,Main,,0,0,0,,Có thể thoát được.
+Dialogue: 0,0:27:14.18,0:27:15.11,Main,,0,0,0,,Này!
+Dialogue: 0,0:27:18.47,0:27:20.98,Main,,0,0,0,,Nhà ngươi đùa lão nương à!
+Dialogue: 0,0:27:25.54,0:27:28.95,Main,,0,0,0,,Dám... không cứu lão nương sao?
+Dialogue: 0,0:27:36.63,0:27:41.72,Main,,0,0,0,,Không thể được!!
+Dialogue: 0,0:27:42.01,0:27:46.72,Main,,0,0,0,,Không! Không thể được! \NLão nương không muốn chết!
+Dialogue: 0,0:27:46.72,0:27:49.47,Main,,0,0,0,,Lão nương không muốn chết! \NLão nương không muốn chết!
+Dialogue: 0,0:27:49.47,0:27:52.98,Main,,0,0,0,,Cứu với! Cứu với! Làm ơn!
+Dialogue: 0,0:27:56.98,0:27:59.99,Main,,0,0,0,,L-Làm ơn cứu với!
+Dialogue: 0,0:28:00.32,0:28:02.34,Main,,0,0,0,,Cứu với...
+Dialogue: 0,0:28:03.14,0:28:04.49,Main,,0,0,0,,Không!
+Dialogue: 0,0:28:16.15,0:28:18.23,Main,,0,0,0,,{\fad(0,300)}Tha lỗi đi mà!
+Dialogue: 0,0:28:18.23,0:28:19.93,Main,,0,0,0,,{\fad(0,300)}Tha lỗi đi mà!
+Dialogue: 0,0:28:19.93,0:28:21.93,Main,,0,0,0,,{\fad(0,300)}Tha lỗi đi mà!
+Dialogue: 0,0:28:21.93,0:28:23.26,Main,,0,0,0,,{\fad(0,0)}Tha lỗi đi mà!
+Comment: 0,0:28:23.70,0:28:32.43,Main,,0,0,0,,Tha lỗi đi mà!
+Comment: 0,0:28:33.00,0:28:35.85,Main,,0,0,0,,Tha lỗi đi mà!
+Comment: 0,0:28:36.17,0:28:42.44,Main,,0,0,0,,Tha lỗi đi mà!
+Comment: 0,0:28:54.38,0:28:58.46,Main,,0,0,0,,Tha lỗi đi mà!
+Dialogue: 0,0:29:28.26,0:29:29.74,Main,,0,0,0,,Mình sẽ chết.
+Dialogue: 0,0:29:32.15,0:29:34.50,Main,,0,0,0,,Mà có thế nào thì cô ta là {\i1}yêu ma quái.{\i0}
+Dialogue: 0,0:29:36.50,0:29:38.00,Main,,0,0,0,,Là ma cà rồng.
+Dialogue: 0,0:29:40.55,0:29:42.44,Main,,0,0,0,,Không việc gì phải cứu.
+Dialogue: 0,0:29:44.07,0:29:45.67,Main,,0,0,0,,Đúng rồi còn?
+Dialogue: 0,0:29:57.52,0:30:03.98,Main,,0,0,0,,{\fad(0,3557)}Biết chứ sao không!!!
+Dialogue: 0,0:30:34.06,0:30:35.81,Main,,0,0,0,,Bỏ cuộc cái nỗi gì! Ngu ngốc!
+Dialogue: 0,0:30:47.68,0:30:49.96,Main,,0,0,0,,Đ-Được sao?
+Dialogue: 0,0:30:49.96,0:30:53.51,Main,,0,0,0,,Được được cái quái gì! Đồ dở người!
+Dialogue: 0,0:30:55.97,0:30:58.41,Main,,0,0,0,,Khốn nạn! Khốn nạn! Khốn nạn!
+Dialogue: 0,0:30:59.64,0:31:00.83,Main,,0,0,0,,Tại sao?
+Dialogue: 0,0:31:01.84,0:31:04.05,Main,,0,0,0,,Tại sao lại thành ra thế này!
+Dialogue: 0,0:31:12.50,0:31:16.44,Main,,0,0,0,,Kiếp sau, thề là sẽ tốt đẹp hơn.
+Dialogue: 0,0:31:17.94,0:31:22.85,Main,,0,0,0,,Sẽ lanh lợi khôn ngoan hơn, \Ncó chuyện xảy ra là đổ lên đầu người khác.
+Dialogue: 0,0:31:23.98,0:31:26.92,Main,,0,0,0,,Người như vậy, mới đáng để đầu thai.
+Dialogue: 0,0:31:29.37,0:31:30.37,Main,,0,0,0,,Vậy nên...
+Dialogue: 0,0:31:31.66,0:31:33.54,Main,,0,0,0,,...tôi sẽ cứu cô.
+Dialogue: 0,0:31:34.47,0:31:35.90,Main,,0,0,0,,Hút máu tôi đi.
+Dialogue: 0,0:31:37.14,0:31:38.16,Main,,0,0,0,,Hút hết đi.
+Dialogue: 0,0:31:38.76,0:31:40.16,Main,,0,0,0,,Không chừa giọt nào.
+Dialogue: 0,0:31:40.62,0:31:42.00,Main,,0,0,0,,Hút cạn đi!
+Dialogue: 0,0:31:48.94,0:31:50.53,Main,,0,0,0,,Đa tạ.
+Dialogue: 0,0:32:57.70,0:32:58.87,Main,,0,0,0,,Mơ sao?
 Comment: 0,0:33:24.81,0:33:27.06,Main,,0,0,0,,
-Dialogue: 5,0:33:29.53,0:33:31.07,Main,,0,0,0,,N-Này!
-Dialogue: 5,0:33:31.43,0:33:33.29,Main,,0,0,0,,D-Dậy đi.
-Dialogue: 5,0:33:38.06,0:33:39.32,Main,,0,0,0,,Đợi 5 phút nữa đi.
-Dialogue: 5,0:33:41.02,0:33:43.04,Main,,0,0,0,,Kêu dậy cơ mà.
-Dialogue: 5,0:33:44.15,0:33:46.15,Main,,0,0,0,,Đợi có tâm trạng đã.
-Dialogue: 5,0:33:48.21,0:33:50.16,Main,,0,0,0,,Tính ngủ tới bao giờ hả?!
-Dialogue: 5,0:33:55.22,0:33:56.97,Main,,0,0,0,,Tầm 4,6 tỷ năm.
-Dialogue: 5,0:33:59.68,0:34:02.35,Main,,0,0,0,,Thế thì lòi ra Trái Đất khác luôn rồi.
-Dialogue: 5,0:34:08.55,0:34:10.98,Main,,0,0,0,,Đã 2 ngày rồi sao?
-Dialogue: 5,0:34:50.23,0:34:51.24,Main,,0,0,0,,Đần độn!
-Dialogue: 5,0:35:56.05,0:35:57.13,Main,,0,0,0,,Đúng là!
-Dialogue: 5,0:36:00.74,0:36:05.14,Main,,0,0,0,,Trên đời có cái loại đần đến mức \Nkhơi khơi bước ra ngoài ánh sáng mặt giời zậy à.
-Dialogue: 5,0:36:05.58,0:36:09.54,Main,,0,0,0,,Cỡ ma cà rồng tầm trung\N là bốc hơi ngay lập tức lun đấy.
-Dialogue: 5,0:36:14.99,0:36:18.15,Main,,0,0,0,,Đừng có dại mà bước chân ra ánh sáng mắt giời.
-Dialogue: 5,0:36:18.85,0:36:20.98,Main,,0,0,0,,Với cái bất tử chưa đến nơi đến chốn đó.
-Dialogue: 5,0:36:20.98,0:36:24.86,Main,,0,0,0,,Nên sẽ bị thiêu, phục hồi,\N rồi lại bị thiêu, phục hồi.
-Dialogue: 5,0:36:24.86,0:36:26.66,Main,,0,0,0,,Vòng lặp vô hạn.
-Dialogue: 5,0:36:37.78,0:36:43.43,Main,,0,0,0,,Mà... đấy là nếu nhà ngươi\N coi ma cà rồng bất tử tức là vẫn còn sống.
-Dialogue: 5,0:36:46.22,0:36:48.93,Main,,0,0,0,,Ma cà—rồng?!
-Dialogue: 5,0:36:48.93,0:36:52.68,Main,,0,0,0,,Vậy—Cô... lẽ nào...
-Dialogue: 5,0:36:57.36,0:37:04.15,Main,,0,0,0,,Như nhà ngươi thấy đó, ta,\N Kiss-shot Acerola-orion Heart-under-blade.
-Dialogue: 5,0:37:04.90,0:37:07.53,Main,,0,0,0,,Gọi Heart-under-blade là được zồi.
-Dialogue: 5,0:37:09.78,0:37:12.75,Main,,0,0,0,,Đã 400 năm kể từ lần cuối ta tạo ra "thân tín".
-Dialogue: 5,0:37:12.75,0:37:14.28,Main,,0,0,0,,Nhà ngươi là kẻ thứ 2.
-Dialogue: 5,0:37:14.28,0:37:18.13,Main,,0,0,0,,Cơ mà, nhìn vào khả năng phục hồi...
-Dialogue: 5,0:37:18.56,0:37:20.21,Main,,0,0,0,,Xem ra là thành công tốt đẹp hen.
-Dialogue: 5,0:37:20.21,0:37:22.34,Main,,0,0,0,,T-Thân tín?
-Dialogue: 5,0:37:22.66,0:37:25.01,Main,,0,0,0,,Phải! Và thế là có... Nhà ngươi!
-Dialogue: 5,0:37:28.40,0:37:32.47,Main,,0,0,0,,À mà phải, ta vẫn chưa biết tên nhà ngươi hen.
-Dialogue: 5,0:37:36.03,0:37:37.45,Main,,0,0,0,,Mà chả sao cả.
-Dialogue: 5,0:37:37.45,0:37:42.11,Main,,0,0,0,,Trước đây tên nhà ngươi có là gì \Nthì bây giờ cũng vô nghĩa thui.
-Dialogue: 5,0:37:43.24,0:37:44.86,Main,,0,0,0,,Tóm lại, hỡi đầy tớ của ta.
-Dialogue: 5,0:37:46.86,0:37:49.79,Main,,0,0,0,,Chào mừng tới thế giới ban đêm.
-Dialogue: 5,0:38:13.86,0:38:14.47,Main,,0,0,0,,Đâ—
-Dialogue: 5,0:38:16.64,0:38:18.73,Main,,0,0,0,,Đây là đâu thế?
-Dialogue: 5,0:38:23.98,0:38:27.89,Main,,0,0,0,,{\c&H00F0FF&}Không nhầm thì...\N hình như nó được gọi là "trường luyện thi".
-Dialogue: 5,0:38:27.89,0:38:32.62,Main,,0,0,0,,{\c&H00F0FF&}Có vẻ vài năm trước làm ăn thất bát, \Ngiờ chỉ còn là đống đổ nát thui.
-Dialogue: 5,0:38:32.62,0:38:35.84,Main,,0,0,0,,{\c&H00F0FF&}Chỗ này rất phù hợp để ẩn náu hen.
-Dialogue: 5,0:38:38.12,0:38:40.71,Main,,0,0,0,,Vậy, Kiss-shot, thắc mắc tiếp theo là...
-Dialogue: 5,0:38:40.71,0:38:41.75,Main,,0,0,0,,Khoan đã!
-Dialogue: 5,0:38:41.75,0:38:45.46,Main,,0,0,0,,Lão nương đã bảo nhà ngươi gọi lão nương là \NHeart-under-blade rồi cơ mừ.
-Dialogue: 5,0:38:45.99,0:38:47.74,Main,,0,0,0,,Gọi thế dài quá.
-Dialogue: 5,0:38:48.40,0:38:50.45,Main,,0,0,0,,Kiss-shot ngắn hơn chả tiện hơn.
-Dialogue: 5,0:38:51.12,0:38:53.97,Main,,0,0,0,,Hay là không được phép gọi thế à?
-Dialogue: 5,0:38:55.96,0:38:56.89,Main,,0,0,0,,Hông.
-Dialogue: 5,0:38:57.65,0:39:02.19,Main,,0,0,0,,Mà cũng được, \Nnhà ngươi thấy ổn thì cứ vậy đi hen.
-Dialogue: 5,0:39:02.96,0:39:04.54,Main,,0,0,0,,Cũng chẳng có lý do nào để nói không.
-Dialogue: 5,0:39:06.51,0:39:07.44,Main,,0,0,0,,Thế...
-Dialogue: 5,0:39:07.85,0:39:09.95,Main,,0,0,0,,...thắc mắc tiếp theo là gì zậy?
-Dialogue: 5,0:39:10.48,0:39:11.95,Main,,0,0,0,,À thì...
-Dialogue: 5,0:39:11.95,0:39:16.60,Main,,0,0,0,,Tôi đã trở thành ma cà rổng rồi nhở?
-Dialogue: 5,0:39:16.60,0:39:18.34,Main,,0,0,0,,Không thế thì zư nào.
-Dialogue: 5,0:39:18.34,0:39:21.29,Main,,0,0,0,,Chả nhẽ còn cần ta giải thích cho à.
-Dialogue: 5,0:39:21.29,0:39:25.66,Main,,0,0,0,,Nhà ngươi trở thành thân tín của lão nương,\N đầy tớ của lão nương.
-Dialogue: 5,0:39:25.66,0:39:27.03,Main,,0,0,0,,Phúc phận của nhà ngươi đấy.
-Dialogue: 5,0:39:27.78,0:39:29.14,Main,,0,0,0,,Đầy tớ ấy à...
-Dialogue: 5,0:39:30.47,0:39:35.67,Main,,0,0,0,,Vậy... tại sao cô lại mang cơ thể của trẻ con?
-Dialogue: 5,0:39:35.67,0:39:40.18,Main,,0,0,0,,Lúc chúng ta gặp nhau, trông cô... lớn hơn mà.
-Dialogue: 5,0:39:41.45,0:39:43.69,Main,,0,0,0,,Xin lỗi vì trẻ con nhá!
-Dialogue: 5,0:39:43.69,0:39:46.07,Main,,0,0,0,,Ấy, không phải thế.
-Dialogue: 5,0:39:56.20,0:39:59.45,Main,,0,0,0,,Ta đã hút cạn máu của nhà ngươi.
-Dialogue: 5,0:39:59.88,0:40:02.73,Main,,0,600,0,,Nhưng nó vẫn chưa hề đủ hen.
-Dialogue: 5,0:40:02.73,0:40:06.26,Main,,0,600,0,,Chính vì thế, mà trông ta như này.
-Dialogue: 5,0:40:06.26,0:40:08.46,Main,,0,600,0,,Vẫn còn tốt hơn là chết hen.
-Dialogue: 5,0:40:08.90,0:40:12.39,Main,,0,0,0,,Cơ mà ấy, ta chỉ có thể \Nduy trì khả năng bất tử ở mức tối thiểu.
-Dialogue: 5,0:40:12.39,0:40:16.50,Main,,0,0,0,,Hầu hết năng lực của ma cà rồng\N đều đã bị hạn chế.
-Dialogue: 5,0:40:16.50,0:40:18.35,Main,,0,0,0,,Bất tiện khó chịu nhề.
-Dialogue: 5,0:40:22.00,0:40:26.63,Main,,0,0,0,,Dù là đã tái tạo rồi đấy\N nhưng tay chân thì trông như thế này đây.
-Dialogue: 5,0:40:27.35,0:40:30.15,Main,,0,0,0,,Mà... bên trong thì vẫn còn trống...
-Dialogue: 5,0:40:30.65,0:40:33.91,Main,,0,0,0,,Cơ mà ấy, hiện tại thế này là ổn thỏa rồi hen.
-Dialogue: 5,0:40:33.91,0:40:40.34,Main,,0,0,0,,Tuy nhiên, nói thế thôi chứ\N trên dưới phép tắc nó phải rõ ràng, đầy tớ.
-Dialogue: 5,0:40:40.34,0:40:46.08,Main,,0,0,0,,Trông thế này thôi,\N lão nương đây là ma cà rồng 500 năm tuổi rồi hen.
-Dialogue: 5,0:40:46.08,0:40:49.54,Main,,0,0,0,,Còn nhà ngươi thì chỉ là ma cà rồng sơ sinh.
-Dialogue: 5,0:40:49.54,0:40:53.42,Main,,0,0,0,,Về cơ bản, nhà ngươi chưa đủ tuổi để \Nngang hàng nói chuyện với ta.
-Dialogue: 5,0:40:53.83,0:40:55.39,Main,,0,0,0,,V-Vân—
-Dialogue: 5,0:40:55.39,0:40:58.67,Main,,0,0,0,,Cái gì thế?! Ấp a ấp úng thế!
-Dialogue: 5,0:40:58.67,0:41:00.68,Main,,0,0,0,,Có thật là hiểu được không đấy?
-Dialogue: 5,0:41:00.98,0:41:03.69,Main,,0,0,0,,À thì... hiểu mà—
-Dialogue: 5,0:41:03.69,0:41:08.31,Main,,0,0,0,,Vậy để chứng thực rằng nhà ngươi đã hiểu,\N hãy xoa đầu lão nương đi.
-Dialogue: 5,0:41:21.08,0:41:22.50,Main,,0,0,0,,Được, khá đấy.
-Dialogue: 5,0:41:33.45,0:41:37.16,Main,,0,0,0,,Tại sao lại biến tôi thành ma cà rồng?
-Dialogue: 5,0:41:38.58,0:41:43.56,Main,,0,0,0,,Tôi đã chấp nhận... \Nđể cô hút cạn... để cô giết chết.
-Dialogue: 5,0:41:44.41,0:41:47.69,Main,,0,0,0,,Không hẳn là ý định của ta.
-Dialogue: 5,0:41:47.69,0:41:52.97,Main,,0,0,0,,Hễ cứ bị ma cà rồng hút máu, \Nthì sẽ biến thành ma cà rồng, không có ngoại lệ.
-Dialogue: 5,0:41:52.97,0:41:54.63,Main,,0,0,0,,Có thế thôi hen.
-Dialogue: 5,0:41:54.63,0:41:57.00,Main,,0,0,0,,Vậy à...
-Dialogue: 5,0:41:57.57,0:42:01.85,Main,,0,0,0,,Mà, nói chung thế cũng tiện cho lão nương.
-Dialogue: 5,0:42:02.62,0:42:06.54,Main,,0,0,0,,Bởi có vài chuyện mà \Nlão nương đây cần nhà ngươi làm.
-Dialogue: 5,0:42:07.18,0:42:11.97,Main,,0,0,0,,Chỉ bằng máu nhà ngươi,\N cơ thể của ta chỉ phục hồi tới mức này được thôi.
-Dialogue: 5,0:42:12.64,0:42:15.70,Main,,0,0,0,,Hiện giờ thì còn lâu mới khôi phục được\N toàn bộ sức mạnh.
-Dialogue: 5,0:42:15.70,0:42:19.86,Main,,0,0,0,,Nên là từ giờ trở đi,\N ta cần nhà ngươi hành động.
-Dialogue: 5,0:42:21.14,0:42:22.81,Main,,0,0,0,,Cần tôi làm gì chứ?
-Dialogue: 5,0:42:30.69,0:42:31.81,Main,,0,0,0,,Tôi...
-Dialogue: 5,0:42:34.42,0:42:35.68,Main,,0,0,0,,Tôi...
-Dialogue: 5,0:42:36.72,0:42:38.82,Main,,0,0,0,,...có thể trở lại làm người không?
-Dialogue: 5,0:42:42.43,0:42:44.91,Main,,0,0,0,,Quả nhiên, ta biết ngay mừ.
-Dialogue: 5,0:42:44.91,0:42:47.37,Main,,0,0,0,,Ta biết nhà ngươi sẽ nói thế mừ.
-Dialogue: 5,0:42:47.37,0:42:49.71,Main,,0,0,0,,{\c&H00F0FF&}Thế rốt cuộc là như nào?
-Dialogue: 5,0:42:49.71,0:42:50.59,Main,,0,0,0,,Được.
-Dialogue: 5,0:42:52.45,0:42:53.82,Main,,0,0,0,,Lão nương đảm bảo.
-Dialogue: 5,0:42:54.53,0:42:56.46,Main,,0,0,0,,Lão nương thề danh dự.
-Dialogue: 5,0:43:22.97,0:43:27.72,Main,,0,0,0,,3 kẻ đó là những tay thợ săn ma cà rồng.
-Dialogue: 5,0:43:27.72,0:43:30.73,Main,,0,0,0,,Vậy là cô bị chúng diệt trừ à?
-Dialogue: 5,0:43:30.73,0:43:32.63,Main,,0,0,0,,Ăn nói hàm hồ!
-Dialogue: 5,0:43:32.63,0:43:34.25,Main,,0,0,0,,Vẫn còn chưa xong chuyện đâu hen.
-Dialogue: 5,0:43:34.85,0:43:37.97,Main,,0,0,0,,Nhưng... khốn khổ làm sao khi tay chân bị cướp đi.
-Dialogue: 5,0:43:37.97,0:43:40.59,Main,,0,0,0,,Khả năng tái tạo gần như về mo.
-Dialogue: 5,0:43:41.27,0:43:44.38,Main,,0,0,0,,Với tình trạng bây giờ thì không đánh đấm được.
-Dialogue: 5,0:43:44.38,0:43:45.39,Main,,0,0,0,,Nên là...
-Dialogue: 5,0:43:46.92,0:43:53.53,Main,,0,0,0,,Những gì nhà ngươi cần làm là hạ được 3 kẻ đó\N và lấy lại tay chân cho lão nương, thế là được rồi.
-Dialogue: 5,0:43:59.22,0:44:03.82,Main,,0,0,0,,"T-Thế là được rồi"?! \NĐâu dễ ăn như thế.
-Dialogue: 5,0:44:03.82,0:44:09.59,Main,,0,0,0,,Để biến nhà ngươi trở lại làm người,\N thì lão nương phải có toàn bộ sức mạnh.
-Dialogue: 5,0:44:09.59,0:44:12.12,Main,,0,0,0,,Nói chung, toàn bộ là toàn bộ.
-Dialogue: 5,0:44:12.77,0:44:17.67,Main,,0,0,0,,Và để làm được,\N buộc phải có đầy đủ tay chân.
-Dialogue: 5,0:44:18.39,0:44:23.58,Main,,0,0,0,,C-Có điều...\N bình thường tôi có biết đánh đấm đâu.
-Dialogue: 5,0:44:24.44,0:44:27.80,Main,,0,0,0,,Lỡ đâu, tôi bị giết thì sao?
-Dialogue: 5,0:44:27.80,0:44:29.11,Main,,0,0,0,,Đần độn.
-Dialogue: 5,0:44:29.11,0:44:32.69,Main,,0,0,0,,Đó là khi nhà ngươi vẫn còn là con người.
-Dialogue: 5,0:44:33.22,0:44:35.69,Main,,0,0,0,,Giờ mi đã là thân tín của ta zồi.
-Dialogue: 5,0:44:36.24,0:44:40.01,Main,,0,0,0,,Tại thời điểm này, khi lão nương ta yếu nhất.
-Dialogue: 5,0:44:40.01,0:44:44.70,Main,,0,0,0,,Dù ta là ma cà rồng tối cao \Nthì giết ta vẫn rất dễ dàng.
-Dialogue: 5,0:44:45.43,0:44:49.83,Main,,0,0,0,,Nói cách khác... cô đang là ma cà rồng yếu đuối.
-Dialogue: 5,0:44:49.83,0:44:51.26,Main,,0,0,0,,Hông nhá!
-Dialogue: 5,0:45:05.41,0:45:10.88,Main,,0,0,0,,Cơ mà, kể cả là giờ tôi \Ncó mạnh hơn cô ở trạng thái suy yếu này đi nữa,
-Dialogue: 5,0:45:10.88,0:45:17.00,Main,,0,0,0,,thì cũng đâu thể lấy lại được tay chân\N từ 3 kẻ đã đánh bại được cô ở trạng thái toàn bộ sức mạnh.
-Dialogue: 5,0:45:17.00,0:45:17.90,Main,,0,0,0,,Kiểu gì đây?
-Dialogue: 5,0:45:18.34,0:45:21.83,Main,,0,0,0,,Ta phạm sai lầm cân 3 một lúc.
-Dialogue: 5,0:45:21.83,0:45:23.51,Main,,0,0,0,,Do khinh địch.
-Dialogue: 5,0:45:25.46,0:45:26.91,Main,,0,0,0,,Tức là—nhá...
-Dialogue: 5,0:45:26.91,0:45:30.18,Main,,0,0,0,,Miễn là nhà ngươi một đánh một...
-Dialogue: 5,0:45:30.18,0:45:32.66,Main,,0,0,0,,thì 3 kẻ đó không là cái đinh gì.
-Dialogue: 5,0:45:33.03,0:45:36.17,Main,,0,0,0,,Thẳng thừng mà nói... đơn giản như đan rổ.
-Dialogue: 5,0:47:04.22,0:47:06.42,Main,,0,0,0,,S-Sao giờ đây!
-Comment: 5,0:47:18.54,0:47:24.00,Main,wth lines,0,0,0,,Phả?! Mái sì zây, tật zấy dà? Pê tế nở?{Hả?! Cái gì đây, thật đấy à? Phê thế nhở}
-Comment: 5,0:47:27.24,0:47:29.49,Main,wth lines,0,0,0,,Nông pải Xeart-inder-zlade.\N Tằng lày tằng lào?{Không phải Heart-under-blade.\N Thằng này thằng nào?}
-Comment: 5,0:47:30.36,0:47:33.50,Main,wth lines,0,0,0,,- — - - — - — - — — - - — - — — -
-Comment: 5,0:47:50.40,0:47:54.00,Main,wth lines,0,0,0,,— - — — - - - — - - — -  — - — — -
-Comment: 5,0:47:54.00,0:47:55.39,Main,wth lines,0,0,0,,
-Comment: 5,0:47:55.39,0:47:58.22,Main,wth lines,0,0,0,,
-Comment: 5,0:47:58.22,0:48:00.94,Main,wth lines,0,0,0,,
-Comment: 5,0:48:00.94,0:48:02.65,Main,wth lines,0,0,0,,
-Comment: 5,0:48:02.65,0:48:03.99,Main,wth lines,0,0,0,,
-Comment: 5,0:48:04.78,0:48:06.90,Main,wth lines,0,0,0,,
-Comment: 5,0:48:07.61,0:48:09.62,Main,wth lines,0,0,0,,
-Comment: 5,0:48:09.62,0:48:10.58,Main,wth lines,0,0,0,,
-Dialogue: 5,0:48:10.57,0:48:13.49,Main,,0,0,0,,M-Mấy người, bàn chuyện trước đã được không!
-Dialogue: 5,0:48:14.05,0:48:15.74,Main,,0,0,0,,T-Tôi là con người.
-Dialogue: 5,0:48:16.60,0:48:21.00,Main,,0,0,0,,Các người tính giết người thật à!!
-Dialogue: 5,0:49:18.49,0:49:21.64,Main,,0,0,0,,Ghê thật! Anh em có vẻ hăng quá nhỉ!
-Dialogue: 5,0:49:22.44,0:49:25.02,Main,,0,0,0,,Có gì hay ho đã xảy ra sao?
-Dialogue: 5,0:49:31.71,0:49:32.65,Main,,0,0,0,,Ơ?
-Dialogue: 5,0:49:43.94,0:49:46.55,Main,,0,0,0,,Cảm ơn ông đã cứu tôi.
-Dialogue: 5,0:49:47.54,0:49:49.11,Main,,0,0,0,,Ơn ủng gì.
-Dialogue: 5,0:49:49.11,0:49:51.40,Main,,0,0,0,,Chỉ có cậu mới cứu được cậu thôi.
-Dialogue: 5,0:49:51.40,0:49:52.42,Main,,0,0,0,,Araragi{*}-kun{*}.
-Dialogue: 5,0:49:56.31,0:49:58.43,Main,,0,0,0,,Gì mà đề phòng nhau thế.
-Dialogue: 5,0:50:05.11,0:50:08.13,Main,,0,0,0,,Mắt cứ trừng lên hết cả kìa.
-Dialogue: 5,0:50:08.13,0:50:09.79,Main,,0,0,0,,Hăng quá nhề.
-Dialogue: 5,0:50:09.79,0:50:11.94,Main,,0,0,0,,Có gì hay ho đã xảy ra sao?
-Dialogue: 5,0:50:17.29,0:50:20.28,Main,,0,0,0,,Mà, cứ về đi đã, Araragi{*}-kun{*}.
-Dialogue: 5,0:50:21.13,0:50:22.41,Main,,0,0,0,,Về cái giề?
-Dialogue: 5,0:50:24.97,0:50:27.63,Main,,0,0,0,,Về chỗ trường luyện thi đổ nát đó.
-Dialogue: 5,0:50:31.70,0:50:32.67,Main,,0,0,0,,Khoan đã nào!
-Dialogue: 5,0:50:32.67,0:50:35.25,Main,,0,0,0,,S-Sao ông lại biết?
-Dialogue: 5,0:50:36.31,0:50:38.05,Main,,0,0,0,,Lại chả biết thì sao.
-Dialogue: 5,0:50:38.05,0:50:42.93,Main,,0,0,0,,Ta là người nói cho nhỏ kia biết chỗ đó cơ mà.
-Dialogue: 5,0:50:44.74,0:50:48.46,Main,,0,0,0,,Kiểu... "thấy chuyện bất bình, rút đao tương trợ" thôi.
-Dialogue: 5,0:50:49.22,0:50:55.87,Main,,0,0,0,,Nhỏ đó, Heart-under-blade, \Ntrông có vẻ đang gặp khó khi kéo lê cái xác của cậu.
-Dialogue: 5,0:50:55.87,0:50:58.20,Main,,0,0,0,,Nên là ta có chỉ cho một chỗ tốt.
-Dialogue: 5,0:51:00.13,0:51:02.31,Main,,0,0,0,,Ông... {\alpha&HFF&}là cái ngữ gì?
-Dialogue: 5,0:51:02.31,0:51:03.48,Main,,0,0,0,,Ông... là cái ngữ gì?
-Dialogue: 5,0:51:04.18,0:51:07.20,Main,,0,0,0,,Ta chỉ là ông chú qua đường thôi.
-Dialogue: 5,0:51:10.98,0:51:12.98,Main,,0,0,0,,Yên tâm đê.
-Dialogue: 5,0:51:12.98,0:51:16.63,Main,,0,0,0,,Ta không phải thợ săn ma cà rồng đâu.
-Dialogue: 5,0:51:17.33,0:51:21.89,Main,,0,0,0,,Chuyên môn của ta rộng hơn,\N lo việc bao quát hơn.
-Dialogue: 5,0:51:22.20,0:51:25.68,Main,,0,0,0,,Mà, khâu giới thiệu để sau đi.
-Dialogue: 5,0:51:29.26,0:51:30.47,Main,,0,0,0,,Về rồi đấy à.
-Dialogue: 5,0:51:32.94,0:51:34.77,Main,,0,0,0,,Tên đằng sau...
-Dialogue: 5,0:51:34.77,0:51:36.15,Main,,0,0,0,,trông quen quen hen.
-Dialogue: 5,0:51:36.15,0:51:37.59,Main,,0,1080,0,,Đau lòng.
-Dialogue: 5,0:51:37.59,0:51:39.40,Main,,0,1080,0,,Nhận ra \Nđược có thế thôi à?
-Dialogue: 5,0:51:40.57,0:51:41.82,Main,,0,0,0,,Thế...
-Dialogue: 5,0:51:42.31,0:51:43.57,Main,,0,0,0,,mọi chuyện sao rồi?
-Dialogue: 5,0:51:52.58,0:51:54.75,Main,,0,0,0,,Khó nhằn đây.
-Dialogue: 5,0:51:54.75,0:51:58.45,Main,,0,0,0,,3 tên đó vẫn dính lấy nhau à.
-Dialogue: 5,0:51:58.45,0:52:05.01,Main,,0,0,0,,Tóm lại, ngay cả khi cô có toàn bộ sức mạnh\N mà vẫn bị 3 tên đó hạ đúng không?
-Dialogue: 5,0:52:05.01,0:52:09.22,Main,,0,0,0,,Thế thì tôi làm gì có cửa.
-Dialogue: 5,0:52:09.22,0:52:12.30,Main,,0,0,0,,Thì đó... từng tên một thôi.
-Dialogue: 5,0:52:12.30,0:52:15.11,Main,,0,0,0,,Chúng đi cùng nhau còn gì, sao mà được.
-Dialogue: 5,0:52:15.65,0:52:19.52,Main,,0,0,0,,Cho dù cô bảo cứ an binh bất động là được \Nnhưng mà...
-Dialogue: 5,0:52:19.52,0:52:21.71,Main,,0,0,0,,chả lẽ lại đợi chúng tìm ra chỗ này.
-Dialogue: 5,0:52:21.71,0:52:23.86,Main,,0,0,0,,Chuyện đó khỏi lo.
-Dialogue: 5,0:52:24.16,0:52:27.47,Main,,0,0,0,,Ngay tại đây,\N trong lúc cô cậu còn đang ngủ,
-Dialogue: 5,0:52:27.47,0:52:30.31,Main,,0,0,0,,ta đã bí mật dựng lên một kết giới.
-Dialogue: 5,0:52:31.07,0:52:32.52,Main,,0,0,0,,Kết giới?!
-Dialogue: 5,0:52:32.52,0:52:34.71,Main,,0,0,0,,Kiểu lá chắn ấy à?
-Dialogue: 5,0:52:34.71,0:52:36.63,Main,,0,0,0,,Ừm, kiểu đó đó.
-Dialogue: 5,0:52:38.00,0:52:39.90,Main,,600,0,0,,Ông... {\alpha&HFF&}rốt cuộc là sao?
-Dialogue: 5,0:52:39.90,0:52:41.59,Main,,600,0,0,,Ông... rốt cuộc là sao?
-Dialogue: 5,0:52:41.95,0:52:43.93,Main,,0,0,0,,Tại sao với Kiss-shot...
-Dialogue: 5,0:52:43.93,0:52:45.91,Main,,0,0,0,,...với chúng tôi, ông lại cứu thế?
-Dialogue: 5,0:52:46.88,0:52:49.54,Main,,0,0,0,,Tôi biết ông không phải kẻ thù nhưng...
-Dialogue: 5,0:52:49.54,0:52:52.81,Main,,0,0,0,,hẳn là ông cũng chẳng cùng phe.
-Dialogue: 5,0:52:58.09,0:53:00.69,Main,,0,0,0,,Độc mồm độc miệng quá~ Thật là!
-Dialogue: 5,0:53:01.08,0:53:04.20,Main,,0,0,0,,Ta ở đây... là để duy trì sự cân bằng.
-Dialogue: 5,0:53:04.57,0:53:07.73,Main,,0,0,0,,Để mà nói, có thể coi đây là công việc của ta.
-Dialogue: 5,0:53:07.73,0:53:10.33,Main,,0,0,0,,Là cây cầu nối giữa đây và đó.
-Dialogue: 5,0:53:11.62,0:53:13.33,Main,,0,0,0,,Giới thiệu đàng hoàng đi.
-Dialogue: 5,0:53:13.93,0:53:15.74,Main,,0,0,0,,Ông từng nói sẽ giới thiệu còn gì.
-Dialogue: 5,0:53:20.26,0:53:21.46,Main,,0,0,0,,Oshino Meme.
-Dialogue: 5,0:53:22.34,0:53:24.96,Main,,0,0,0,,Bốn bể là nhà, ung dung tự tại.
-Dialogue: 5,0:53:24.96,0:53:28.62,Main,,0,0,0,,Mà, hãy cứ nghĩ ta là người đáng tin cậy\N trong lĩnh vực yêu quái.
-Dialogue: 5,0:53:30.54,0:53:35.99,Main,,0,0,0,,Không như 3 tên kia,\N việc diệt trừ yêu quái không phải sở trường của ta.
-Dialogue: 5,0:53:35.99,0:53:37.56,Main,,0,0,0,,Không phải sở trường là sao?
-Dialogue: 5,0:53:38.42,0:53:40.74,Main,,0,0,0,,Thẳng thắn ra là...
-Dialogue: 5,0:53:40.74,0:53:42.82,Main,,0,0,0,,ta không thích.
-Dialogue: 5,0:53:42.82,0:53:45.86,Main,,0,0,0,,Nhưng đây là chuyên môn của ông mà?
-Dialogue: 5,0:53:46.14,0:53:49.12,Main,,0,0,0,,Chuyên môn của ta, như đã nói, \Nlà sự cân bằng.
-Dialogue: 5,0:53:49.61,0:53:52.62,Main,,0,0,0,,Đứng ở giữa, \Nthương lượng sao cho trung lập.
-Dialogue: 5,0:53:53.18,0:53:55.87,Main,,0,0,0,,Mà, buộc phải nói thì là nhà thương thuyết.
-Dialogue: 5,0:53:57.03,0:53:58.16,Main,,0,0,0,,{\i1}Thương thuyết?
-Dialogue: 5,0:53:58.90,0:54:02.17,Main,,0,0,0,,{\i1}Là cây cầu nối giữa đây và đó?
-Dialogue: 5,0:54:03.59,0:54:07.22,Main,,0,0,0,,{\i1}Đây là ở đâu? Đó là chỗ nào?
-Dialogue: 5,0:54:07.72,0:54:10.97,Main,,0,0,0,,Đây là con người à? Đó là yêu ma quái sao?
-Dialogue: 5,0:54:15.34,0:54:16.35,Main,,0,0,0,,Yêu ma quái?
-Dialogue: 5,0:54:16.82,0:54:18.00,Main,,0,0,0,,Hay đấy.
-Dialogue: 5,0:54:18.00,0:54:19.98,Main,,0,0,0,,Ta thì gọi là Quái Dị.
-Dialogue: 5,0:54:22.11,0:54:25.99,Main,,0,0,0,,Còn nhỏ kia thì là Sát Quái Dị.
-Dialogue: 5,0:54:26.32,0:54:30.89,Main,,0,0,0,,Ma cà rồng của hiếm có khả năng \NBòn Rút Năng Lượng từ Quái Dị.
-Dialogue: 5,0:54:30.89,0:54:34.39,Main,,0,0,0,,Mà đó cũng là thứ khiến nhỏ nổi tiếng ha.
-Dialogue: 5,0:54:37.91,0:54:42.51,Main,,0,0,0,,Ban nãy cô cậu nói chuyện, ta đã có nghe qua.
-Dialogue: 5,0:54:43.34,0:54:46.67,Main,,0,0,0,,Cũng khoai ra phết đấy.
-Dialogue: 5,0:54:46.67,0:54:50.04,Main,,0,0,0,,Ta chưa từng nghĩ là nó sẽ rắc rối tới vậy.
-Dialogue: 5,0:54:50.04,0:54:51.68,Main,,0,0,0,,Rắc rối cái nỗi gì.
-Dialogue: 5,0:54:51.68,0:54:53.26,Main,,0,0,0,,Dễ dàng là đằng khác.
-Dialogue: 5,0:54:53.57,0:54:58.27,Main,,0,0,0,,Từ quan điểm của một ma cà rồng cổ đại,\N thì cũng đúng.
-Dialogue: 5,0:54:59.52,0:55:02.78,Main,,0,0,0,,Chứ còn với con người chúng tôi \Nthì là cả vấn đề.
-Dialogue: 5,0:55:02.78,0:55:04.53,Main,,0,0,0,,Nhể, Araragi{*}-kun{*}?
-Dialogue: 5,0:55:10.26,0:55:14.45,Main,,0,0,0,,Mà này, ta là ta thích đấy,\N Heart-under-blade.
-Dialogue: 5,0:55:14.90,0:55:21.59,Main,,0,0,0,,Thích cái cách mà cô quyết tâm đưa Araragi-kun,\N thân tín của cô, trở lại làm người.
-Dialogue: 5,0:55:32.92,0:55:36.35,Main,,0,0,180,,Nếu được, hay là để ta "đứng ở giữa" cho.
-Dialogue: 5,0:55:37.85,0:55:43.28,Main,,0,0,0,,Đ-Đứng ở giữa tức là... \Nở giữa chúng tôi và 3 tên đó à?
-Dialogue: 5,0:55:43.28,0:55:44.48,Main,,0,0,0,,Còn ai khác à?
-Dialogue: 5,0:55:45.52,0:55:48.99,Main,,0,0,0,,Ô-Ông sẽ cứu ư?
-Dialogue: 5,0:55:49.66,0:55:52.21,Main,,0,0,0,,Không phải cứu, chỉ là giúp chút sức thôi.
-Dialogue: 5,0:55:52.82,0:55:55.71,Main,,0,0,0,,Hiện giờ, đúng là có hơi...
-Dialogue: 5,0:55:55.71,0:55:58.81,Main,,0,0,0,,cảm thấy không cân bằng cho lắm.
-Dialogue: 5,0:55:58.81,0:56:00.87,Main,,0,0,0,,Cứ như đang xem bắt nạt vậy.
-Dialogue: 5,0:56:02.41,0:56:08.33,Main,,0,0,0,,À phải, tại đây cũng là công việc cả mà,\N nên không làm không công được.
-Dialogue: 5,0:56:08.98,0:56:10.13,Main,,0,0,0,,Để xem nào...
-Dialogue: 5,0:56:11.78,0:56:13.51,Main,,0,0,0,,2 triệu thấy sao?
-Dialogue: 5,0:56:13.82,0:56:15.26,Main,,900,0,0,,2 triệu?!
-Dialogue: 5,0:56:15.86,0:56:18.60,Main,,0,0,0,,Bao giờ trả cũng được.
-Dialogue: 5,0:56:18.60,0:56:23.77,Main,,0,0,0,,Nó phải tốn từng ấy\N mới duy trì được sự cân bằng.
-Dialogue: 5,0:56:24.69,0:56:27.02,Main,,0,0,0,,N-Nhưng mà...
-Dialogue: 5,0:56:29.96,0:56:32.66,Main,,0,0,0,,Còn phải nghe kế hoạch cụ thể như nào đã hen.
-Dialogue: 5,0:56:35.77,0:56:38.66,Main,,0,0,0,,Thương lượng nghe thì hay đấy,\N chứ đâu có dễ.
-Dialogue: 5,0:56:39.11,0:56:42.16,Main,,600,0,0,,Thuyết phục được 3 tên đó \Nđâu phải chuyện đùa.
-Dialogue: 5,0:56:42.16,0:56:46.29,Main,,0,0,0,,Tất cả những gì ta có thể làm là \Ncúi đầu cầu xin thôi.
-Dialogue: 5,0:56:48.38,0:56:50.13,Main,,0,0,0,,Tỏ rõ thành ý.
-Dialogue: 5,0:56:50.58,0:56:54.89,Main,,0,0,0,,Nếu xin không được,\N thì mới tới lúc cho những ý tưởng nguy hiểm hơn.
-Dialogue: 5,0:56:54.89,0:56:58.64,Main,,0,0,0,,Nếu may mắn dùng miệng lưỡi được,\N thì trò chơi bắt đầu.
-Dialogue: 5,0:56:59.07,0:57:01.89,Main,,0,0,0,,Trò chơi... cơ à?
-Dialogue: 5,0:57:03.40,0:57:07.55,Main,,0,0,420,,Đầu tiên là làm sao để tách chúng ra.
-Dialogue: 5,0:57:07.55,0:57:11.25,Main,,0,0,420,,Giải quyết từng tên một thì không thành vấn đề.
-Dialogue: 5,0:57:11.25,0:57:15.07,Main,,0,0,420,,Heart-under-blade, cô từng nói thế đúng chứ?
-Dialogue: 5,0:57:15.07,0:57:18.03,Main,,0,0,420,,Đã vậy thì, cứ thế mà làm.
-Dialogue: 5,0:57:18.03,0:57:20.67,Main,,0,0,0,,Cơ mà ấy, nhóc!
-Dialogue: 5,0:57:20.67,0:57:23.67,Main,,0,0,0,,Nhóc thương lượng với 3 tên đó thế nào đây?
-Dialogue: 5,0:57:24.04,0:57:27.02,Main,,0,0,0,,Thiên cơ bất khả lộ.
-Dialogue: 5,0:57:27.02,0:57:29.67,Main,,0,0,0,,Sàn đấu để ta dàn xếp.
-Dialogue: 5,0:57:30.13,0:57:34.51,Main,,0,0,0,,Còn Araragi{*}-kun{*} \Nthì lên đài lấy lại tay chân từ chúng.
-Dialogue: 5,0:57:35.80,0:57:41.21,Main,,0,0,0,,Nếu lấy lại được tay chân,\NHeart-under-blade sẽ khôi phục toàn bộ sức mạnh.
-Dialogue: 5,0:57:41.21,0:57:46.52,Main,,0,0,0,,Qua đó, Araragi-kun có thể bình an\N trở lại làm người.
-Dialogue: 5,0:57:49.05,0:57:50.27,Main,,0,0,0,,Này! Đầy tớ!
-Dialogue: 5,0:57:51.85,0:57:54.89,Main,,600,0,0,,Tiền bạc của con người\N thì lão nương không lo được.
-Dialogue: 5,0:57:54.89,0:57:59.52,Main,,600,0,0,,Cái khoản nợ 2 triệu yên là bao nhiều \Nthú thật ta chịu.
-Dialogue: 5,0:58:00.14,0:58:03.29,Main,,600,0,0,,Ta chỉ hỏi liệu nhà ngươi \Ncó gánh được khoản nợ đó không?
-Dialogue: 5,0:58:06.82,0:58:08.61,Main,,800,0,0,,Khỏi lo.
-Dialogue: 5,0:58:08.61,0:58:10.96,Main,,800,0,0,,Thằng nhóc này \Nđúng là có kỹ năng thật.
-Dialogue: 5,0:58:11.49,0:58:15.22,Main,,0,0,0,,Dù ta có đang yếu, nhưng ta vẫn nhìn ra.
-Dialogue: 5,0:58:17.38,0:58:19.35,Main,,0,0,0,,Tôi không tiết kiệm được nhiều thế.
-Dialogue: 5,0:58:20.28,0:58:22.83,Main,,0,0,0,,Nhưng nếu không cần thiết phải trả ngay,
-Dialogue: 5,0:58:22.83,0:58:26.98,Main,,0,0,0,,và cũng không cần \Nthế chấp hay chứng thực bảo lãnh thì...
-Dialogue: 5,0:58:28.08,0:58:29.35,Main,,0,0,0,,...tôi gánh được.
-Dialogue: 5,0:58:31.39,0:58:33.48,Main,,0,0,0,,Vậy chốt!
-Dialogue: 5,0:58:34.61,0:58:35.83,Main,,0,0,0,,Đa tạ khách quan.
-Dialogue: 5,0:58:36.49,0:58:37.91,Main,,0,0,0,,Đùa tý~
-Dialogue: 5,1:02:43.65,1:02:46.19,Main,preview,0,0,0,,{\i1}Mạng đền mạng, nợ máu trả máu.
-Dialogue: 5,1:02:46.52,1:02:49.45,Main,preview,0,0,0,,{\i1}Ma cà rồng đền ma cà rồng... hen!
-Dialogue: 5,1:02:50.28,1:02:52.49,Main,preview,0,0,0,,{\i1}Vậy bắt đầu thôi!
-Dialogue: 5,1:02:53.24,1:02:54.16,Main,preview,0,0,0,,{\i1}Hài vãi.
-Dialogue: 5,1:02:55.83,1:02:58.67,Main,preview,0,0,0,,{\i1}Khó chịu thế nhờ.
-Dialogue: 5,1:03:02.39,1:03:03.04,Main,preview,0,0,0,,{\i1}Araragi{*}-kun{*}!
-Dialogue: 5,1:03:04.30,1:03:06.34,Main,preview,0,0,0,,{\i1}Đừng bận tâm tới tớ.
-Dialogue: 5,1:03:06.34,1:03:08.68,Main,preview,0,0,0,,{\i1}Đừng bận tâm thế nào được!
-Dialogue: 5,1:03:08.68,1:03:10.55,Main,preview,0,0,0,,{\i1}Nếu chẳng thể gặp lại cậu nữa,
-Dialogue: 5,1:03:10.55,1:03:13.18,Main,preview,0,0,0,,{\i1}thì trở lại làm người còn nghĩa lý gì nữa.
-Dialogue: 5,1:03:13.78,1:03:15.02,Main,preview,0,0,0,,{\i1}Araragi{*}-kun{*}.
-Dialogue: 5,1:03:16.44,1:03:18.33,Main,preview,0,0,8,,{\i1}Từ bỏ làm người đi.
+Dialogue: 0,0:33:29.53,0:33:31.07,Main,,0,0,0,,N-Này!
+Dialogue: 0,0:33:31.43,0:33:33.29,Main,,0,0,0,,D-Dậy đi.
+Dialogue: 0,0:33:38.06,0:33:39.32,Main,,0,0,0,,Đợi 5 phút nữa đi.
+Dialogue: 0,0:33:41.02,0:33:43.04,Main,,0,0,0,,Kêu dậy cơ mà.
+Dialogue: 0,0:33:44.15,0:33:46.15,Main,,0,0,0,,Đợi có tâm trạng đã.
+Dialogue: 0,0:33:48.21,0:33:50.16,Main,,0,0,0,,Tính ngủ tới bao giờ hả?!
+Dialogue: 0,0:33:55.22,0:33:56.97,Main,,0,0,0,,Tầm 4,6 tỷ năm.
+Dialogue: 0,0:33:59.68,0:34:02.35,Main,,0,0,0,,Thế thì lòi ra Trái Đất khác luôn rồi.
+Dialogue: 0,0:34:08.55,0:34:10.98,Main,,0,0,160,,Đã 2 ngày rồi sao?
+Dialogue: 0,0:34:50.23,0:34:51.24,Main,,0,0,160,,Đần độn!
+Dialogue: 0,0:35:56.05,0:35:57.13,Main,,0,0,160,,Đúng là!
+Dialogue: 0,0:36:00.74,0:36:05.14,Main,,0,0,0,,Trên đời lại có cái loại đần đến cái mức \Nkhơi khơi bước ra ngoài nắng như thật.
+Dialogue: 0,0:36:05.58,0:36:09.54,Main,,0,0,0,,Cỡ ma cà rồng tầm trung\N là bốc hơi ngay lập tức luôn đấy.
+Dialogue: 0,0:36:14.99,0:36:18.15,Main,,0,0,0,,Đừng có mà dại bước chân ra ngoài nắng.
+Dialogue: 0,0:36:18.85,0:36:20.98,Main,,0,0,0,,Với cái bất tử chưa đến nơi đến chốn đó,
+Dialogue: 0,0:36:20.98,0:36:24.86,Main,,0,0,0,,thì sẽ bị thiêu, rồi phục hồi,\N rồi lại bị thiêu, rồi phục hồi.
+Dialogue: 0,0:36:24.86,0:36:26.66,Main,,0,0,0,,Vòng lặp vô hạn.
+Dialogue: 0,0:36:37.78,0:36:43.43,Main,,0,0,0,,Mà... đấy là nếu nhà ngươi\N coi việc ma cà rồng bất tử tức là vẫn còn sống.
+Dialogue: 0,0:36:46.22,0:36:48.93,Main,,0,0,0,,Ma cà—rồng?!
+Dialogue: 0,0:36:48.93,0:36:52.68,Main,,0,0,0,,Vậy—Cô... lẽ nào...
+Dialogue: 0,0:36:57.36,0:37:04.15,Main,,0,0,0,,Như nhà ngươi thấy đó, lão nương đây,\N Kiss-shot Acerola-orion Heart-under-blade.
+Dialogue: 0,0:37:04.90,0:37:07.53,Main,,0,0,0,,Gọi Heart-under-blade là được rồi.
+Dialogue: 0,0:37:09.78,0:37:12.75,Main,,0,0,0,,Đã 400 năm kể từ lần cuối lão nương \Ntạo ra "thân tín".
+Dialogue: 0,0:37:12.75,0:37:14.28,Main,,0,0,0,,Nhà ngươi là kẻ thứ 2.
+Dialogue: 0,0:37:14.28,0:37:18.13,Main,,0,0,0,,Cơ mà, nhìn vào khả năng phục hồi...
+Dialogue: 0,0:37:18.56,0:37:20.21,Main,,0,0,0,,xem ra là thành công tốt đẹp hen.
+Dialogue: 0,0:37:20.21,0:37:21.09,Main,,0,0,0,,T-Thân tín?
+Dialogue: 0,0:37:21.09,0:37:22.34,Main,,0,0,160,,T-Thân tín?
+Dialogue: 0,0:37:22.66,0:37:25.01,Main,,0,0,0,,Phải! Và thế là có... nhà ngươi!
+Dialogue: 0,0:37:28.40,0:37:32.47,Main,,0,0,0,,À mà phải, \Nlão nương vẫn chưa biết tên nhà ngươi hen.
+Dialogue: 0,0:37:36.03,0:37:37.45,Main,,0,0,0,,Mà chả sao cả.
+Dialogue: 0,0:37:37.45,0:37:42.11,Main,,0,0,0,,Trước đây tên nhà ngươi có là gì \Nthì bây giờ cũng vô nghĩa thôi.
+Dialogue: 0,0:37:43.24,0:37:44.86,Main,,0,0,0,,Tóm lại này đầy tớ,
+Dialogue: 0,0:37:46.86,0:37:49.79,Main,,0,0,0,,chào mừng tới thế giới đêm.
+Dialogue: 0,0:38:13.86,0:38:14.47,Main,,0,0,0,,Đâ—
+Dialogue: 0,0:38:16.64,0:38:18.73,Main,,0,0,0,,Đây là đâu thế?
+Dialogue: 0,0:38:23.98,0:38:27.89,Main,,0,0,0,,{\c&H00F0FF&}Không nhầm thì...\N hình như nó được gọi là "trường luyện thi".
+Dialogue: 0,0:38:27.89,0:38:32.62,Main,,0,0,0,,{\c&H00F0FF&}Có vẻ vài năm trước làm ăn thất bát, \Ngiờ chỉ còn là đống đổ nát thôi.
+Dialogue: 0,0:38:32.62,0:38:35.84,Main,,0,0,0,,{\c&H00F0FF&}Chỗ này rất phù hợp để ẩn náu hen.
+Dialogue: 0,0:38:38.12,0:38:40.71,Main,,0,0,160,,Vậy, Kiss-shot, thắc mắc tiếp theo là...
+Dialogue: 0,0:38:40.71,0:38:41.75,Main,,0,0,0,,Khoan đã!
+Dialogue: 0,0:38:41.75,0:38:45.46,Main,,0,0,0,,Lão nương đã bảo nhà ngươi gọi lão nương là \NHeart-under-blade rồi cơ mà.
+Dialogue: 0,0:38:45.99,0:38:47.74,Main,,0,0,0,,Gọi thế dài quá.
+Dialogue: 0,0:38:48.40,0:38:50.45,Main,,0,0,0,,Kiss-shot ngắn hơn, tiện hơn.
+Dialogue: 0,0:38:51.12,0:38:53.97,Main,,0,0,0,,Hay là không được phép gọi thế à?
+Dialogue: 0,0:38:55.96,0:38:56.89,Main,,0,0,0,,Hông.
+Dialogue: 0,0:38:57.65,0:39:02.19,Main,,0,0,0,,Mà cũng được, \Nnhà ngươi thấy ổn thì cứ vậy đi hen.
+Dialogue: 0,0:39:02.96,0:39:04.54,Main,,0,0,0,,Cũng chẳng có lý do để từ chối.
+Dialogue: 0,0:39:06.51,0:39:07.44,Main,,0,0,0,,Thế...
+Dialogue: 0,0:39:07.85,0:39:09.95,Main,,0,0,0,,...thắc mắc tiếp theo là gì vậy?
+Dialogue: 0,0:39:10.48,0:39:11.95,Main,,0,0,0,,À thì...
+Dialogue: 0,0:39:11.95,0:39:16.60,Main,,0,0,0,,Tôi đã trở thành ma cà rồng rồi nhở?
+Dialogue: 0,0:39:16.60,0:39:18.34,Main,,0,0,0,,Chả thế thì sao.
+Dialogue: 0,0:39:18.34,0:39:21.29,Main,,0,0,0,,Lại còn cần lão nương giải thích nữa à.
+Dialogue: 0,0:39:21.29,0:39:25.66,Main,,0,0,0,,Nhà ngươi trở thành thân tín của lão nương,\N đầy tớ của lão nương.
+Dialogue: 0,0:39:25.66,0:39:27.03,Main,,0,0,0,,Phúc phận của nhà ngươi đấy.
+Dialogue: 0,0:39:27.78,0:39:29.14,Main,,0,0,0,,Đầy tớ ấy à...
+Dialogue: 0,0:39:30.47,0:39:35.67,Main,,0,0,0,,Vậy... tại sao cơ thể cô lại là của trẻ con?
+Dialogue: 0,0:39:35.67,0:39:40.18,Main,,0,0,0,,Lúc chúng ta gặp nhau, \Ntrông cô... người lớn hơn mà.
+Dialogue: 0,0:39:41.45,0:39:43.69,Main,,0,0,0,,Xin lỗi vì trẻ con nhá!
+Dialogue: 0,0:39:43.69,0:39:46.07,Main,,0,0,0,,Ấy, không phải thế.
+Dialogue: 0,0:39:56.20,0:39:59.45,Main,,0,0,0,,Lão nương đã hút cạn máu của nhà ngươi.
+Dialogue: 0,0:39:59.88,0:40:02.73,Main,,0,600,0,,Nhưng từng đó là không thể đủ được hen.
+Dialogue: 0,0:40:02.73,0:40:06.26,Main,,0,600,0,,Chính vì thế mà\N trông lão nương như này đây.
+Dialogue: 0,0:40:06.26,0:40:08.46,Main,,0,600,0,,Vẫn còn tốt hơn là chết hen.
+Dialogue: 0,0:40:08.90,0:40:12.39,Main,,0,0,0,,Cơ mà ấy, lão nương chỉ có thể \Nduy trì khả năng bất tử ở mức tối thiểu.
+Dialogue: 0,0:40:12.39,0:40:16.50,Main,,0,0,0,,Hầu hết năng lực của ma cà rồng\N đều đã bị hạn chế.
+Dialogue: 0,0:40:16.50,0:40:18.35,Main,,0,0,0,,Bất tiện thật chứ.
+Dialogue: 0,0:40:22.00,0:40:26.63,Main,,0,0,0,,Dù là đã tái tạo rồi đấy,\N nhưng tứ chi thì trông như thế này đây.
+Dialogue: 0,0:40:27.35,0:40:30.15,Main,,0,0,0,,Mà... bên trong thì vẫn còn trống...
+Dialogue: 0,0:40:30.65,0:40:33.91,Main,,0,0,0,,Cơ mà ấy, hiện tại thế này là ổn rồi hen.
+Dialogue: 0,0:40:33.91,0:40:40.34,Main,,0,0,0,,Tuy nhiên, nói thế thôi chứ\N trên dưới phép tắc nó phải rõ ràng, đầy tớ à.
+Dialogue: 0,0:40:40.34,0:40:46.08,Main,,0,0,0,,Trông thế này thôi,\N chứ lão nương đây là ma cà rồng 500 năm tuổi rồi hen.
+Dialogue: 0,0:40:46.08,0:40:49.54,Main,,0,0,0,,Còn nhà ngươi thì chỉ là ma cà rồng sơ sinh.
+Dialogue: 0,0:40:49.54,0:40:53.42,Main,,0,0,0,,Về cơ bản, nhà ngươi chưa đủ tuổi để \Nngang hàng nói chuyện với lão nương.
+Dialogue: 0,0:40:53.83,0:40:55.39,Main,,0,0,0,,V-Vân—
+Dialogue: 0,0:40:55.39,0:40:58.67,Main,,0,0,0,,Cái gì thế?! Ấp a ấp úng thế!
+Dialogue: 0,0:40:58.67,0:41:00.68,Main,,0,0,0,,Có thật là hiểu được không đấy?
+Dialogue: 0,0:41:00.98,0:41:03.69,Main,,0,0,0,,À thì... hiểu mà—
+Dialogue: 0,0:41:03.69,0:41:08.31,Main,,0,0,0,,Vậy để chứng thực rằng nhà ngươi đã hiểu,\N hãy xoa đầu lão nương đi.
+Dialogue: 0,0:41:21.08,0:41:22.50,Main,,0,0,0,,Được, khá đấy.
+Dialogue: 0,0:41:33.45,0:41:37.16,Main,,0,0,0,,Tại sao lại biến tôi thành ma cà rồng?
+Dialogue: 0,0:41:38.58,0:41:43.56,Main,,0,0,0,,Tôi đã chấp nhận... \Nđể cô hút cạn... để cô giết chết.
+Dialogue: 0,0:41:44.41,0:41:47.69,Main,,0,0,0,,Lão nương không hẳn là có ý định đấy.
+Dialogue: 0,0:41:47.69,0:41:52.97,Main,,0,0,0,,Hễ cứ bị ma cà rồng hút máu, \Nthì sẽ biến thành ma cà rồng, không có ngoại lệ.
+Dialogue: 0,0:41:52.97,0:41:54.63,Main,,0,0,0,,Đơn giản vậy thôi.
+Dialogue: 0,0:41:54.63,0:41:57.00,Main,,0,0,0,,Vậy à...
+Dialogue: 0,0:41:57.57,0:42:01.85,Main,,0,0,0,,Mà, nói chung thế cũng tiện cho lão nương.
+Dialogue: 0,0:42:02.62,0:42:06.54,Main,,0,0,0,,Bởi có vài chuyện mà \Nlão nương đây cần nhà ngươi làm.
+Dialogue: 0,0:42:07.18,0:42:11.97,Main,,0,0,0,,Chỉ bằng máu nhà ngươi,\N cơ thể của lão nương chỉ phục hồi được nhiêu đây thôi.
+Dialogue: 0,0:42:12.64,0:42:15.70,Main,,0,0,0,,Hiện giờ thì còn lâu mới khôi phục được\N toàn bộ sức mạnh.
+Dialogue: 0,0:42:15.70,0:42:19.86,Main,,0,0,0,,Nên là từ giờ trở đi,\N lão nương cần nhà ngươi hành động.
+Dialogue: 0,0:42:21.14,0:42:22.81,Main,,0,0,0,,Cần tôi làm gì chứ?
+Dialogue: 0,0:42:30.69,0:42:31.81,Main,,0,0,0,,Tôi...
+Dialogue: 0,0:42:34.42,0:42:35.68,Main,,0,0,0,,Tôi...
+Dialogue: 0,0:42:36.72,0:42:38.82,Main,,0,0,0,,...có thể trở lại làm người không?
+Dialogue: 0,0:42:42.43,0:42:44.91,Main,,0,0,0,,Quả nhiên, lão nương biết mà.
+Dialogue: 0,0:42:44.91,0:42:47.37,Main,,0,0,0,,Lão nương biết nhà ngươi sẽ nói thế mà.
+Dialogue: 0,0:42:47.37,0:42:49.71,Main,,0,0,0,,{\c&H00F0FF&}Thế rốt cuộc là như nào? Liệu tôi...
+Dialogue: 0,0:42:49.71,0:42:50.59,Main,,0,0,160,,Được.
+Dialogue: 0,0:42:52.45,0:42:53.82,Main,,0,0,0,,Lão nương đảm bảo.
+Dialogue: 0,0:42:54.53,0:42:56.46,Main,,0,0,0,,Lão nương thề danh dự.
+Dialogue: 0,0:43:22.97,0:43:27.72,Main,,0,0,0,,3 tên đó là những tay thợ săn ma cà rồng.
+Dialogue: 0,0:43:27.72,0:43:30.73,Main,,0,0,0,,Vậy là cô bị chúng diệt trừ à?
+Dialogue: 0,0:43:30.73,0:43:32.63,Main,,0,0,0,,Ăn nói hàm hồ!
+Dialogue: 0,0:43:32.63,0:43:34.25,Main,,0,0,0,,Vẫn còn chưa xong chuyện đâu hen.
+Dialogue: 0,0:43:34.85,0:43:37.97,Main,,0,0,0,,Nhưng... khốn khổ làm sao khi tứ chi bị lấy đi.
+Dialogue: 0,0:43:37.97,0:43:40.59,Main,,0,0,0,,Khả năng tái tạo gần như về mo.
+Dialogue: 0,0:43:41.18,0:43:44.38,Main,,0,0,0,,Với tình trạng bây giờ \Nthì không đánh đấm gì được.
+Dialogue: 0,0:43:44.38,0:43:45.39,Main,,0,0,0,,Nên là...
+Dialogue: 0,0:43:46.92,0:43:53.53,Main,,0,0,0,,Những gì nhà ngươi cần làm là hạ được 3 tên đó\N và lấy lại tứ chi cho lão nương, vậy là được.
+Dialogue: 0,0:43:59.22,0:44:03.82,Main,,0,0,0,,"V-Vậy là được"?! \NĐâu dễ ăn như thế.
+Dialogue: 0,0:44:03.82,0:44:09.59,Main,,0,0,0,,Để biến nhà ngươi trở lại làm người,\N thì lão nương phải có toàn bộ sức mạnh.
+Dialogue: 0,0:44:09.59,0:44:12.12,Main,,0,0,0,,Nói chung, ở dạng nguyên vẹn.
+Dialogue: 0,0:44:12.77,0:44:17.67,Main,,0,0,0,,Và vì thế, buộc phải có đầy đủ tứ chi.
+Dialogue: 0,0:44:18.39,0:44:23.58,Main,,0,0,0,,C-Có điều...\N bình thường tôi có đánh đấm gì đâu.
+Dialogue: 0,0:44:24.44,0:44:27.80,Main,,0,0,0,,Lỡ đâu, tôi bị giết thì sao?
+Dialogue: 0,0:44:27.80,0:44:29.11,Main,,0,0,0,,Đần độn.
+Dialogue: 0,0:44:29.11,0:44:32.69,Main,,0,0,0,,Đó là khi nhà ngươi vẫn còn là con người thôi.
+Dialogue: 0,0:44:33.22,0:44:35.69,Main,,800,0,0,,Chứ giờ nhà ngươi \Nđã là thân tín của lão nương rồi.
+Dialogue: 0,0:44:36.24,0:44:40.01,Main,,0,0,0,,Tại thời điểm này,\N khi mà lão nương ta yếu nhất.
+Dialogue: 0,0:44:40.01,0:44:44.70,Main,,0,0,0,,Dù cho lão nương có là ma cà rồng tối thượng \Nthì việc giết lão nương vẫn rất dễ dàng.
+Dialogue: 0,0:44:45.43,0:44:49.83,Main,,0,0,0,,Nói cách khác... cô đang là ma cà rồng phế vật.
+Dialogue: 0,0:44:49.83,0:44:51.26,Main,,0,0,0,,Hông nhá!
+Dialogue: 0,0:45:05.41,0:45:10.88,Main,,0,0,0,,Cơ mà, kể cả bây giờ \Ntôi có mạnh hơn cô ở trạng thái suy yếu này đi nữa.
+Dialogue: 0,0:45:10.88,0:45:17.00,Main,,0,0,0,,Thì cũng đâu có cửa với 3 tên đã đánh bại cô\N khi cô có toàn bộ sức mạnh.
+Dialogue: 0,0:45:17.00,0:45:17.90,Main,,0,0,0,,Sao mà được.
+Dialogue: 0,0:45:18.34,0:45:21.83,Main,,0,0,0,,Là do lão nương đã phạm sai lầm \Ncân cả 3 một lúc.
+Dialogue: 0,0:45:21.83,0:45:23.51,Main,,0,0,0,,Do khinh địch.
+Dialogue: 0,0:45:25.46,0:45:26.91,Main,,0,0,0,,Tức là—nhá...
+Dialogue: 0,0:45:26.91,0:45:30.18,Main,,0,0,0,,Miễn là nhà ngươi cứ một đánh một...
+Dialogue: 0,0:45:30.18,0:45:32.66,Main,,0,0,0,,thì 3 tên đó không là cái đinh gì.
+Dialogue: 0,0:45:33.03,0:45:36.17,Main,,0,0,0,,Nói trắng ra... đơn giản như đan rổ.
+Dialogue: 0,0:47:04.22,0:47:06.42,Main,,0,0,0,,L-Làm sao bây giờ!
+Comment: 0,0:47:18.54,0:47:24.00,Main,wth lines,0,0,0,,Phả?! Mái sì zây, tật zấy dà? Pê tế nở?{Hả?! Cái gì đây, thật đấy à? Phê thế nhở}
+Comment: 0,0:47:27.24,0:47:29.49,Main,wth lines,0,0,0,,Nông pải Xeart-inder-zlade.\N Tằng lày tằng lào?{Không phải Heart-under-blade.\N Thằng này thằng nào?}
+Comment: 0,0:47:30.36,0:47:33.50,Main,wth lines,0,0,0,,- — - - — - — - — — - - — - — — -
+Comment: 0,0:47:50.40,0:47:54.00,Main,wth lines,0,0,0,,— - — — - - - — - - — -  — - — — -
+Comment: 0,0:47:54.00,0:47:55.39,Main,wth lines,0,0,0,,
+Comment: 0,0:47:55.39,0:47:58.22,Main,wth lines,0,0,0,,
+Comment: 0,0:47:58.22,0:48:00.94,Main,wth lines,0,0,0,,
+Comment: 0,0:48:00.94,0:48:02.65,Main,wth lines,0,0,0,,
+Comment: 0,0:48:02.65,0:48:03.99,Main,wth lines,0,0,0,,
+Comment: 0,0:48:04.78,0:48:06.90,Main,wth lines,0,0,0,,
+Comment: 0,0:48:07.61,0:48:09.62,Main,wth lines,0,0,0,,
+Comment: 0,0:48:09.62,0:48:10.58,Main,wth lines,0,0,0,,
+Dialogue: 0,0:48:10.57,0:48:13.49,Main,,0,0,0,,M-Mấy người, nói chuyện trước đã được không!
+Dialogue: 0,0:48:14.05,0:48:15.74,Main,,0,0,0,,T-Tôi là con người.
+Dialogue: 0,0:48:16.60,0:48:21.00,Main,,0,0,0,,Các người tính giết người thật à!!
+Dialogue: 0,0:49:18.49,0:49:21.64,Main,,0,0,0,,Ghê thật! Anh em có vẻ hăng quá nhỉ!
+Dialogue: 0,0:49:22.44,0:49:25.02,Main,,0,0,0,,Có gì hay ho đã xảy ra sao?
+Dialogue: 0,0:49:31.71,0:49:32.65,Main,,0,0,0,,Ơ?
+Dialogue: 0,0:49:43.94,0:49:46.55,Main,,0,0,0,,Cảm ơn ông đã cứu tôi.
+Dialogue: 0,0:49:47.54,0:49:49.11,Main,,0,0,0,,Ơn ủng gì.
+Dialogue: 0,0:49:49.11,0:49:51.40,Main,,0,0,0,,Chỉ có cậu mới cứu được cậu thôi.
+Dialogue: 0,0:49:51.40,0:49:52.42,Main,,0,0,0,,Araragi{*}-kun{*}.
+Dialogue: 0,0:49:56.31,0:49:58.43,Main,,0,0,0,,Gì mà đề phòng nhau thế.
+Dialogue: 0,0:50:05.11,0:50:08.13,Main,,0,0,0,,Trừng mắt ghê quá đấy.
+Dialogue: 0,0:50:08.13,0:50:09.79,Main,,0,0,0,,Hăng quá nhề.
+Dialogue: 0,0:50:09.79,0:50:11.94,Main,,0,0,0,,Có gì hay ho đã xảy ra sao?
+Dialogue: 0,0:50:17.29,0:50:20.28,Main,,0,0,0,,Mà, cứ về đi đã, Araragi{*}-kun{*}.
+Dialogue: 0,0:50:21.13,0:50:22.41,Main,,0,0,0,,Về cái giề?
+Dialogue: 0,0:50:24.97,0:50:27.63,Main,,0,0,0,,Về chỗ trường luyện thi đổ nát đó.
+Dialogue: 0,0:50:31.70,0:50:32.67,Main,,0,0,0,,Khoan đã nào!
+Dialogue: 0,0:50:32.67,0:50:35.25,Main,,0,0,0,,S-Sao ông lại biết?
+Dialogue: 0,0:50:36.31,0:50:38.05,Main,,0,0,0,,Lại chả biết thì sao.
+Dialogue: 0,0:50:38.05,0:50:42.93,Main,,0,0,0,,Kẻ nói cho nhỏ đó biết chỗ đấy... là ta cơ mà.
+Dialogue: 0,0:50:44.74,0:50:48.46,Main,,0,0,0,,Kiểu... "thấy chuyện bất bình, rút đao tương trợ" thôi.
+Dialogue: 0,0:50:49.05,0:50:49.69,Main,,0,0,50,,Nhỏ đó...
+Dialogue: 0,0:50:49.69,0:50:55.87,Main,,0,0,400,,...Heart-under-blade, \Ntrông có vẻ đang gặp khó khi kéo lê cái xác của cậu.
+Dialogue: 0,0:50:55.87,0:50:58.20,Main,,0,0,0,,Nên là ta có chỉ cho một chỗ tốt.
+Dialogue: 0,0:51:00.13,0:51:02.31,Main,,0,0,0,,Ông... {\alpha&HFF&}rốt cuộc là sao?
+Dialogue: 0,0:51:02.31,0:51:03.48,Main,,0,0,0,,Ông... rốt cuộc là sao?
+Dialogue: 0,0:51:04.18,0:51:07.20,Main,,0,0,0,,Ta chỉ là ông chú qua đường thôi.
+Dialogue: 0,0:51:10.98,0:51:12.98,Main,,0,0,0,,Yên tâm đê.
+Dialogue: 0,0:51:12.98,0:51:16.63,Main,,0,0,0,,Ta không phải thợ săn ma cà rồng đâu.
+Dialogue: 0,0:51:17.33,0:51:21.89,Main,,0,0,0,,Chuyên môn của ta rộng hơn,\N lo việc bao quát hơn.
+Dialogue: 0,0:51:22.20,0:51:25.68,Main,,0,0,0,,Mà, khâu giới thiệu để sau đi.
+Dialogue: 0,0:51:29.26,0:51:30.47,Main,,0,0,0,,Về rồi đấy à.
+Dialogue: 0,0:51:32.94,0:51:34.77,Main,,0,0,0,,Tên đằng sau...
+Dialogue: 0,0:51:34.77,0:51:36.15,Main,,0,0,0,,trông quen quen hen.
+Dialogue: 0,0:51:36.15,0:51:37.59,Main,,0,1080,0,,Đau lòng.
+Dialogue: 0,0:51:37.59,0:51:39.40,Main,,0,1080,0,,Nhận ra \Nđược có thế thôi à?
+Dialogue: 0,0:51:40.57,0:51:41.82,Main,,0,0,0,,Thế...
+Dialogue: 0,0:51:42.31,0:51:43.57,Main,,0,0,0,,mọi chuyện sao rồi?
+Dialogue: 0,0:51:52.58,0:51:54.75,Main,,0,0,0,,Khó nhằn đây.
+Dialogue: 0,0:51:54.75,0:51:58.45,Main,,0,0,0,,3 tên đó vẫn dính lấy nhau à.
+Dialogue: 0,0:51:58.45,0:52:05.01,Main,,0,0,0,,Tóm lại, ngay cả khi cô có toàn bộ sức mạnh\N mà vẫn bị 3 tên đó hạ đúng không?
+Dialogue: 0,0:52:05.01,0:52:09.22,Main,,0,0,0,,Thế thì tôi làm gì có cửa.
+Dialogue: 0,0:52:09.22,0:52:12.30,Main,,0,0,0,,Thì đó... từng tên một thôi.
+Dialogue: 0,0:52:12.30,0:52:15.11,Main,,0,0,0,,Chúng đi cùng nhau đó thôi.\N Sao mà được.
+Dialogue: 0,0:52:15.65,0:52:19.52,Main,,0,0,0,,Cho dù cô bảo cứ án binh bất động là được \Nnhưng mà...
+Dialogue: 0,0:52:19.52,0:52:21.71,Main,,0,0,0,,chả lẽ lại đợi chúng tìm ra chỗ này.
+Dialogue: 0,0:52:21.71,0:52:23.86,Main,,0,0,0,,Chuyện đó khỏi lo.
+Dialogue: 0,0:52:24.16,0:52:27.47,Main,,0,0,0,,Chỗ này,\N trong lúc cô cậu còn đang ngủ,
+Dialogue: 0,0:52:27.47,0:52:30.31,Main,,0,0,0,,ta đã bí mật dựng lên một kết giới.
+Dialogue: 0,0:52:31.07,0:52:32.52,Main,,0,0,0,,Kết giới?!
+Dialogue: 0,0:52:32.52,0:52:34.71,Main,,0,0,0,,Kiểu lá chắn ấy à?
+Dialogue: 0,0:52:34.71,0:52:36.63,Main,,0,0,0,,Ừm, kiểu đó đó.
+Dialogue: 0,0:52:38.00,0:52:39.90,Main,,600,0,0,,Ông... {\alpha&HFF&}rốt cuộc là như nào?
+Dialogue: 0,0:52:39.90,0:52:41.59,Main,,600,0,0,,Ông... rốt cuộc là như nào?
+Dialogue: 0,0:52:41.95,0:52:43.93,Main,,0,0,0,,Tại sao với Kiss-shot...
+Dialogue: 0,0:52:43.93,0:52:45.91,Main,,0,0,0,,...với chúng tôi, ông lại cứu thế?
+Dialogue: 0,0:52:46.88,0:52:49.54,Main,,0,0,0,,Tôi biết ông không phải kẻ thù nhưng...
+Dialogue: 0,0:52:49.54,0:52:52.81,Main,,0,0,0,,chắc là ông cũng chẳng cùng phe.
+Dialogue: 0,0:52:58.09,0:53:00.69,Main,,0,0,0,,Độc mồm độc miệng quá~ Thật là!
+Dialogue: 0,0:53:01.08,0:53:04.20,Main,,0,0,0,,Ta ở đây... là để duy trì sự cân bằng.
+Dialogue: 0,0:53:04.57,0:53:07.73,Main,,0,0,0,,Để mà nói, có thể coi đây là công việc của ta.
+Dialogue: 0,0:53:07.73,0:53:10.33,Main,,0,0,0,,Là cây cầu nối giữa đây và đó.
+Dialogue: 0,0:53:11.62,0:53:13.33,Main,,0,0,0,,Giới thiệu đàng hoàng đi.
+Dialogue: 0,0:53:13.93,0:53:15.74,Main,,0,0,0,,Ông từng nói vậy còn gì.
+Dialogue: 0,0:53:20.26,0:53:21.46,Main,,0,0,0,,Oshino Meme.
+Dialogue: 0,0:53:22.34,0:53:24.96,Main,,0,0,0,,Bốn bể là nhà, ung dung tự tại.
+Dialogue: 0,0:53:24.96,0:53:28.62,Main,,0,0,0,,Mà, hãy cứ nghĩ \Nta là người đáng tin cậy trong lĩnh vực yêu quái.
+Dialogue: 0,0:53:30.54,0:53:35.99,Main,,0,0,0,,Không như 3 tên kia,\N việc diệt trừ yêu quái không phải sở trường của ta.
+Dialogue: 0,0:53:35.99,0:53:37.56,Main,,0,0,0,,Không phải sở trường là sao?
+Dialogue: 0,0:53:38.42,0:53:40.74,Main,,0,0,0,,Thẳng thắn ra là...
+Dialogue: 0,0:53:40.74,0:53:42.82,Main,,0,0,0,,ta không thích.
+Dialogue: 0,0:53:42.82,0:53:45.86,Main,,0,0,0,,Nhưng đây là chuyên môn của ông mà?
+Dialogue: 0,0:53:46.14,0:53:49.12,Main,,0,0,0,,Chuyên môn của ta, như đã nói, \Nlà sự cân bằng.
+Dialogue: 0,0:53:49.61,0:53:52.62,Main,,0,0,0,,Đứng ở giữa, \Nthương lượng một cách trung lập.
+Dialogue: 0,0:53:53.18,0:53:55.87,Main,,0,0,0,,Mà, buộc phải nói thì là nhà thương thuyết.
+Dialogue: 0,0:53:57.03,0:53:58.16,Main,,0,0,0,,{\i1}Thương thuyết?
+Dialogue: 0,0:53:58.90,0:54:02.17,Main,,0,0,0,,{\i1}Là cây cầu nối giữa đây và đó?
+Dialogue: 0,0:54:03.59,0:54:07.22,Main,,0,0,0,,{\i1}Đây là ở đâu? Đó là chỗ nào?
+Dialogue: 0,0:54:07.72,0:54:10.97,Main,,0,0,0,,Đây là con người à? Đó là yêu ma quái sao?
+Dialogue: 0,0:54:15.34,0:54:16.35,Main,,0,0,0,,Yêu ma quái?
+Dialogue: 0,0:54:16.82,0:54:18.00,Main,,0,0,0,,Nghe hay đấy.
+Dialogue: 0,0:54:18.00,0:54:19.98,Main,,0,0,0,,Ta thì gọi là Quái Dị.
+Dialogue: 0,0:54:22.11,0:54:25.99,Main,,0,0,0,,Còn nhỏ kia thì là Sát Quái Dị.
+Dialogue: 0,0:54:26.32,0:54:30.89,Main,,0,0,0,,Ma cà rồng của hiếm, \Ncó khả năng Bòn Rút Năng Lượng từ Quái Dị.
+Dialogue: 0,0:54:30.89,0:54:34.39,Main,,0,0,0,,Mà đó cũng là điều khiến nhỏ nổi tiếng ha.
+Dialogue: 0,0:54:37.91,0:54:42.51,Main,,0,0,0,,Ban nãy khi cô cậu nói chuyện, \Nta có nghe qua rồi.
+Dialogue: 0,0:54:43.34,0:54:46.67,Main,,0,0,0,,Cũng khoai ra phết đấy chứ.
+Dialogue: 0,0:54:46.67,0:54:50.04,Main,,0,0,0,,Ta chưa từng nghĩ là nó sẽ rắc rối tới vậy.
+Dialogue: 0,0:54:50.04,0:54:51.68,Main,,0,0,0,,Rắc rối cái nỗi gì.
+Dialogue: 0,0:54:51.68,0:54:53.26,Main,,0,0,0,,Đơn giản là đằng khác.
+Dialogue: 0,0:54:53.57,0:54:58.27,Main,,0,0,0,,Từ quan điểm của một ma cà rồng lâu đời,\N thì cũng đúng.
+Dialogue: 0,0:54:59.52,0:55:02.78,Main,,0,0,0,,Chứ còn với con người chúng tôi \Nthì là cả vấn đề.
+Dialogue: 0,0:55:02.78,0:55:04.53,Main,,0,0,0,,Nhể, Araragi{*}-kun{*}?
+Dialogue: 0,0:55:10.26,0:55:14.45,Main,,0,0,0,,Mà này, tôi là tôi thích đấy,\N Heart-under-blade.
+Dialogue: 0,0:55:14.90,0:55:21.59,Main,,0,0,0,,Thích cái cách mà cô quyết tâm đưa Araragi-kun,\N thân tín của cô, trở lại làm người.
+Dialogue: 0,0:55:32.92,0:55:36.35,Main,,0,0,160,,Nếu được, hay là để ta "đứng ở giữa" cho.
+Dialogue: 0,0:55:37.85,0:55:43.28,Main,,0,0,0,,Đ-Đứng ở giữa tức là... \Nở giữa chúng tôi và 3 tên đó à?
+Dialogue: 0,0:55:43.28,0:55:44.48,Main,,0,0,0,,Còn ai khác à?
+Dialogue: 0,0:55:45.52,0:55:48.99,Main,,0,0,0,,Ô-Ông sẽ cứu ư?
+Dialogue: 0,0:55:49.66,0:55:52.21,Main,,0,0,0,,Không phải cứu, chỉ là giúp chút sức thôi.
+Dialogue: 0,0:55:52.82,0:55:55.71,Main,,0,0,0,,Hiện giờ, đúng là có hơi...
+Dialogue: 0,0:55:55.71,0:55:58.81,Main,,0,0,0,,cảm thấy không cân bằng cho lắm.
+Dialogue: 0,0:55:58.81,0:56:00.87,Main,,0,0,0,,Cứ như đang xem bắt nạt vậy.
+Dialogue: 0,0:56:02.41,0:56:08.33,Main,,0,0,0,,À phải, tại đây cũng là công việc ấy,\N nên không làm không công được.
+Dialogue: 0,0:56:08.98,0:56:10.13,Main,,0,0,0,,Để xem nào...
+Dialogue: 0,0:56:11.78,0:56:13.51,Main,,0,0,0,,2 triệu thấy sao?
+Dialogue: 0,0:56:13.82,0:56:15.26,Main,,900,0,0,,2 triệu?!
+Dialogue: 0,0:56:15.86,0:56:18.60,Main,,0,0,0,,Bao giờ trả cũng được.
+Dialogue: 0,0:56:18.60,0:56:23.77,Main,,0,0,0,,Nó phải tốn từng ấy\N mới duy trì được sự cân bằng.
+Dialogue: 0,0:56:24.69,0:56:27.02,Main,,0,0,0,,N-Nhưng mà...
+Dialogue: 0,0:56:29.96,0:56:32.66,Main,,0,0,0,,Còn phải nghe kế hoạch cụ thể như nào đã hen.
+Dialogue: 0,0:56:35.77,0:56:38.66,Main,,0,0,0,,Thương lượng nghe thì hay đấy,\N chứ đâu có dễ.
+Dialogue: 0,0:56:39.11,0:56:42.16,Main,,600,0,0,,Thuyết phục được 3 tên đó \Nđâu phải chuyện đùa.
+Dialogue: 0,0:56:42.16,0:56:46.29,Main,,0,0,0,,Tất cả những gì tôi có thể làm là \Ncúi đầu cầu xin thôi.
+Dialogue: 0,0:56:48.38,0:56:50.13,Main,,0,0,0,,Tỏ rõ thành ý.
+Dialogue: 0,0:56:50.58,0:56:54.89,Main,,0,0,0,,Nếu xin không được,\N thì mới tới lúc cho những ý tưởng nguy hiểm hơn.
+Dialogue: 0,0:56:54.89,0:56:58.64,Main,,0,0,0,,Nếu may mắn dùng miệng lưỡi được,\N thì trò chơi bắt đầu.
+Dialogue: 0,0:56:59.07,0:57:01.89,Main,,0,0,0,,Trò chơi... cơ à?
+Dialogue: 0,0:57:03.40,0:57:07.55,Main,,0,0,420,,Đầu tiên là làm sao để tách chúng ra.
+Dialogue: 0,0:57:07.55,0:57:11.25,Main,,0,0,420,,Giải quyết từng tên một thì không thành vấn đề.
+Dialogue: 0,0:57:11.25,0:57:15.07,Main,,0,0,420,,Heart-under-blade, cô từng nói thế đúng chứ?
+Dialogue: 0,0:57:15.07,0:57:18.03,Main,,0,0,420,,Đã vậy thì, cứ thế mà làm.
+Dialogue: 0,0:57:18.03,0:57:20.67,Main,,0,0,0,,Cơ mà ấy, oắt con!
+Dialogue: 0,0:57:20.67,0:57:23.67,Main,,0,0,0,,Mày tính thương lượng với 3 tên đó thế nào đây?
+Dialogue: 0,0:57:24.04,0:57:27.02,Main,,0,0,0,,Thiên cơ bất khả lộ.
+Dialogue: 0,0:57:27.02,0:57:29.67,Main,,0,0,0,,Sàn đấu cứ để ta dàn xếp.
+Dialogue: 0,0:57:30.13,0:57:34.51,Main,,0,0,0,,Còn Araragi{*}-kun{*} \Nthì lên đài lấy lại tứ chi từ chúng.
+Dialogue: 0,0:57:35.80,0:57:41.21,Main,,0,0,0,,Nếu lấy lại được tứ chi,\NHeart-under-blade sẽ khôi phục toàn bộ sức mạnh.
+Dialogue: 0,0:57:41.21,0:57:46.52,Main,,0,0,0,,Qua đó, Araragi-kun có thể bình an\N trở lại làm người.
+Dialogue: 0,0:57:49.05,0:57:50.27,Main,,0,0,0,,Này! Đầy tớ!
+Dialogue: 0,0:57:51.85,0:57:54.89,Main,,600,0,0,,Tiền bạc của con người\N thì lão nương không lo được.
+Dialogue: 0,0:57:54.89,0:57:59.52,Main,,600,0,0,,Cái khoản nợ 2 triệu yên là bao nhiêu \Nthú thật lão nương chịu.
+Dialogue: 0,0:58:00.14,0:58:03.29,Main,,600,0,0,,Lão nương chỉ là hỏi liệu nhà ngươi \Ncó gánh được khoản nợ đó không?
+Dialogue: 0,0:58:06.82,0:58:08.61,Main,,800,0,0,,Cứ yên tâm đi.
+Dialogue: 0,0:58:08.61,0:58:10.96,Main,,800,0,0,,Thằng oắt này \Nđúng là có kỹ năng thật.
+Dialogue: 0,0:58:11.49,0:58:15.22,Main,,0,0,0,,Dù lão nương có đang yếu, \Nnhưng lão nương vẫn nhìn ra.
+Dialogue: 0,0:58:17.38,0:58:19.35,Main,,0,0,0,,Tôi không tiết kiệm được nhiều thế.
+Dialogue: 0,0:58:20.28,0:58:22.83,Main,,0,0,0,,Nhưng nếu không cần phải trả ngay,
+Dialogue: 0,0:58:22.83,0:58:26.98,Main,,0,0,0,,và cũng không cần \Nthế chấp hay chứng thực bảo lãnh thì...
+Dialogue: 0,0:58:28.08,0:58:29.35,Main,,0,0,0,,...tôi gánh được.
+Dialogue: 0,0:58:31.39,0:58:33.48,Main,,0,0,0,,Vậy chốt kèo!
+Dialogue: 0,0:58:34.61,0:58:35.83,Main,,0,0,0,,Cảm tạ khách quan.
+Dialogue: 0,0:58:36.49,0:58:37.91,Main,,0,0,0,,Đùa tý~
+Dialogue: 0,1:02:43.65,1:02:46.19,Main,preview,0,0,0,,{\i1}Mạng đền mạng, nợ máu trả máu.
+Dialogue: 0,1:02:46.52,1:02:49.45,Main,preview,0,0,0,,{\i1}Ma cà rồng đền ma cà rồng... hen!
+Dialogue: 0,1:02:50.28,1:02:52.49,Main,preview,0,0,60,,{\i1}Vậy bắt đầu thôi!
+Dialogue: 0,1:02:53.24,1:02:54.16,Main,preview,0,0,0,,{\i1}Hài vãi.
+Dialogue: 0,1:02:55.83,1:02:58.67,Main,preview,0,0,0,,{\i1}Khó chịu thế nhờ.
+Dialogue: 0,1:03:02.39,1:03:03.04,Main,preview,0,0,0,,{\i1}Araragi{*}-kun{*}!
+Dialogue: 0,1:03:04.30,1:03:06.34,Main,preview,0,0,0,,{\i1}Đừng bận tâm tới tớ.
+Dialogue: 0,1:03:06.34,1:03:08.68,Main,preview,0,0,0,,{\i1}Đừng bận tâm thế nào được!
+Dialogue: 0,1:03:08.68,1:03:10.55,Main,preview,0,0,0,,{\i1}Nếu chẳng thể gặp lại cậu nữa,
+Dialogue: 0,1:03:10.55,1:03:13.18,Main,preview,0,0,0,,{\i1}thì trở lại làm người còn nghĩa lý gì nữa.
+Dialogue: 0,1:03:13.78,1:03:15.02,Main,preview,0,0,0,,{\i1}Araragi{*}-kun{*}.
+Dialogue: 0,1:03:16.44,1:03:18.33,Main,preview,0,0,8,,{\i1}Từ bỏ làm người đi.

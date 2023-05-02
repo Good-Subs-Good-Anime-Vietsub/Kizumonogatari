@@ -16,13 +16,11 @@ Video File: ../../[OZR] Monogatari Series (BD 1080p HEVC Opus)/[OZR] Kizumonogat
 Video AR Mode: 4
 Video AR Value: 2.352941
 Video Zoom Percent: 0.500000
-Scroll Position: 28
-Active Line: 49
 Video Position: 91046
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,KiOZ Ubuntu Dialogue,66,&H00FFFFFF,&H000000FF,&H00000000,&HC4000000,0,0,0,0,100,100,0,0,1,3.6,0,2,12,12,40,1
+Style: Main,KiOZ Ubuntu Dialogue,66,&H00FFFFFF,&H000000FF,&H00181919,&HC4181919,0,0,0,0,100,100,0,0,1,3.6,0,2,12,12,40,1
 Style: OST,Signika SemiBold,82,&H00FFFFFF,&H000000FF,&H00091641,&H971F3DBB,0,0,0,0,100,100,0,0,1,4,2,2,10,10,60,1
 Style: Signs,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: GT,KiOZ Ubuntu Dialogue,45,&H00FFFFFF,&H000000FF,&H97000000,&H82000000,0,0,0,0,100,100,0,0,3,0.1,0,8,10,10,30,1
@@ -33,16 +31,19 @@ Style: other signs,Montara  Gothic,75,&H00FFFFFF,&H000000FF,&H1E000000,&H9600000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:19:38.16,0:19:39.66,Signs,add.lines,0,0,0,,{\an7\fnSVN-Avo\c&H2D7485&\fscx97\fscy136\pos(736,137.07)}TẠP CHÍ HAY HO
+Dialogue: 0,0:19:38.16,0:19:39.66,Signs,add.lines,0,0,0,,{\an9\fnSVN-Avo\c&H2D7485&\fscx77\fscy108\pos(1154,607.07)}CHỈ DÀNH CHO \NNGƯỜI LỚN
+Dialogue: 0,0:21:29.06,0:21:29.81,Signs,add.lines,0,0,0,,{\fnSVN-Avo\pos(960,265.07)\fscx158\fscy158\c&H2D7485&}LẶNG
 Dialogue: 0,0:00:00.98,0:00:02.98,Signs,,0,0,0,,{\pos(434.8,618.4)\fnSVN-Avo}(chủ nhật)
 Dialogue: 0,0:00:00.98,0:00:02.98,Signs,,0,0,0,,{\fnSVN-Avo\pos(1472.85,618.4)}(thứ sáu)
 Dialogue: 0,0:00:03.48,0:00:05.98,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,265.07)\fscx158\fscy158}ma cà rồng
 Dialogue: 0,0:00:06.49,0:00:08.99,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,265.07)\fscx158\fscy158}bi kịch
 Dialogue: 0,0:00:09.49,0:00:11.99,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,265.07)\fscx158\fscy158}lịch sử
 Dialogue: 0,0:00:43.11,0:00:44.11,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,265.07)\fscx158\fscy158}ĐEN
-Dialogue: 0,0:01:53.14,0:01:53.38,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,265.07)\fscx158\fscy158}SÁNG HƠN
+Dialogue: 0,0:01:53.14,0:01:53.38,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,265.07)\fscx158\fscy158}SÁNG HƠN!
 Dialogue: 0,0:03:06.33,0:03:08.08,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,265.07)\fscx158\fscy158}ĐEN
-Dialogue: 0,0:04:51.48,0:04:55.23,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,265.07)\fscx158\fscy158}đây là câu chuyện kể về ma cà rồng với bad ending
-Dialogue: 0,0:04:57.24,0:05:00.98,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,265.07)\fscx158\fscy158}cái kết sẽ khiến tất cả cảm thấy không vui
+Dialogue: 0,0:04:51.48,0:04:55.23,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,265.07)\fscx158\fscy158}câu chuyện này kể về ma cà rồng với cái kết buồn
+Dialogue: 0,0:04:57.24,0:05:00.98,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,265.07)\fscx158\fscy158}cái kết khiến ai cũng đau khổ
 Dialogue: 0,0:07:40.44,0:07:40.61,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,265.07)\fscx158\fscy158}ĐỎ
 Dialogue: 0,0:08:24.28,0:08:25.78,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,265.07)\fscx158\fscy158}ĐEN
 Dialogue: 0,0:09:18.93,0:09:20.04,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,265.07)\fscx158\fscy158}ĐEN
