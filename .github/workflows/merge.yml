@@ -28,7 +28,7 @@ jobs:
         cache: gradle
     - name: Merge subtitle
       run: |
-        for episode in {01..15}; do
+        for episode in {01..03; do
           ./gradlew merge.${episode}
           mv "${episode}/${key}${episode} - Merged.ass" "fonts/"
         done
