@@ -9,12 +9,12 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Scroll Position: 44
-Active Line: 47
+Scroll Position: 56
+Active Line: 65
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,KiOZ Ubuntu Dialogue,66,&H00FFFFFF,&H000000FF,&H00000000,&HC4000000,0,0,0,0,100,100,0,0,1,3.6,0,2,12,12,40,1
+Style: Main,KiOZ Ubuntu Dialogue,66,&H00FFFFFF,&H000000FF,&H00181919,&HC4181919,0,0,0,0,100,100,0,0,1,3.6,0,2,12,12,40,1
 Style: OST,Signika SemiBold,82,&H00FFFFFF,&H000000FF,&H00091641,&H971F3DBB,0,0,0,0,100,100,0,0,1,4,2,2,10,10,60,1
 Style: Signs,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: GT,KiOZ Ubuntu Dialogue,45,&H00FFFFFF,&H000000FF,&H97000000,&H82000000,0,0,0,0,100,100,0,0,3,0.1,0,8,10,10,30,1
@@ -22,9 +22,28 @@ Style: GT 2,KiOZ Ubuntu Dialogue,45,&H00FFFFFF,&H000000FF,&H000A0937,&HB40000FF,
 Style: Blogemonogatari,Gentium Basic,60,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
 Style: Black and Red,Gentium Basic,70,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
 Style: other signs,Montara  Gothic,75,&H00FFFFFF,&H000000FF,&H1E000000,&H96000000,0,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
+Style: ED,KiOZ BunaeroPro Dialogue,68,&H00FFFFFF,&H000000FF,&H1EFFFFFF,&H96000000,0,0,0,0,100,100,0,0,1,0,0,5,1,1,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:33:08.76,0:33:09.22,Signs,add.lines,0,0,0,,{\an7\fnSVN-Avo\c&H2D7485&\fscx97\fscy136\pos(736,137.07)}TẠP CHÍ HAY HO
+Dialogue: 0,0:33:08.76,0:33:09.22,Signs,add.lines,0,0,0,,{\an9\fnSVN-Avo\c&H2D7485&\fscx77\fscy108\pos(1154,607.07)}CHỈ DÀNH CHO \NNGƯỜI LỚN
+Dialogue: 0,0:33:45.13,0:33:46.63,Signs,add.lines,0,0,0,,{\c&HC5BC46&\frz15.29\fnGentium\fscx66\fscy66\pos(414.4,190.4)\blur0.86}ẤN PHẨM ĐẶC BIỆT: LỚP TRƯỞNG ĐEO KÍNH
+Dialogue: 0,0:33:45.13,0:33:46.63,Signs,add.lines,0,0,0,,{\c&HC5BC46&\fnKiOZ Ubuntu Dialogue\frz11.12\fscx81\fscy81\pos(1446.4,520)\blur0.86}GÁI ĐEO KÍNH LÀ LẼ SỐNG!!
+Dialogue: 6,0:33:46.63,0:33:49.01,Signs,add.lines,0,0,0,,{\c&H4A59F4&\frz15.29\fnGentium\fscx66\fscy66\blur0.86\pos(407.4,201)\t(880,0,1,\c&H000000&)}ẤN PHẨM ĐẶC BIỆT: LỚP TRƯỞNG ĐEO KÍNH
+Dialogue: 6,0:33:46.63,0:33:49.01,Signs,add.lines,0,0,0,,{\c&H4A59F4&\fnKiOZ Ubuntu Dialogue\frz11.12\fscx81\fscy81\blur0.86\pos(1447.4,535.4)\t(880,0,1,\c&H000000&)}GÁI ĐEO KÍNH LÀ LẼ SỐNG!!
+Dialogue: 5,0:33:46.63,0:33:49.01,Signs,add.lines,0,0,0,,{\c&H4A59F4&\frz15.29\fnGentium\fscx66\fscy66\blur0.86\pos(410.4,212)\1a&H36&\t(880,0,1,\c&H000000&)}ẤN PHẨM ĐẶC BIỆT: LỚP TRƯỞNG ĐEO KÍNH
+Dialogue: 5,0:33:46.63,0:33:49.01,Signs,add.lines,0,0,0,,{\c&H4A59F4&\fnKiOZ Ubuntu Dialogue\frz11.12\fscx81\fscy81\blur0.86\pos(1450.4,546.4)\1a&H36&\t(880,0,1,\c&H000000&)}GÁI ĐEO KÍNH LÀ LẼ SỐNG!!
+Dialogue: 4,0:33:46.63,0:33:49.01,Signs,add.lines,0,0,0,,{\c&H4A59F4&\frz15.29\fnGentium\fscx66\fscy66\blur0.86\pos(403.4,205)\1a&H69&\t(880,0,1,\c&H000000&)}ẤN PHẨM ĐẶC BIỆT: LỚP TRƯỞNG ĐEO KÍNH
+Dialogue: 4,0:33:46.63,0:33:49.01,Signs,add.lines,0,0,0,,{\c&H4A59F4&\fnKiOZ Ubuntu Dialogue\frz11.12\fscx81\fscy81\blur0.86\pos(1443.4,539.4)\1a&H69&\t(880,0,1,\c&H000000&)}GÁI ĐEO KÍNH LÀ LẼ SỐNG!!
+Dialogue: 3,0:33:46.63,0:33:49.01,Signs,add.lines,0,0,0,,{\c&H4A59F4&\frz15.29\fnGentium\fscx66\fscy66\blur0.86\pos(401.4,212)\1a&H9F&\t(880,0,1,\c&H000000&)}ẤN PHẨM ĐẶC BIỆT: LỚP TRƯỞNG ĐEO KÍNH
+Dialogue: 3,0:33:46.63,0:33:49.01,Signs,add.lines,0,0,0,,{\c&H4A59F4&\fnKiOZ Ubuntu Dialogue\frz11.12\fscx81\fscy81\blur0.86\pos(1441.4,546.4)\1a&H9F&\t(880,0,1,\c&H000000&)}GÁI ĐEO KÍNH LÀ LẼ SỐNG!!
+Dialogue: 2,0:33:46.63,0:33:49.01,Signs,add.lines,0,0,0,,{\c&H4A59F4&\frz15.29\fnGentium\fscx66\fscy66\blur0.86\pos(411.4,204)\1a&HC3&\t(880,0,1,\c&H000000&)}ẤN PHẨM ĐẶC BIỆT: LỚP TRƯỞNG ĐEO KÍNH
+Dialogue: 2,0:33:46.63,0:33:49.01,Signs,add.lines,0,0,0,,{\c&H4A59F4&\fnKiOZ Ubuntu Dialogue\frz11.12\fscx81\fscy81\blur0.86\pos(1451.4,538.4)\1a&HC3&\t(880,0,1,\c&H000000&)}GÁI ĐEO KÍNH LÀ LẼ SỐNG!!
+Dialogue: 1,0:33:46.63,0:33:49.01,Signs,add.lines,0,0,0,,{\c&H4A59F4&\frz15.29\fnGentium\fscx66\fscy66\blur0.86\pos(410.4,206)\1a&HDC&\t(880,0,1,\c&H000000&)}ẤN PHẨM ĐẶC BIỆT: LỚP TRƯỞNG ĐEO KÍNH
+Dialogue: 1,0:33:46.63,0:33:49.01,Signs,add.lines,0,0,0,,{\c&H4A59F4&\fnKiOZ Ubuntu Dialogue\frz11.12\fscx81\fscy81\blur0.86\pos(1450.4,540.4)\1a&HDC&\t(880,0,1,\c&H000000&)}GÁI ĐEO KÍNH LÀ LẼ SỐNG!!
+Dialogue: 0,0:33:46.63,0:33:49.01,Signs,add.lines,0,0,0,,{\c&H4A59F4&\frz15.29\fnGentium\fscx66\fscy66\blur0.86\pos(409.4,205)\1a&HE9&\t(880,0,1,\c&H000000&)}ẤN PHẨM ĐẶC BIỆT: LỚP TRƯỞNG ĐEO KÍNH
+Dialogue: 0,0:33:46.63,0:33:49.01,Signs,add.lines,0,0,0,,{\c&H4A59F4&\fnKiOZ Ubuntu Dialogue\frz11.12\fscx81\fscy81\blur0.86\pos(1449.4,539.4)\1a&HE9&\t(880,0,1,\c&H000000&)}GÁI ĐEO KÍNH LÀ LẼ SỐNG!!
 Dialogue: 0,0:01:59.68,0:02:00.43,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,265.07)\fscx158\fscy158}ĐEN
 Dialogue: 0,0:02:17.15,0:02:17.90,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,265.07)\fscx158\fscy158}ĐỎ
 Dialogue: 0,0:05:25.84,0:05:26.72,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,265.07)\fscx158\fscy158}ĐEN

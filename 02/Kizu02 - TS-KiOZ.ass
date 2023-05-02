@@ -9,12 +9,11 @@ YCbCr Matrix: None
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Scroll Position: 426
-Active Line: 427
+Active Line: 8
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Main,KiOZ Ubuntu Dialogue,66,&H00FFFFFF,&H000000FF,&H00000000,&HC4000000,0,0,0,0,100,100,0,0,1,3.6,0,2,12,12,40,1
+Style: Main,KiOZ Ubuntu Dialogue,66,&H00FFFFFF,&H000000FF,&H00181919,&HC4181919,0,0,0,0,100,100,0,0,1,3.6,0,2,12,12,40,1
 Style: OST,Signika SemiBold,82,&H00FFFFFF,&H000000FF,&H00091641,&H971F3DBB,0,0,0,0,100,100,0,0,1,4,2,2,10,10,60,1
 Style: Signs,Arial,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: GT,KiOZ Ubuntu Dialogue,45,&H00FFFFFF,&H000000FF,&H97000000,&H82000000,0,0,0,0,100,100,0,0,3,0.1,0,8,10,10,30,1
@@ -22,6 +21,7 @@ Style: GT 2,KiOZ Ubuntu Dialogue,45,&H00FFFFFF,&H000000FF,&H000A0937,&HB40000FF,
 Style: Blogemonogatari,Gentium Basic,60,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
 Style: Black and Red,Gentium Basic,70,&H00FFFFFF,&H000000FF,&H00000000,&H96000000,0,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
 Style: other signs,Montara  Gothic,75,&H00FFFFFF,&H000000FF,&H1E000000,&H96000000,0,0,0,0,100,100,0,0,1,0,0,5,15,15,15,1
+Style: ED,KiOZ BunaeroPro Dialogue,68,&H00FFFFFF,&H000000FF,&H1EFFFFFF,&H96000000,0,0,0,0,100,100,0,0,1,0,0,5,1,1,30,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -448,9 +448,10 @@ Dialogue: 0,0:09:37.94,0:09:38.06,Signs,,0,0,0,,{\pos(653.835,194.655)\frz0.79\f
 Dialogue: 1,0:09:37.94,0:09:38.06,Signs,,0,0,0,,{\pos(653.835,194.655)\frz0.79\fnArial Rounded MT Bold\c&HA8AAAF&\blur1.05\fs65\fscx18\fscy21}Bạn có chắc chắn xóa 1 mục không?
 Dialogue: 0,0:09:38.06,0:09:38.19,Signs,,0,0,0,,{\pos(653.34,194.655)\frz0.76\fnArial Rounded MT Bold\c&HA8AAAF&\alpha&HE0&\blur7.5\fs65\fscx18\fscy21}Bạn có chắc chắn xóa 1 mục không?
 Dialogue: 1,0:09:38.06,0:09:38.19,Signs,,0,0,0,,{\pos(653.34,194.655)\frz0.76\fnArial Rounded MT Bold\c&HA8AAAF&\blur1.05\fs65\fscx18\fscy21}Bạn có chắc chắn xóa 1 mục không?
-Dialogue: 0,0:09:38.19,0:09:38.69,Signs,,0,0,0,,{\pos(960,655)\fnMTO Telephone\b1\c&HE7E8E9&\alpha&HA0&\blur12\fs50\fscx269\fscy256}ĐANG XÓA
-Dialogue: 1,0:09:38.19,0:09:38.69,Signs,,0,0,0,,{\pos(960,635)\fnMTO Telephone\b1\c&HE7E8E9&\blur1.01\fs50\fscx235\fscy224}ĐANG XÓA
-Dialogue: 0,0:09:38.69,0:09:39.44,Signs,,0,0,0,,{\pos(960,265)\fnMTO Telephone\b1\c&HE7E8E9&\alpha&HA0&\blur12\fs50\fscx269\fscy256}ĐÃ XÓA
-Dialogue: 1,0:09:38.69,0:09:39.44,Signs,,0,0,0,,{\pos(960,265)\fnMTO Telephone\b1\c&HE7E8E9&\blur1.05\fs50\fscx269\fscy256}ĐÃ XÓA
+Dialogue: 0,0:09:38.19,0:09:38.69,Signs,,0,0,0,,{\pos(960,635)\fnMTO Telephone\b1\c&HE7E8E9&\alpha&HA0&\blur12\fs50\fscx269\fscy256}ĐANG XÓA
+Dialogue: 1,0:09:38.19,0:09:38.69,Signs,,0,0,0,,{\pos(960,635)\fnMTO Telephone\b1\c&HE7E8E9&\blur1.01\fs50\fscx269\fscy256}ĐANG XÓA
+Dialogue: 0,0:09:38.69,0:09:39.44,Signs,,0,0,0,,{\pos(960,525)\fnMTO Telephone\b1\c&HE7E8E9&\alpha&HA0&\blur12\fs50\fscx269\fscy256}ĐÃ XÓA
+Dialogue: 1,0:09:38.69,0:09:39.44,Signs,,0,0,0,,{\pos(960,525)\fnMTO Telephone\b1\c&HE7E8E9&\blur1.05\fs50\fscx269\fscy256}ĐÃ XÓA
 Dialogue: 0,0:17:57.85,0:17:59.60,Signs,,0,0,0,,{\fnUVN Van\b1\c&H3C322C&\alpha&HD0&\blur7.5\an7\frz270\fscx96\fscy113\pos(1071.8,101.5)}CỔNG TRƯỚC TRƯỜNG THPT NAOETSU
 Dialogue: 1,0:17:57.85,0:17:59.60,Signs,,0,0,0,,{\fnUVN Van\b1\c&H3C322C&\blur0.85\an7\frz270\fscx96\fscy113\pos(1071.8,101.5)}CỔNG TRƯỚC TRƯỜNG THPT NAOETSU
+Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,
