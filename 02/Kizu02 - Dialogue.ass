@@ -5,12 +5,18 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 816
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Scroll Position: 679
-Active Line: 681
+Audio File: ../raws/[OZR] Kizumonogatari Part 2 - Nekketsu (BD 816p HEVC Opus) [8B55BE82].mkv
+Video File: ../raws/[OZR] Kizumonogatari Part 2 - Nekketsu (BD 816p HEVC Opus) [8B55BE82].mkv
+Video AR Mode: 4
+Video AR Value: 2.352941
+Active Line: 11
+Video Position: 68192
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -27,17 +33,18 @@ Style: ED,KiOZ BunaeroPro Dialogue,68,&H00FFFFFF,&H000000FF,&H1EFFFFFF,&H9600000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 0,0:00:00.00,0:00:00.02,Main,chptr,0,0,0,,{Giới thiệu Dramaturgy}
-Comment: 0,0:00:52.99,0:00:53.03,Main,chptr,0,0,0,,{Giới thiệu}
-Comment: 0,0:01:33.03,0:01:33.07,Main,chptr,0,0,0,,{Bất đồng}
-Comment: 0,0:11:07.61,0:11:07.65,Main,chptr,0,0,0,,{Dramaturgy}
-Comment: 0,0:18:12.36,0:18:12.40,Main,chptr,0,0,0,,{Giảng hòa}
-Comment: 0,0:21:58.55,0:21:58.59,Main,chptr,0,0,0,,{Hồi phục}
+Comment: 0,0:00:52.99,0:00:53.03,Main,chptr,0,0,0,,{OP}
+Comment: 0,0:01:33.03,0:01:33.07,Main,chptr,0,0,0,,{Dramaturgy}
+Comment: 0,0:02:48.71,0:02:48.71,Main,chptr,0,0,0,,{Tình cờ đêm khuya thanh vắng}
+Comment: 0,0:06:21.21,0:06:21.21,Main,chptr,0,0,0,,{Bất đồng}
+Comment: 0,0:11:07.61,0:11:07.65,Main,chptr,0,0,0,,{VS Dramaturgy}
+Comment: 0,0:17:54.11,0:17:54.11,Main,chptr,0,0,0,,{Làm hòa}
+Comment: 0,0:21:56.92,0:21:56.96,Main,chptr,0,0,0,,{Chân phải}
 Comment: 0,0:26:31.44,0:26:31.49,Main,chptr,0,0,0,,{Tình thân}
-Comment: 0,0:33:49.13,0:33:49.17,Main,chptr,0,0,0,,{Episode}
-Comment: 0,0:43:14.74,0:43:14.78,Main,chptr,0,0,0,,{Chữa lành}
-Comment: 0,0:44:23.31,0:44:23.35,Main,chptr,0,0,0,,{Chủ tớ}
+Comment: 0,0:33:49.13,0:33:49.17,Main,chptr,0,0,0,,{VS Episode}
+Comment: 0,0:44:21.07,0:44:21.07,Main,chptr,0,0,0,,{Chân trái}
 Comment: 0,0:47:24.15,0:47:24.20,Main,chptr,0,0,0,,{Làm người}
-Comment: 0,0:57:37.93,0:57:37.98,Main,chptr,0,0,0,,{Từ bỏ làm người}
+Comment: 0,0:57:15.18,0:57:15.18,Main,chptr,0,0,0,,{Từ bỏ làm người}
 Comment: 0,1:01:19.08,1:01:19.08,Main,chptr,0,0,0,,{ED}
 Comment: 0,1:07:14.01,1:07:14.01,Main,chptr,0,0,0,,{Báo trước}
 Dialogue: 0,0:00:16.50,0:00:19.28,Main,,0,0,500,,Vậy hãy bắt đầu thôi.
@@ -657,15 +664,15 @@ Dialogue: 0,1:07:25.78,1:07:27.10,Main,preview,0,0,0,,{\i1}Thì ta đi mà.
 Dialogue: 0,1:07:27.10,1:07:29.15,Main,preview,0,0,0,,{\i1}Việc cũng xong cả rồi.
 Dialogue: 0,1:07:29.15,1:07:31.38,Main,preview,0,0,0,,{\i1}Mặc dù là thất bại.
 Dialogue: 0,1:07:32.81,1:07:37.76,Main,preview,0,0,0,,{\i1}Tớ chả bảo rồi còn,\N nếu cậu thấy được con người thật của tớ, cậu sẽ vỡ mộng.
-Dialogue: 0,1:07:38.12,1:07:42.16,Main,preview,0,0,0,,{\i1}Lỗi tại mình. Lỗi tại mình. Lỗi tại mình.
+Dialogue: 0,1:07:38.12,1:07:42.16,Main,preview,0,0,0,,{\i1}Tại mình. Tại mình. Tại mình.
 Dialogue: 0,1:07:42.71,1:07:45.57,Main,preview,0,0,0,,{\i1}Nhà ngươi không cứu lão nương \Nvì bản thân lão nương.
-Dialogue: 0,1:07:45.57,1:07:48.76,Main,preview,0,0,0,,{\i1}Hễ cứ rơi vào hoàn cảnh ngặt nghèo, \Nlà ai nhà ngươi cũng cứu.
+Dialogue: 0,1:07:45.57,1:07:48.76,Main,preview,0,0,0,,{\i1}Hễ cứ yếu đuối, \Nlà ai nhà ngươi cũng cứu.
 Dialogue: 0,1:07:49.40,1:07:52.32,Main,preview,0,0,12,,{\i1}Chết đi! Hỡi chủ nhân!
 Dialogue: 0,1:07:52.32,1:07:54.59,Main,preview,0,0,12,,{\i1}Chết đi! Tên đầy tớ!
 Dialogue: 0,1:07:56.10,1:07:58.22,Main,preview,0,0,0,,{\i1}A-Araragi{*}-kun{*}...
 Dialogue: 0,1:07:58.22,1:08:00.02,Main,preview,0,0,0,,{\i1}l-làm ơn...
 Dialogue: 0,1:08:00.02,1:08:03.27,Main,preview,0,0,0,,{\i1}b-bộ ngực trần của tớ...
-Dialogue: 0,1:08:03.27,1:08:05.29,Main,preview,0,0,0,,{\i1}...xin cậu hãy xoa bóp chúng!
+Dialogue: 0,1:08:03.27,1:08:05.29,Main,preview,0,0,0,,{\i1}...xin hãy xoa bóp chúng!
 Dialogue: 0,1:02:21.04,1:02:24.67,ED,ed.french,0,1280,0,,{\fad(120,240)\blur0.6}Étoile, et toi
 Dialogue: 0,1:02:25.82,1:02:29.53,ED,ed.french,0,1280,0,,{\fad(120,240)\blur0.6}Et toi, et moi
 Dialogue: 0,1:02:32.14,1:02:35.14,ED,ed.french,0,1280,0,,{\fad(120,240)\blur0.6}Le monde est vous

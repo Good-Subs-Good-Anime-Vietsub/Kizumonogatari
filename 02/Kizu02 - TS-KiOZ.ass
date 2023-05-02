@@ -5,11 +5,20 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 816
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Active Line: 8
+Audio File: ../raws/[OZR] Kizumonogatari Part 2 - Nekketsu (BD 816p HEVC Opus) [8B55BE82].mkv
+Video File: ../raws/[OZR] Kizumonogatari Part 2 - Nekketsu (BD 816p HEVC Opus) [8B55BE82].mkv
+Video AR Mode: 4
+Video AR Value: 2.352941
+Video Zoom Percent: 0.250000
+Scroll Position: 417
+Active Line: 428
+Video Position: 25843
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -454,4 +463,3 @@ Dialogue: 0,0:09:38.69,0:09:39.44,Signs,,0,0,0,,{\pos(960,525)\fnMTO Telephone\b
 Dialogue: 1,0:09:38.69,0:09:39.44,Signs,,0,0,0,,{\pos(960,525)\fnMTO Telephone\b1\c&HE7E8E9&\blur1.05\fs50\fscx269\fscy256}ĐÃ XÓA
 Dialogue: 0,0:17:57.85,0:17:59.60,Signs,,0,0,0,,{\fnUVN Van\b1\c&H3C322C&\alpha&HD0&\blur7.5\an7\frz270\fscx96\fscy113\pos(1071.8,101.5)}CỔNG TRƯỚC TRƯỜNG THPT NAOETSU
 Dialogue: 1,0:17:57.85,0:17:59.60,Signs,,0,0,0,,{\fnUVN Van\b1\c&H3C322C&\blur0.85\an7\frz270\fscx96\fscy113\pos(1071.8,101.5)}CỔNG TRƯỚC TRƯỜNG THPT NAOETSU
-Dialogue: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,

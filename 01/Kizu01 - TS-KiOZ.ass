@@ -5,10 +5,16 @@ Title: Default Aegisub file
 ScriptType: v4.00+
 WrapStyle: 0
 ScaledBorderAndShadow: yes
-YCbCr Matrix: None
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 816
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
+Audio File: ../raws/[OZR] Kizumonogatari Part 1 - Tekketsu (BD 816p HEVC Opus) [2D3B6BAF].mkv
+Video File: ../raws/[OZR] Kizumonogatari Part 1 - Tekketsu (BD 816p HEVC Opus) [2D3B6BAF].mkv
+Video AR Mode: 4
+Video AR Value: 2.352941
 Scroll Position: 669
 Active Line: 670
 
@@ -136,10 +142,10 @@ Dialogue: 0,0:40:19.10,0:40:19.22,Black and Red,,0,0,0,,{\pos(960,337.5)\fscx115
 Dialogue: 1,0:40:19.10,0:40:19.22,Black and Red,,0,0,0,,{\pos(960,337.5)\fscx115\fscy115\blur1\fnVL DellaRobbia BT}HỒI TƯỞNG
 Dialogue: 0,0:40:19.85,0:40:19.97,Black and Red,,0,0,0,,{\pos(960,337.5)\fscx115\fscy115\1a&H50&\blur6\fnVL DellaRobbia BT}HỒI TƯỞNG
 Dialogue: 1,0:40:19.85,0:40:19.97,Black and Red,,0,0,0,,{\pos(960,337.5)\fscx115\fscy115\blur1\fnVL DellaRobbia BT}HỒI TƯỞNG
-Dialogue: 0,0:48:06.11,0:48:06.36,Black and Red,,0,0,0,,{\pos(960,270)\fscx135\fscy135\alpha&H50&\blur9\b1\fn Gentium}Phân Chia
-Dialogue: 1,0:48:06.11,0:48:06.36,Black and Red,,0,0,0,,{\pos(960,270)\fscx135\fscy135\blur1\b1\fn Gentium}Phân Chia
-Dialogue: 0,0:48:13.49,0:48:13.74,Black and Red,,0,0,0,,{\pos(960,270)\fscx135\fscy135\alpha&H50&\blur9\b1\fn Gentium}Phân Chia
-Dialogue: 1,0:48:13.49,0:48:13.74,Black and Red,,0,0,0,,{\pos(960,270)\fscx135\fscy135\blur1\b1\fn Gentium}Phân Chia
+Dialogue: 0,0:48:06.11,0:48:06.36,Black and Red,,0,0,0,,{\pos(960,270)\fscx135\fscy135\alpha&H50&\blur9\b1\fnGentium}Phân Chia
+Dialogue: 1,0:48:06.11,0:48:06.36,Black and Red,,0,0,0,,{\pos(960,270)\fscx135\fscy135\blur1\b1\fnGentium}Phân Chia
+Dialogue: 0,0:48:13.49,0:48:13.74,Black and Red,,0,0,0,,{\pos(960,270)\fscx135\fscy135\alpha&H50&\blur9\b1\fnGentium}Phân Chia
+Dialogue: 1,0:48:13.49,0:48:13.74,Black and Red,,0,0,0,,{\pos(960,270)\fscx135\fscy135\blur1\b1\fnGentium}Phân Chia
 Dialogue: 0,0:48:18.91,0:48:19.04,Black and Red,,0,0,0,,{\pos(960,255)\fscx150\fscy150\alpha&H50&\blur6\fnGentium\b1}Giết
 Dialogue: 1,0:48:18.91,0:48:19.04,Black and Red,,0,0,0,,{\pos(960,255)\fscx150\fscy150\blur1\fnGentium\b1}Giết
 Dialogue: 0,0:48:19.04,0:48:19.16,Black and Red,,0,0,0,,{\pos(960,255)\fscx150\fscy150\alpha&H50&\blur6\fnGentium\b1}Người
