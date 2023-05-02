@@ -28,21 +28,24 @@ jobs:
         cache: gradle
     - name: Merge subtitle
       run: |
+        mkdir Out
         for episode in {01..03}; do
           ./gradlew merge.${episode}
-          mv "${episode}/${key}${episode} - Merged.ass" "fonts/"
+          mv "${episode}/${key}${episode} - Merged.ass" "Out/"
         done
-
-    - name: Compress
-      run: |
-        cd fonts
-        7za a -t7z -mx=7 "../${{env.show}} - ${{github.event.inputs.tag}}.7z" *
 
     - name: Upload
       uses: actions/upload-artifact@v3
       with:
         name: ${{env.show}}
-        path: ${{env.show}} - ${{github.event.inputs.tag}}.7z 
+        path: Out/
+        
+    - name: Compress
+      if: github.event_name == 'workflow_dispatch' && github.event.inputs.tag != ''
+      run: |
+        cp -r fonts/ Out/
+        cd Out/
+        7za a -t7z -mx=7 "../${{env.show}} - ${{github.event.inputs.tag}}.7z" *
 
     - name: Release
       uses: softprops/action-gh-release@v1
