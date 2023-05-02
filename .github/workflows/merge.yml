@@ -33,6 +33,7 @@ jobs:
           ./gradlew merge.${episode}
           mv "${episode}/${key}${episode} - Merged.ass" "Out/"
         done
+        cp -r fonts/ Out/
 
     - name: Upload
       uses: actions/upload-artifact@v3
@@ -43,7 +44,6 @@ jobs:
     - name: Compress
       if: github.event_name == 'workflow_dispatch' && github.event.inputs.tag != ''
       run: |
-        cp -r fonts/ Out/
         cd Out/
         7za a -t7z -mx=7 "../${{env.show}} - ${{github.event.inputs.tag}}.7z" *
 
