@@ -11,12 +11,14 @@ PlayResY: 816
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../raws/[OZR] Kizumonogatari Part 1 - Tekketsu (BD 816p HEVC Opus) [2D3B6BAF].mkv
-Video File: ../raws/[OZR] Kizumonogatari Part 1 - Tekketsu (BD 816p HEVC Opus) [2D3B6BAF].mkv
+Audio File: D:/kizu ts/[OZR] Kizumonogatari Part 1 - Tekketsu (BD 816p HEVC Opus) [2D3B6BAF].mkv
+Video File: D:/kizu ts/[OZR] Kizumonogatari Part 1 - Tekketsu (BD 816p HEVC Opus) [2D3B6BAF].mkv
 Video AR Mode: 4
 Video AR Value: 2.352941
-Scroll Position: 669
-Active Line: 670
+Video Zoom Percent: 0.625000
+Scroll Position: 224
+Active Line: 234
+Video Position: 90424
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -265,8 +267,8 @@ Dialogue: 0,1:02:50.28,1:02:51.41,Blogemonogatari,,0,0,0,,{\pos(960,330)\c&HCCCC
 Dialogue: 1,1:02:50.28,1:02:51.41,Blogemonogatari,,0,0,0,,{\pos(960,330)\c&HCCCCCE&\blur0.85}Dramaturgy
 Dialogue: 0,1:02:50.28,1:02:51.41,Blogemonogatari,,0,0,0,,{\pos(1680,738)\fscx55\fscy55\c&HCCCCCE&\alpha&HB0&\blur4.5}Chỉ có tiếng
 Dialogue: 1,1:02:50.28,1:02:51.41,Blogemonogatari,,0,0,0,,{\pos(1680,738)\fscx55\fscy55\c&HCCCCCE&\blur0.85}Chỉ có tiếng
-Dialogue: 0,1:02:51.41,1:02:51.74,Blogemonogatari,,0,0,0,,{\an7\pos(35.49,81)\c&HCAC1C9&\alpha&H50&\blur7.5\fscx65\fscy65}Là một gã khổng lồ \Ncao hơn 2 mét. Hắn sử dụng\N song kiếm, hai thanh kiếm\Nhắn cầm trong tay\Nrất dài và mang hình thù\N lượn sóng. Hình như được \Ngọi là kiếm lưỡi lửa, flambe. \NCơ bắp cuồn cuộn, nhìn\Nnhư hộ pháp. Hắn đeo một\N chiếc băng đô nổi bật để\Nbuộc lại mái tóc bù xù.\N Hắn là tên thợ săn ma cà rồng\N đã lấy đi cánh tay phải của Kiss-shot. \N\N(bỏ qua) \N\NĐó là ngày 31 tháng 3,\N ngày cuối cùng của tháng 3.\N\N*Đúng ra phải là "chân phải", thay vì "tay phải", anime viết nhầm.
-Dialogue: 1,1:02:51.41,1:02:51.74,Blogemonogatari,,0,0,0,,{\an7\fscx65\fscy65\c&HCAC1C9&\blur0.85\pos(35.49,81)}Là một gã khổng lồ \Ncao hơn 2 mét. Hắn sử dụng\N song kiếm, hai thanh kiếm\Nhắn cầm trong tay\Nrất dài và mang hình thù\N lượn sóng. Hình như được \Ngọi là kiếm lưỡi lửa, flambe. \NCơ bắp cuồn cuộn, nhìn\Nnhư hộ pháp. Hắn đeo một\N chiếc băng đô nổi bật để\Nbuộc lại mái tóc bù xù.\N Hắn là tên thợ săn ma cà rồng\N đã lấy đi cánh tay phải của Kiss-shot. \N\N(bỏ qua) \N\NĐó là ngày 31 tháng 3,\N ngày cuối cùng của tháng 3.\N\N*Đúng ra phải là "chân phải", thay vì "tay phải", anime viết nhầm.
+Dialogue: 0,1:02:51.41,1:02:51.74,Blogemonogatari,,0,0,0,,{\an7\pos(35.49,81)\c&HCAC1C9&\alpha&H50&\blur7.5\fscx65\fscy65}Là một gã khổng lồ \Ncao hơn 2 mét. Hắn sử dụng\N song kiếm, hai thanh kiếm\Ntrên tay hắn rất dài\Nvà mang hình thù lượn sóng. \NHình như được gọi là \N kiếm lưỡi lửa, flambe. \NCơ bắp cuồn cuộn,\N nhìn như hộ pháp.\N Hắn đeo một chiếc băng đô\Nđể buộc lại mái tóc bù xù.\N Hắn là tên thợ săn ma cà rồng\N đã lấy đi cánh tay phải của Kiss-shot. \N\N(bỏ qua) \N\NĐó là ngày 31 tháng 3,\N ngày cuối cùng của tháng 3.\N\N*Đúng ra phải là "chân phải", thay vì "tay phải", anime viết nhầm.
+Dialogue: 1,1:02:51.41,1:02:51.74,Blogemonogatari,,0,0,0,,{\an7\fscx65\fscy65\c&HCAC1C9&\blur0.85\pos(35.49,81)}Là một gã khổng lồ \Ncao hơn 2 mét. Hắn sử dụng\N song kiếm, hai thanh kiếm\Ntrên tay hắn rất dài\Nvà mang hình thù lượn sóng. \NHình như được gọi là \N kiếm lưỡi lửa, flambe. \NCơ bắp cuồn cuộn,\N nhìn như hộ pháp.\N Hắn đeo một chiếc băng đô\Nđể buộc lại mái tóc bù xù.\N Hắn là tên thợ săn ma cà rồng\N đã lấy đi cánh tay phải của Kiss-shot. \N\N(bỏ qua) \N\NĐó là ngày 31 tháng 3,\N ngày cuối cùng của tháng 3.\N\N*Đúng ra phải là "chân phải", thay vì "tay phải", anime viết nhầm.
 Dialogue: 0,1:02:51.74,1:02:52.49,Blogemonogatari,,0,0,0,,{\an7\c&H1B1BC6&\blur1.5\p1\pos(989.49,267.68)\fscx34\fscy34}m -150 -150 b -67.5 -232.5 67.5 -232.5 150 -150 232.5 -67.5 232.5 67.5 150 150 69 232.5 -67.5 232.5 -150 150 -232.5 67.5 -232.5 -67.5 -150 -150
 Dialogue: 1,1:02:51.74,1:02:52.49,Blogemonogatari,,0,0,0,,{\pos(960,269.28)\c&HE09696&\alpha&HD0&\blur7.5\fscx151\fscy151}Ma Cà Rồng {\c&HCDCEE3&}Giết{\c&HE09696&} Đồng Loại
 Dialogue: 2,1:02:51.74,1:02:52.49,Blogemonogatari,,0,0,0,,{\pos(960,269.28)\c&HE09696&\blur1.01\fscx151\fscy151}Ma Cà Rồng {\c&HCDCEE3&}Giết{\c&HE09696&} Đồng Loại
@@ -346,16 +348,16 @@ Dialogue: 0,1:03:04.09,1:03:05.13,Blogemonogatari,,0,0,0,,{\pos(1680,738)\fscx55
 Dialogue: 1,1:03:04.09,1:03:05.13,Blogemonogatari,,0,0,0,,{\pos(1680,738)\fscx55\fscy55\c&HDDE4E9&\blur0.85}Chỉ có tiếng
 Dialogue: 0,1:03:04.30,1:03:05.13,Blogemonogatari,,0,0,0,,{\pos(960,330)\c&HE5EDF1&\1a&H96&\blur4.5}Hanekawa Tsubasa
 Dialogue: 1,1:03:04.30,1:03:05.13,Blogemonogatari,,0,0,0,,{\pos(960,330)\c&HE5EDF1&\blur0.75}Hanekawa Tsubasa
-Dialogue: 0,1:03:05.13,1:03:06.34,Blogemonogatari,,0,0,0,,{\fscx85\fscy85\c&HAFAFAF&\alpha&HD0&\blur7.5\pos(682.91,555.9)\i1}Hắn{\i0} tốt tính, nhưng không chỉ có thế—còn mạnh nữa.
-Dialogue: 1,1:03:05.13,1:03:06.34,Blogemonogatari,,0,0,0,,{\fscx85\fscy85\c&HAFAFAF&\blur0.75\pos(682.91,555.9)\i1}Hắn{\i0} tốt tính, nhưng không chỉ có thế—còn mạnh nữa.
+Dialogue: 0,1:03:05.13,1:03:06.34,Blogemonogatari,,0,0,0,,{\fscx85\fscy85\c&HAFAFAF&\alpha&HD0&\blur7.5\pos(682.91,555.9)}Cậu ấy tốt bụng, nhưng không chỉ có thế—còn mạnh mẽ nữa.
+Dialogue: 1,1:03:05.13,1:03:06.34,Blogemonogatari,,0,0,0,,{\fscx85\fscy85\c&HAFAFAF&\blur0.75\pos(682.91,555.9)}Cậu ấy tốt bụng, nhưng không chỉ có thế—còn mạnh mẽ nữa.
 Dialogue: 0,1:03:06.34,1:03:07.67,Blogemonogatari,,0,0,0,,{\pos(1680,738)\fscx55\fscy55\c&HECF3F9&\alpha&HB0&\blur4.5}Chỉ có tiếng
 Dialogue: 1,1:03:06.34,1:03:07.67,Blogemonogatari,,0,0,0,,{\pos(1680,738)\fscx55\fscy55\c&HECF3F9&\blur0.85}Chỉ có tiếng
 Dialogue: 0,1:03:06.55,1:03:07.67,Blogemonogatari,,0,0,0,,{\pos(960,330)\c&HECF3F9&\1a&H96&\blur4.5}Araragi Koyomi
 Dialogue: 1,1:03:06.55,1:03:07.67,Blogemonogatari,,0,0,0,,{\pos(960,330)\c&HECF3F9&\blur0.75}Araragi Koyomi
-Dialogue: 0,1:03:08.68,1:03:09.55,Blogemonogatari,,0,0,0,,{\pos(960,330)\c&HA2A1A5&\alpha&HD0&\blur7.5}Với tôi đây là—lần đầu tiên.
-Dialogue: 1,1:03:08.68,1:03:09.55,Blogemonogatari,,0,0,0,,{\pos(960,330)\c&HA2A1A5&\blur0.7}Với tôi đây là—lần đầu tiên.
-Dialogue: 0,1:03:10.55,1:03:11.30,Blogemonogatari,,0,0,0,,{\pos(960,330)\c&HA2A1A5&\alpha&HD0&\blur7.5}Tôi cảm thấy như cuối cùng thì, tôi cũng gặp được Hanekawa.
-Dialogue: 1,1:03:10.55,1:03:11.30,Blogemonogatari,,0,0,0,,{\pos(960,330)\c&HA2A1A5&\blur0.7}Tôi cảm thấy như cuối cùng thì, tôi cũng gặp được Hanekawa.
+Dialogue: 0,1:03:08.68,1:03:09.55,Blogemonogatari,,0,0,0,,{\pos(960,330)\c&HA2A1A5&\alpha&HD0&\blur7.5}Với tôi lần này—là lần đầu tiên.
+Dialogue: 1,1:03:08.68,1:03:09.55,Blogemonogatari,,0,0,0,,{\pos(960,330)\c&HA2A1A5&\blur0.7}Với tôi lần này—là lần đầu tiên.
+Dialogue: 0,1:03:10.55,1:03:11.30,Blogemonogatari,,0,0,0,,{\pos(960,330)\c&HA2A1A5&\alpha&HD0&\blur7.5}Nó cho tôi cái cảm giác cuối cùng thì mình cũng gặp được Hanekawa.
+Dialogue: 1,1:03:10.55,1:03:11.30,Blogemonogatari,,0,0,0,,{\pos(960,330)\c&HA2A1A5&\blur0.7}Nó cho tôi cái cảm giác cuối cùng thì mình cũng gặp được Hanekawa.
 Dialogue: 0,1:03:12.30,1:03:13.18,Blogemonogatari,,0,0,0,,{\pos(960,330)\c&HA2A1A5&\alpha&HD0&\blur7.5}Trực diện—Mặt đối mặt, không lướt qua nhau.
 Dialogue: 1,1:03:12.30,1:03:13.18,Blogemonogatari,,0,0,0,,{\pos(960,330)\c&HA2A1A5&\blur0.7}Trực diện—Mặt đối mặt, không lướt qua nhau.
 Dialogue: 0,1:03:14.18,1:03:15.02,Blogemonogatari,,0,0,0,,{\pos(960,300)\c&HD8D9D8&\alpha&HB0&\blur4.5\fscx131\fscy131}Báo Trước
