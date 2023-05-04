@@ -3,18 +3,23 @@ Dia:
 ======================
 Khẩn trưởng lên! Nhà ngươi chậm chạp quá đấy!
 {FIX: Khẩn trương}
+~Done
 
 Ghê~ Cậu biết tên tớ luôn mà.
 {FIX: dòng này quên đẩy}
+~Done
 
 Bạn mà hạnh phúc... thì đố kỵ.
 {FIX: thì mình đố kỵ}
+~Done
 
 Đừng có mà dại bước chân ra ngoài nắng.
 {FIX: Đừng có dại mà}
+~Done
 
 Hăng quá nhề.
 {FIX: dùng từ "hăng" hơi lạc}
+~Done (giữ nguyên) 
 ======================
 TS:
 ======================

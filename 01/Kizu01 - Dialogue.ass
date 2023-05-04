@@ -16,8 +16,9 @@ Video File: ../../[OZR] Monogatari Series (BD 1080p HEVC Opus)/[OZR] Kizumonogat
 Video AR Mode: 4
 Video AR Value: 2.352941
 Video Zoom Percent: 0.500000
-Active Line: 11
-Video Position: 71749
+Scroll Position: 189
+Active Line: 212
+Video Position: 48838
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -70,7 +71,7 @@ Dialogue: 0,0:10:10.30,0:10:11.50,Main,,0,0,0,,Đúng không nào?
 Dialogue: 0,0:10:11.50,0:10:13.59,Main,,0,0,0,,Thế là thành... Araragi Koyomi{*}-kun{*}.
 Dialogue: 0,0:10:18.44,0:10:21.11,Main,,0,0,0,,Cậu là... Hanekawa...
 Dialogue: 0,0:10:22.55,0:10:24.60,Main,,0,0,0,,Hanekawa Tsubasa.
-Dialogue: 0,0:10:34.60,0:10:38.30,Main,,0,0,0,,Ghê~ Cậu biết tên tớ luôn mà.
+Dialogue: 0,0:10:34.60,0:10:38.30,Main,,0,500,0,,Ghê~ Cậu biết tên tớ luôn mà.
 Dialogue: 0,0:10:38.90,0:10:41.41,Main,,0,500,0,,{\q2}Đợt thi cuối học kì 1 năm 2,
 Dialogue: 0,0:10:41.41,0:10:45.09,Main,,0,500,0,,{\q2}tất cả các môn, kể cả \Nmôn Sức khỏe & Thể chất lẫn các môn Nghệ thuật...
 Dialogue: 0,0:10:45.09,0:10:47.75,Main,,0,500,0,,{\q2}có một người chỉ sai duy nhất một lỗi,
@@ -86,8 +87,7 @@ Dialogue: 0,0:11:13.58,0:11:15.40,Main,,0,0,0,,Araragi-kun cũng có bạn cơ �
 Dialogue: 0,0:11:18.40,0:11:21.41,Main,,0,0,0,,Sao không thắc mắc cái "ngoài hành tinh" đi hả trời!!
 Dialogue: 0,0:11:21.53,0:11:23.49,Main,,0,0,0,,À thì tại...
 Dialogue: 0,0:11:23.49,0:11:24.69,Main,,0,0,0,,Araragi-kun ý,
-Dialogue: 0,0:11:24.69,0:11:25.89,Main,,0,0,0,,lúc nào cũng có một mình,
-Dialogue: 0,0:11:25.89,0:11:28.87,Main,,0,0,0,,nên tớ có ấn tượng là \Ncậu sống tách biệt với mọi người.
+Dialogue: 0,0:11:24.69,0:11:28.87,Main,,0,0,0,,lúc nào cũng thui thủi một mình, \Nnên tớ có ấn tượng là cậu sống tách biệt với mọi người.
 Dialogue: 0,0:11:36.04,0:11:40.11,Main,,0,0,0,,Mà... cậu nói đúng rồi đấy, tớ không có bạn.
 Dialogue: 0,0:11:40.11,0:11:46.01,Main,,0,0,0,,Nhưng cậu thì nổi tiếng tới cái mức\N mà kẻ cô độc như tớ cũng phải biết tới.
 Dialogue: 0,0:11:46.41,0:11:48.77,Main,,0,0,0,,Thôi mà, đừng nói thế mà.
@@ -138,7 +138,7 @@ Dialogue: 0,0:14:58.96,0:15:02.09,Main,,0,800,0,,Bạn mà hạnh,\N thì mình 
 Dialogue: 0,0:15:02.09,0:15:05.60,Main,,0,800,0,,Đâu phải chỉ mỗi yếu đi đâu?
 Dialogue: 0,0:15:05.60,0:15:06.50,Main,,0,800,0,,Không.
 Dialogue: 0,0:15:06.50,0:15:09.41,Main,,0,0,0,,Bạn mà vui,\N thì mình chỉ có ghen tị thôi.
-Dialogue: 0,0:15:09.41,0:15:12.14,Main,,0,0,0,,Bạn mà hạnh phúc... thì đố kỵ.
+Dialogue: 0,0:15:09.41,0:15:12.14,Main,,0,0,0,,Bạn mà hạnh phúc... thì mình đố kỵ.
 Dialogue: 0,0:15:14.51,0:15:16.26,Main,,0,0,0,,Người đâu tiểu nhân thế.
 Dialogue: 0,0:15:17.52,0:15:19.27,Main,,0,0,0,,{\i1}Kệ người ta!
 Dialogue: 0,0:15:26.79,0:15:27.70,Main,,0,0,0,,Tớ...
@@ -192,11 +192,11 @@ Dialogue: 0,0:26:28.35,0:26:30.95,Main,,0,0,0,,Hiểu rồi, một mình tôi...
 Dialogue: 0,0:26:44.36,0:26:45.70,Main,,0,0,0,,Sao thế hả?
 Dialogue: 0,0:26:45.70,0:26:48.46,Main,,0,0,0,,Máu... Hiến máu đi!
 Dialogue: 0,0:26:48.46,0:26:50.71,Main,,0,0,0,,Khẩn trương lên!\N Khẩn trương không thì bảo!
-Dialogue: 0,0:26:53.21,0:26:55.77,Main,,0,0,0,,{\an8}Khẩn trưởng lên! Nhà ngươi chậm chạp quá đấy!
+Dialogue: 0,0:26:53.21,0:26:55.77,Main,,0,0,0,,{\an8}Khẩn trương lên! Nhà ngươi lề mề quá đấy!
 Dialogue: 0,0:26:54.63,0:26:56.15,Main,,0,0,0,,Không sao cả.
-Dialogue: 0,0:26:56.15,0:26:58.21,Main,,0,0,0,,Có thể chạy được.
+Dialogue: 0,0:26:56.15,0:26:58.21,Main,,0,0,0,,Còn chạy được mà.
 Dialogue: 0,0:26:56.62,0:27:00.22,Main,,0,0,0,,{\an8}Nhà ngươi không còn phúc phận nào lớn hơn đâu!
-Dialogue: 0,0:26:59.85,0:27:01.56,Main,,0,0,0,,Có thể thoát được.
+Dialogue: 0,0:26:59.85,0:27:01.56,Main,,0,0,0,,Còn thoát được mà.
 Dialogue: 0,0:27:14.18,0:27:15.11,Main,,0,0,0,,Này!
 Dialogue: 0,0:27:18.47,0:27:20.98,Main,,0,0,0,,Nhà ngươi đùa lão nương à!
 Dialogue: 0,0:27:25.54,0:27:28.95,Main,,0,0,0,,Dám... không cứu lão nương sao?
@@ -221,7 +221,7 @@ Dialogue: 0,0:29:36.50,0:29:38.00,Main,,0,0,0,,Là ma cà rồng.
 Dialogue: 0,0:29:40.55,0:29:42.44,Main,,0,0,0,,Không việc gì phải cứu.
 Dialogue: 0,0:29:44.07,0:29:45.67,Main,,0,0,0,,Đúng rồi còn?
 Dialogue: 0,0:29:57.52,0:30:03.98,Main,,0,0,0,,{\fad(0,3557)}Biết chứ sao không!!!
-Dialogue: 0,0:30:34.06,0:30:35.81,Main,,0,0,0,,Bỏ cuộc cái nỗi gì! Ngu ngốc!
+Dialogue: 0,0:30:34.06,0:30:35.81,Main,,0,0,160,,Bỏ cuộc cái nỗi gì! Ngu ngốc!
 Dialogue: 0,0:30:47.68,0:30:49.96,Main,,0,0,0,,Đ-Được sao?
 Dialogue: 0,0:30:49.96,0:30:53.51,Main,,0,0,0,,Được được cái quái gì! Đồ dở người!
 Dialogue: 0,0:30:55.97,0:30:58.41,Main,,0,0,0,,Khốn nạn! Khốn nạn! Khốn nạn!
@@ -245,14 +245,14 @@ Dialogue: 0,0:33:38.06,0:33:39.32,Main,,0,0,0,,Đợi 5 phút nữa đi.
 Dialogue: 0,0:33:41.02,0:33:43.04,Main,,0,0,0,,Kêu dậy cơ mà.
 Dialogue: 0,0:33:44.15,0:33:46.15,Main,,0,0,0,,Đợi có tâm trạng đã.
 Dialogue: 0,0:33:48.21,0:33:50.16,Main,,0,0,0,,Tính ngủ tới bao giờ hả?!
-Dialogue: 0,0:33:55.22,0:33:56.97,Main,,0,0,0,,Tầm 4,6 tỷ năm.
+Dialogue: 0,0:33:55.22,0:33:56.97,Main,,0,0,160,,Tầm 4,6 tỷ năm.
 Dialogue: 0,0:33:59.68,0:34:02.35,Main,,0,0,0,,Thế thì lòi ra Trái Đất khác luôn rồi.
 Dialogue: 0,0:34:08.55,0:34:10.98,Main,,0,0,160,,Đã 2 ngày rồi sao?
 Dialogue: 0,0:34:50.23,0:34:51.24,Main,,0,0,160,,Đần độn!
 Dialogue: 0,0:35:56.05,0:35:57.13,Main,,0,0,160,,Đúng là!
 Dialogue: 0,0:36:00.74,0:36:05.14,Main,,0,0,0,,Trên đời lại có cái loại đần đến cái mức \Nkhơi khơi bước ra ngoài nắng như thật.
 Dialogue: 0,0:36:05.58,0:36:09.54,Main,,0,0,0,,Cỡ ma cà rồng tầm trung\N là bốc hơi ngay lập tức luôn đấy.
-Dialogue: 0,0:36:14.99,0:36:18.15,Main,,0,0,0,,Đừng có mà dại bước chân ra ngoài nắng.
+Dialogue: 0,0:36:14.99,0:36:18.15,Main,,0,0,0,,Đừng có dại mà bước chân ra ngoài nắng.
 Dialogue: 0,0:36:18.85,0:36:20.98,Main,,0,0,0,,Với cái bất tử chưa đến nơi đến chốn đó,
 Dialogue: 0,0:36:20.98,0:36:24.86,Main,,0,0,0,,thì sẽ bị thiêu, rồi phục hồi,\N rồi lại bị thiêu, rồi phục hồi.
 Dialogue: 0,0:36:24.86,0:36:26.66,Main,,0,0,0,,Vòng lặp vô hạn.
@@ -409,7 +409,7 @@ Dialogue: 0,0:50:38.05,0:50:42.93,Main,,0,0,0,,Kẻ nói cho nhỏ đó biết c
 Dialogue: 0,0:50:44.74,0:50:48.46,Main,,0,0,0,,Kiểu... "thấy chuyện bất bình, rút đao tương trợ" thôi.
 Dialogue: 0,0:50:49.05,0:50:49.69,Main,,0,0,50,,Nhỏ đó...
 Dialogue: 0,0:50:49.69,0:50:55.87,Main,,0,0,400,,...Heart-under-blade, \Ntrông có vẻ đang gặp khó khi kéo lê cái xác của cậu.
-Dialogue: 0,0:50:55.87,0:50:58.20,Main,,0,0,0,,Nên là ta có chỉ cho một chỗ tốt.
+Dialogue: 0,0:50:55.87,0:50:58.20,Main,,0,0,400,,Nên là ta có chỉ cho một chỗ tốt.
 Dialogue: 0,0:51:00.13,0:51:02.31,Main,,0,0,0,,Ông... {\alpha&HFF&}rốt cuộc là sao?
 Dialogue: 0,0:51:02.31,0:51:03.48,Main,,0,0,0,,Ông... rốt cuộc là sao?
 Dialogue: 0,0:51:04.18,0:51:07.20,Main,,0,0,0,,Ta chỉ là ông chú qua đường thôi.
