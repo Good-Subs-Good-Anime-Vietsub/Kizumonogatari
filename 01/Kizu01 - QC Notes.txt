@@ -20,6 +20,24 @@ Bạn mà hạnh phúc... thì đố kỵ.
 Hăng quá nhề.
 {FIX: dùng từ "hăng" hơi lạc}
 ~Done (giữ nguyên) 
+
+Về cơ bản, nhà ngươi chưa đủ tuổi để \Nngang hàng nói chuyện với lão nương.
+{FIX: chưa đủ tuổi\N để ngang hàng}
+
+Sẽ lanh lợi khôn ngoan hơn, \Ncó chuyện xảy ra là đổ lên đầu người khác.
+{FIX: ''khôn ngoan lanh lời'' đọc lên mượt hơn}
+
+Bởi có vài chuyện mà \Nlão nương đây cần nhà ngươi làm.
+{FIX: vài chuyện\N mà lão nương đây}
+
+Đ-Đứng ở giữa tức là... \Nở giữa chúng tôi và 3 tên đó à?
+{FIX: lược bớt từ ''ở'' phía sau}
+
+Cái khoản nợ 2 triệu yên là bao nhiêu \Nthú thật lão nương chịu.
+{FIX: thú thật lão nương cũng chịu.}
+
+Lão nương chỉ là hỏi liệu nhà ngươi \Ncó gánh được khoản nợ đó không?
+{FIX: hỏi là}
 ======================
 TS:
 ======================
