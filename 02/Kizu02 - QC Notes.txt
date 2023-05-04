@@ -1,0 +1,48 @@
+======================
+Dia:
+======================
+Bấp chấp việc so về sức mạnh thì ta thua cậu
+{FIX: ''Bất chấp'', mà từ này ở đây cũng không ổn, câu này cũng không ổn}
+
+Ta sẽ không bao giờ động đến câu nữa.
+{FIX: động đến ''cậu'' nữa}
+
+Chỉ một cô gái chân yêu tay mềm... bóp cái là chết.
+{FIX: chân "yếu" tay mềm}
+
+Còn nếu ta thắng, cậu sẽ phải nói cho ta biết\N Heart-under-blade đang ở đâu.
+{FIX: e nghĩ dòng này dẩy đến keyframe được}
+
+Ma cà rồng giết đồng loại\N không hẳn là quá hiếm.
+{FIX: không hẳn là quá hiếm đâu.}
+
+Theo cậu thì phải làm sao để \Nngăn chặn vấn nạn bắt nạt?
+{FIX: làm sao\N để ngăn chặn}
+
+Cậu nói vậy là bởi... \Nhiện tại cậu đang bị hoàn cảnh ép buộc ha.
+{FIX: để tầm 800 đẹp hơn}
+
+Không... phải nói là đau tận xương tủy.
+{FIX: thấu tận xương tủy}
+
+Chả là... tớ không tài nào hiểu nổi \Ntại sao cậu lại phải vì tớ mà đi xa tới vậy.
+{FIX: để tầm 800 cho khỏi chờm}
+{FIX: ''tại sao cậu lại phải đi xa đên vậy chỉ vì tớ'' cái này tùy a, nó cũng chỉ là cách sắp xếp}
+
+Cái năng lực bất tử của ma cà rồng \Ncủa Heart-under-blade,
+{FIX: dòng này có vấn đề gì đấy, mà e cũng chưa biết sửa sao :))}
+
+Thì đó, một khi Heart-under-blade lấy lại \Nđầy đủ tứ chi... thì được.
+{FIX: Heart-under-blade\N lấy lại đầy đủ tứ chi}
+
+Câu đó khá là hiệu nghiệm khi\N đề cập tới ma quỷ.
+{FIX: hiệu nghiệm\N khi đề cập tới}
+
+Hôm qua, nhìn từ đằng sau dựa vào vóc dáng,\N trông không giống Araragi-kun cho lắm.
+{FIX: ''nhìn từ vóc dáng phía sau'' chẳng hạn}
+======================
+TS:
+======================
+đã sửa
+
+======================
