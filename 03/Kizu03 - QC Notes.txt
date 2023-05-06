@@ -1,0 +1,43 @@
+======================
+Dia:
+======================
+Nhưng gì tôi đã gây ra, tôi hiểu hết rồi!
+{FIX: Những gì}
+
+cậu chuyện này xem ra không cảm động cho lắm.
+{FIX: câu chuyện}
+
+À phải Araragi-kun,\N về 2 triệu yên cho cậu và 3 triệu yên cho bé lớp trưởng,
+{FIX: ''À phải" trong audio nó còn 1 đoạn ở trước nữa}
+
+Gọi là, sao được.
+{FIX: nên chỉnh lại câu này}
+
+Mọi thứ nhà ngươi làm đều \Nkhông hợp đạo lý.
+{FIX: làm\N đều không hợp, mà cái này e cũng không chắc :))}
+
+Nhà ngươi có mang theo \N{\i1}đồ ăn đi động{\i0} không?
+{FIX: đồ ăn di động}
+
+{\i1}Hai tuần qua, đối với Kiss-shot có lẽ \Ntoàn những ký ức buồn.
+{FIX: đối với Kiss-shot\N có lẽ toàn những ký ức buồn.}
+
+Episode,
+{FIX: hơi chậm thì phải}
+
+Ngược lại, chính là Araragi-kun \Nmới là người duy nhất có thể ngăn nổi cô ta.
+{FIX: lặp từ ''là''}
+
+Nhà ngươi là rất ngược đời.
+{FIX: rất là}
+
+Thứ duy nhất giúp Heartunderblade tồn tại là máu thịt của cậu,\N của kẻ đã biến cô ta thành sinh vật thấp kém như thế.
+{FIX: Heart-under-blade}
+
+
+======================
+TS:
+======================
+¯\_(ツ)_/¯
+
+======================
