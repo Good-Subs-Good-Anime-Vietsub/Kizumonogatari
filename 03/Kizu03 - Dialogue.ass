@@ -15,10 +15,10 @@ Audio File: ../raws/[OZR] Kizumonogatari Part 3 - Reiketsu (BD 816p HEVC Opus) [
 Video File: ../raws/[OZR] Kizumonogatari Part 3 - Reiketsu (BD 816p HEVC Opus) [6258CAF0].mkv
 Video AR Mode: 4
 Video AR Value: 2.352941
-Video Zoom Percent: 0.375000
-Scroll Position: 846
-Active Line: 858
-Video Position: 114417
+Video Zoom Percent: 0.625000
+Scroll Position: 777
+Active Line: 791
+Video Position: 104342
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -135,7 +135,7 @@ Dialogue: 0,0:06:46.43,0:06:47.89,Main,,0,0,0,,Thì ta đi mà.
 Dialogue: 0,0:06:47.89,0:06:49.47,Main,,0,0,0,,Việc cũng xong cả rồi.
 Dialogue: 0,0:06:49.75,0:06:52.22,Main,,0,0,0,,Mặc dù là thất bại.
 Dialogue: 0,0:06:53.55,0:06:57.14,Main,,0,0,0,,Như vậy là xong, hết là hết.
-Dialogue: 0,0:06:59.11,0:07:05.28,Main,,0,0,500,,À phải Araragi-kun,\N về 2 triệu yên cho cậu và 3 triệu yên cho bé lớp trưởng,
+Dialogue: 0,0:06:59.11,0:07:05.28,Main,,0,0,500,,Phải rồi Araragi-kun,\N về 2 triệu yên cho cậu và 3 triệu yên cho bé lớp trưởng,
 Dialogue: 0,0:07:05.28,0:07:07.11,Main,,0,0,500,,coi như ta xóa nợ.
 Dialogue: 0,0:07:07.88,0:07:10.78,Main,,0,0,0,,Không cần nhìn ta như thế, \Nkhông có ẩn tình gì đâu.
 Dialogue: 0,0:07:10.78,0:07:13.12,Main,,0,0,0,,Mấy chuyện này ta hào phóng mà.
@@ -190,7 +190,7 @@ Dialogue: 0,0:11:16.82,0:11:19.24,Main,,0,0,0,,Khi tới quốc gia này thì g�
 Dialogue: 0,0:11:19.24,0:11:21.60,Main,,0,0,0,,Cũng là lúc lão nương học được Tiếng Nhật.
 Dialogue: 0,0:11:21.60,0:11:25.52,Main,,0,0,0,,Mà, theo thời gian \Nngôn ngữ cũng đã thay đổi không ít hen.
 Dialogue: 0,0:11:27.33,0:11:31.50,Main,,0,0,0,,Nhưng nếu đã thế\N thì lần này cô cũng nên cho gọi gã chứ?
-Dialogue: 0,0:11:31.79,0:11:33.00,Main,,0,0,0,,Gọi là, sao được.
+Dialogue: 0,0:11:31.79,0:11:33.00,Main,,0,0,0,,Gọi làm sao được.
 Dialogue: 0,0:11:33.89,0:11:36.00,Main,,0,0,0,,Gã đã chết rồi.
 Dialogue: 0,0:11:36.64,0:11:39.51,Main,,0,0,0,,Chuyện xảy ra cũng lâu rồi.
 Dialogue: 0,0:11:42.10,0:11:43.64,Main,,0,0,0,,Nhà ngươi còn nhớ chứ?
@@ -241,7 +241,7 @@ Dialogue: 0,0:14:20.06,0:14:21.67,Main,,0,0,0,,Cho tới khi gặp nhà ngươi.
 Dialogue: 0,0:14:22.70,0:14:24.67,Main,,0,0,0,,Thế cô không thấy chán à?
 Dialogue: 0,0:14:27.68,0:14:31.18,Main,,0,0,0,,Suốt ngần ấy thời gian, \Nlão nương chả có gì để làm.
 Dialogue: 0,0:14:51.20,0:14:56.30,Main,,0,0,0,,Thế nhưng, đầy tớ nhà ngươi \Nđã không làm lão nương buồn chán.
-Dialogue: 0,0:14:56.30,0:14:59.75,Main,,0,0,0,,Mọi thứ nhà ngươi làm đều \Nkhông hợp đạo lý.
+Dialogue: 0,0:14:56.30,0:14:59.75,Main,,0,0,0,,Mọi thứ nhà ngươi làm đều không hợp đạo lý.
 Dialogue: 0,0:15:02.10,0:15:09.71,Main,,0,0,0,,Chắc đây là lần đầu tiên trong lịch sử, \Nmột con người tự đưa cổ của mình ra cho ma cà rồng.
 Dialogue: 0,0:15:18.22,0:15:21.67,Main,,0,0,0,,Và còn dám thản nhiên \Ngọi lão nương là Kiss-shot nữa.
 Dialogue: 0,0:16:07.70,0:16:08.57,Main,,0,0,160,,Giờ thì...
@@ -253,8 +253,8 @@ Dialogue: 0,0:16:39.71,0:16:42.68,Main,,0,0,0,,Vậy... đã sẵn sàng chưa?
 Dialogue: 0,0:16:43.19,0:16:48.52,Main,,0,0,0,,Chưa... Chắc tại cười nhiều quá \Nnên thấy hơi đói.
 Dialogue: 0,0:16:48.52,0:16:50.73,Main,,0,0,0,,Tôi đi kiếm cái gì bỏ bụng được không?
 Dialogue: 0,0:16:52.34,0:16:59.05,Main,,0,0,0,,Mà, đúng là lão nương cũng thấy đói\N kể từ khi lấy lại nguyên vẹn cơ thể.
-Dialogue: 0,0:16:59.97,0:17:02.12,Main,,0,0,0,,Nhà ngươi có mang theo \N{\i1}đồ ăn đi động{\i0} không?
-Dialogue: 0,0:17:02.56,0:17:04.25,Main,,0,0,0,,Đồ ăn di động cơ à...
+Dialogue: 0,0:16:59.97,0:17:02.12,Main,,0,0,0,,Nhà ngươi có mang theo \N{\i1}đồ ăn di động{\i0} không?
+Dialogue: 0,0:17:02.56,0:17:04.25,Main,,0,0,0,,Đồ ăn di động gì chứ.
 Dialogue: 0,0:17:05.63,0:17:09.17,Main,,0,0,0,,Mà, đây là đêm cuối tôi làm ma cà rồng rồi.
 Dialogue: 0,0:17:09.17,0:17:12.25,Main,,0,0,0,,Cũng không nên gò bó làm gì cả.
 Dialogue: 0,0:17:12.25,0:17:14.84,Main,,0,0,0,,Cô có muốn ăn gì không?
@@ -266,7 +266,7 @@ Dialogue: 0,0:17:33.02,0:17:33.99,Main,,0,0,0,,Okay!
 Dialogue: 0,0:17:50.55,0:17:53.71,Main,,0,0,0,,Dự là... cô ấy sẽ rời đi nơi khác ha.
 Dialogue: 0,0:17:57.75,0:18:00.39,Main,,0,0,0,,Mà, đành chịu thôi.
 Dialogue: 0,0:18:03.18,0:18:05.93,Main,,0,0,160,,Có gặp gỡ thì phải có chia ly.
-Dialogue: 0,0:18:09.70,0:18:14.19,Main,,0,0,0,,{\i1}Hai tuần qua, đối với Kiss-shot có lẽ \Ntoàn những ký ức buồn.
+Dialogue: 0,0:18:09.70,0:18:14.19,Main,,0,0,0,,{\i1}Đối với Kiss-shot mà nói, \N hai tuần qua có lẽ toàn những ký ức buồn.
 Dialogue: 0,0:18:16.39,0:18:21.95,Main,,0,0,0,,{\i1}Nhưng giờ nhìn lại, đối với tôi mà nói,\N kỳ nghỉ xuân này cũng không đến nỗi tệ.
 Dialogue: 0,0:18:24.62,0:18:26.75,Main,,0,0,0,,{\i1}Không tệ chút nào.
 Dialogue: 0,0:18:53.78,0:18:57.74,Main,,0,0,0,,{\i1}Sau khi xong việc trên sân thượng,\N làm luôn một bữa tiệc chia tay.
@@ -364,7 +364,7 @@ Dialogue: 0,0:29:15.38,0:29:18.65,Main,,0,0,0,,Mà là tại tớ... lỗi của
 Dialogue: 0,0:29:19.79,0:29:22.21,Main,,0,0,0,,Không còn ai khác.
 Dialogue: 0,0:29:23.28,0:29:27.45,Main,,0,0,0,,Vả lại, tớ chưa từng nghĩ rằng...
 Dialogue: 0,0:29:27.89,0:29:29.16,Main,,0,0,0,,Dramaturgy,
-Dialogue: 0,0:29:29.48,0:29:30.95,Main,,0,0,0,,Episode,
+Dialogue: 0,0:29:29.21,0:29:30.95,Main,,0,0,0,,Episode,
 Dialogue: 0,0:29:30.95,0:29:32.58,Main,,0,0,0,,và Guillotine Cutter,
 Dialogue: 0,0:29:33.20,0:29:36.65,Main,,0,0,0,,3 tên đó đang chiến đấu \Ncho chính nghĩa của nhân loại.
 Dialogue: 0,0:29:42.55,0:29:45.72,Main,,0,0,0,,Tớ đã trở thành kẻ thù của nhân loại.
@@ -426,7 +426,7 @@ Dialogue: 0,0:34:33.64,0:34:35.09,Main,,0,0,0,,Cả Araragi-kun nữa sao?
 Dialogue: 0,0:34:38.85,0:34:41.97,Main,,0,0,0,,Araragi-kun không ngăn nổi sao?
 Dialogue: 0,0:34:42.55,0:34:47.59,Main,,0,0,0,,Không những thế, chả phải \Nchỉ có mình Araragi-kun mới ngăn nổi cô ta sao?
 Dialogue: 0,0:34:50.88,0:34:53.36,Main,,0,0,0,,Araragi-kun là thân tín duy nhất.
-Dialogue: 0,0:34:53.86,0:34:58.36,Main,,0,0,0,,Ngược lại, chính là Araragi-kun \Nmới là người duy nhất có thể ngăn nổi cô ta.
+Dialogue: 0,0:34:53.86,0:34:58.36,Main,,0,0,0,,Ngược lại, chính Araragi-kun \Nmới là người duy nhất có thể ngăn nổi cô ta.
 Dialogue: 0,0:35:03.18,0:35:04.95,Main,,0,0,0,,Vào vị trí.
 Dialogue: 0,0:35:06.62,0:35:07.80,Main,,0,0,0,,Chuẩn bị.
 Dialogue: 0,0:35:21.30,0:35:22.27,Main,,0,0,0,,Tớ...
@@ -561,8 +561,8 @@ Dialogue: 0,0:46:27.27,0:46:32.30,Main,,0,0,0,,Lão nương đã thiếu chu đ�
 Dialogue: 0,0:46:32.30,0:46:35.93,Main,,0,0,0,,Nên là chỉ một lần thôi, \Nlão nương cúi đầu tạ lỗi.
 Dialogue: 0,0:46:41.98,0:46:43.65,Main,,0,0,0,,Hãy trở về đây bên lão nương.
 Dialogue: 0,0:46:44.40,0:46:47.15,Main,,0,0,0,,Hãy sống bên cạnh lão nương.
-Dialogue: 0,0:46:50.03,0:46:52.74,Main,,0,0,0,,Nhà ngươi đã cứu mạng lão nương.
-Dialogue: 0,0:46:53.99,0:46:56.23,Main,,0,0,0,,Nhà ngươi là rất ngược đời.
+Dialogue: 0,0:46:50.04,0:46:52.74,Main,,0,0,0,,Nhà ngươi đã cứu mạng lão nương.
+Dialogue: 0,0:46:53.99,0:46:56.23,Main,,0,0,0,,Nhà ngươi rất là ngược đời.
 Dialogue: 0,0:46:56.23,0:47:00.17,Main,,0,0,0,,Vì thế mà lão nương cho là \Nnhà ngươi có thể sống cùng lão nương.
 Dialogue: 0,0:47:01.70,0:47:05.59,Main,,0,0,0,,Nhà ngươi có muốn \Ntrường sinh bất lão cùng lão nương không?
 Dialogue: 0,0:47:07.11,0:47:08.09,Main,,0,0,0,,Tôi từ chối!
@@ -723,7 +723,7 @@ Dialogue: 0,1:04:56.71,1:04:59.91,Main,,0,0,0,,Đừng có làm mất thì giờ
 Dialogue: 0,1:05:00.36,1:05:03.03,Main,,0,0,0,,Mọi lời ông nói, tôi hiểu hết rồi!
 Dialogue: 0,1:05:03.03,1:05:05.00,Main,,0,0,0,,Không cần ông phải giải thích nữa.
 Dialogue: 0,1:05:05.34,1:05:06.88,Main,,0,0,0,,Nên là ông ra đây cho tôi!
-Dialogue: 0,1:05:06.88,1:05:09.43,Main,,0,0,0,,Nhưng gì tôi đã gây ra, tôi hiểu hết rồi!
+Dialogue: 0,1:05:06.88,1:05:09.43,Main,,0,0,0,,Những gì tôi đã gây ra, tôi hiểu hết rồi!
 Dialogue: 0,1:05:09.43,1:05:11.38,Main,,0,0,0,,Nên là ông ra đây cho tôi!
 Dialogue: 0,1:05:11.38,1:05:13.94,Main,,0,0,600,,Oshino Meme!
 Dialogue: 0,1:05:16.39,1:05:19.14,Main,,0,0,0,,Gì mà phải hét to lên thế hả.\N Ta nghe thấy mà.
@@ -780,7 +780,8 @@ Dialogue: 0,1:08:58.18,1:09:00.96,Main,,0,0,0,,Sự tồn tại nửa vời đó
 Dialogue: 0,1:09:02.05,1:09:03.28,Main,,0,0,0,,Hợp thế còn gì.
 Dialogue: 0,1:09:04.66,1:09:08.85,Main,,0,0,0,,Tuy nhiên, với sự sắp đặt này, \NAraragi-kun thì đã đành,
 Dialogue: 0,1:09:08.85,1:09:12.75,Main,,0,0,0,,chứ Heart-under-blade\N sẽ chết vì thiếu dinh dưỡng.
-Dialogue: 0,1:09:13.28,1:09:21.88,Main,,0,0,0,,Thứ duy nhất giúp Heartunderblade tồn tại là máu thịt của cậu,\N của kẻ đã biến cô ta thành sinh vật thấp kém như thế.
+Dialogue: 0,1:09:13.28,1:09:17.60,Main,,0,0,0,,Thứ duy nhất giúp Heart-under-blade tồn tại \Nlà máu thịt của cậu,
+Dialogue: 0,1:09:17.60,1:09:21.88,Main,,0,0,0,,của kẻ đã biến cô ta \Nthành sinh vật thấp kém như thế.
 Dialogue: 0,1:09:22.29,1:09:26.68,Main,,0,0,0,,Cậu phải hiến dâng phần đời còn lại của mình \Ncho Heart-under-blade.
 Dialogue: 0,1:09:27.32,1:09:32.18,Main,,0,0,0,,Còn Heart-under-blade \Nsẽ phải dính với cậu vĩnh viễn.
 Dialogue: 0,1:09:32.69,1:09:33.32,Main,,0,0,0,,Vậy....
@@ -823,7 +824,8 @@ Dialogue: 0,1:12:09.10,1:12:10.47,Main,,0,0,0,,Nó vậy đấy.
 Dialogue: 0,1:12:12.38,1:12:20.56,Main,,0,0,0,,Lạc quan mà nói, thì coi như tớ đã có thể trở lại làm người,\N tuy nhiên vẫn còn một vài di chứng.
 Dialogue: 0,1:12:22.84,1:12:24.39,Main,,0,0,0,,Di chứng ha.
 Dialogue: 0,1:12:25.12,1:12:28.72,Main,,0,0,0,,Mà, cho dù hiện giờ \Ntớ có là con người hay không,
-Dialogue: 0,1:12:28.72,1:12:34.83,Main,,0,0,0,,thì chỉ cần ra nắng được như này,\N cảm giác như cả thế giới thay đổi vậy.
+Dialogue: 0,1:12:28.72,1:12:31.93,Main,,0,0,0,,thì chỉ cần ra nắng được như này thôi,
+Dialogue: 0,1:12:31.93,1:12:34.83,Main,,0,0,0,,cảm giác đã như cả thế giới thay đổi rồi.
 Dialogue: 0,1:12:35.47,1:12:36.88,Main,,0,0,0,,Lạc quan thật ha.
 Dialogue: 0,1:12:47.84,1:12:50.57,Main,,0,0,0,,Chà~  Tới muộn thế, Araragi{*}-kun{*}.
 Dialogue: 0,1:12:50.57,1:12:51.92,Main,,0,0,0,,Ta chờ lâu lắm rồi đấy.
@@ -837,7 +839,7 @@ Dialogue: 0,1:13:48.17,1:13:54.11,Main,,0,0,0,,không khác gì cái cảm giác
 Dialogue: 0,1:13:54.79,1:13:59.99,Main,,0,0,0,,Và rồi cậu... đã chọn cách \Nnuôi một con ma cà rồng như thể thú cưng.
 Dialogue: 0,1:14:00.34,1:14:08.38,Main,,0,0,0,,Mài mòn răng nanh, rút bỏ móng vuốt,\N chặn họng, và thiến... ha?
 Dialogue: 0,1:14:10.06,1:14:14.51,Main,,0,0,0,,Cậu vốn bị coi như thú cưng,\N nhưng giờ lại coi chủ nhân như thú cưng.
-Dialogue: 0,1:14:15.03,1:14:18.51,Main,,0,0,0,,Nghĩ theo hướng đó,\N cậu chuyện này xem ra không cảm động cho lắm.
+Dialogue: 0,1:14:15.03,1:14:18.51,Main,,0,0,0,,Nghĩ theo hướng đó,\N câu chuyện này xem ra không cảm động cho lắm.
 Dialogue: 0,1:14:20.53,1:14:25.02,Main,,0,0,0,,Cơ mà ấy, cứ để đấy, rồi ta sẽ làm gì đó.
 Dialogue: 0,1:14:25.43,1:14:31.02,Main,,0,0,0,,Nếu cậu mà có chán ghét bản thân, \Nthì hãy nói với ta, Araragi-kun.
 Dialogue: 0,1:14:32.50,1:14:34.65,Main,,0,0,0,,Chả việc gì phải chán ghét cả.
