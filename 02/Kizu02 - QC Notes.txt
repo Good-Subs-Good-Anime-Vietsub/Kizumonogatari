@@ -35,7 +35,7 @@ Không... phải nói là đau tận xương tủy.
 
 Chả là... tớ không tài nào hiểu nổi \Ntại sao cậu lại phải vì tớ mà đi xa tới vậy.
 {FIX: để tầm 800 cho khỏi chờm}
-{FIX: ''tại sao cậu lại phải đi xa đên vậy chỉ vì tớ'' cái này tùy a, nó cũng chỉ là cách sắp xếp}
+{FIX: ''tại sao cậu lại phải đi xa đến vậy chỉ vì tớ'' cái này tùy a, nó cũng chỉ là cách sắp xếp}
 ~DONE
 
 Cái năng lực bất tử của ma cà rồng \Ncủa Heart-under-blade,
