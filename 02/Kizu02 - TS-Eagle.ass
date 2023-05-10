@@ -16,9 +16,7 @@ Video File: ../raws/[OZR] Kizumonogatari Part 2 - Nekketsu (BD 816p HEVC Opus) [
 Video AR Mode: 4
 Video AR Value: 2.352941
 Video Zoom Percent: 0.625000
-Scroll Position: 804
-Active Line: 809
-Video Position: 73980
+Video Position: 78134
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,6 +32,8 @@ Style: ED,KiOZ BunaeroPro Dialogue,68,&H00FFFFFF,&H000000FF,&H1EFFFFFF,&H9600000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:54:18.82,0:54:19.07,Signs,add.lines,0,0,0,,{\c&HC5BC46&\fnGentium\fscx66\fscy66\pos(414.4,190.4)\blur0.86\frz17.6}Ấ{*\frz17.328\fax0.003}N {*\frz16.783\fax0.01}P{*\frz16.511\fax0.013}H{*\frz16.239\fax0.017}Ẩ{*\frz15.967\fax0.02}M {*\frz15.422\fax0.027}Đ{*\frz15.15\fax0.03}Ặ{*\frz14.878\fax0.033}C {*\frz14.333\fax0.04}B{*\frz14.061\fax0.043}I{*\frz13.789\fax0.047}Ệ{*\frz13.517\fax0.05}T{*\frz13.244\fax0.053}: {*\frz12.7\fax0.06}L{*\frz12.428\fax0.063}Ớ{*\frz12.156\fax0.067}P {*\frz11.611\fax0.073}T{*\frz11.339\fax0.077}R{*\frz11.067\fax0.08}Ư{*\frz10.794\fax0.083}Ở{*\frz10.522\fax0.087}N{*\frz10.25\fax0.09}G {*\frz9.706\fax0.097}Đ{*\frz9.433\fax0.1}E{*\frz9.161\fax0.103}O {*\frz8.617\fax0.11}K{*\frz8.344\fax0.113}Í{*\frz8.072\fax0.117}N{\frz7.8\fax0.12}H
+Dialogue: 0,0:54:18.82,0:54:19.07,Signs,add.lines,0,0,0,,{\c&HC5BC46&\fnKiOZ Ubuntu Dialogue\fscx81\fscy81\pos(1446.4,520)\blur0.86\fax-0.13\frz12.7}G{*\frz12.591\fax-0.135}Á{*\frz12.482\fax-0.139}I {*\frz12.263\fax-0.148}Đ{*\frz12.154\fax-0.153}E{*\frz12.045\fax-0.158}O {*\frz11.827\fax-0.167}K{*\frz11.717\fax-0.171}Í{*\frz11.608\fax-0.176}N{*\frz11.499\fax-0.18}H {*\frz11.281\fax-0.19}L{*\frz11.172\fax-0.194}À {*\frz10.953\fax-0.203}L{*\frz10.844\fax-0.208}Ẽ {*\frz10.626\fax-0.217}S{*\frz10.517\fax-0.222}Ố{*\frz10.407\fax-0.226}N{*\frz10.298\fax-0.231}G{*\frz10.189\fax-0.235}!{\frz10.08\fax-0.24}!
 Dialogue: 0,0:33:08.76,0:33:09.22,Signs,add.lines,0,0,0,,{\an7\fnSVN-Avo\c&H177083&\fscx80\fscy136\blur1\pos(736,137.07)\b0}TẠP CHÍ HAY HO
 Dialogue: 0,0:33:08.76,0:33:09.22,Signs,add.lines,0,0,0,,{\an9\fnSVN-Avo\c&H177083&\fscx80\fscy136\blur1\pos(1160.86,585.36)}CHỈ DÀNH CHO \NNGƯỜI LỚN
 Dialogue: 0,0:33:08.76,0:33:09.22,Signs,add.lines,0,0,0,,{\an7\fnSVN-Avo\c&H2D7485&\fscx80\fscy136\blur1\pos(736,137.07)\b0\1a&H96&}TẠP CHÍ HAY HO
