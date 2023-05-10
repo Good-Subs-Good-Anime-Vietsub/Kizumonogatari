@@ -15,10 +15,10 @@ Audio File: ../raws/[OZR] Kizumonogatari Part 3 - Reiketsu (BD 816p HEVC Opus) [
 Video File: ../raws/[OZR] Kizumonogatari Part 3 - Reiketsu (BD 816p HEVC Opus) [6258CAF0].mkv
 Video AR Mode: 4
 Video AR Value: 2.352941
-Video Zoom Percent: 0.750000
+Video Zoom Percent: 0.625000
 Scroll Position: 78
-Active Line: 90
-Video Position: 100060
+Active Line: 94
+Video Position: 101728
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,109 +34,109 @@ Style: ED,KiOZ BunaeroPro Dialogue,68,&H00FFFFFF,&H000000FF,&H1EFFFFFF,&H9600000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:28.11,0:01:28.44,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,0:01:28.11,0:01:28.44,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
-Dialogue: 0,0:02:17.61,0:02:17.93,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,0:02:17.61,0:02:17.93,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
-Dialogue: 0,0:02:50.57,0:02:51.30,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,0:02:50.57,0:02:51.30,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
-Dialogue: 0,0:03:04.78,0:03:05.52,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐỎ
-Dialogue: 1,0:03:04.78,0:03:05.52,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐỎ
-Dialogue: 0,0:05:54.09,0:05:54.40,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,0:05:54.09,0:05:54.40,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
-Dialogue: 0,0:08:45.09,0:08:45.42,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,0:08:45.09,0:08:45.42,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
-Dialogue: 0,0:16:06.93,0:16:08.57,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,0:16:06.93,0:16:08.57,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
-Dialogue: 0,0:17:04.25,0:17:05.61,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,0:17:04.25,0:17:05.61,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
+Dialogue: 0,0:01:28.11,0:01:28.44,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,0:01:28.11,0:01:28.44,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 0,0:02:17.61,0:02:17.93,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,0:02:17.61,0:02:17.93,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 0,0:02:50.57,0:02:51.30,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,0:02:50.57,0:02:51.30,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 0,0:03:04.78,0:03:05.52,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐỎ
+Dialogue: 1,0:03:04.78,0:03:05.52,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐỎ
+Dialogue: 0,0:05:54.09,0:05:54.40,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,0:05:54.09,0:05:54.40,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 0,0:08:45.09,0:08:45.42,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,0:08:45.09,0:08:45.42,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 0,0:16:06.93,0:16:08.57,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,0:16:06.93,0:16:08.57,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 0,0:17:04.25,0:17:05.61,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,0:17:04.25,0:17:05.61,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
 Dialogue: 0,0:18:02.89,0:18:05.92,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx196\fscy196\blur4\bord0\shad0\fsp6\alpha&H30&}chia ly
-Dialogue: 1,0:18:02.89,0:18:05.92,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx196\fscy196\blur0.9\bord0\shad0\fsp6}chia ly
-Dialogue: 0,0:20:15.54,0:20:15.68,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,0:20:15.54,0:20:15.68,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
-Dialogue: 0,0:21:42.32,0:21:42.64,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐỎ
-Dialogue: 1,0:21:42.32,0:21:42.64,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐỎ
-Dialogue: 0,0:21:50.26,0:21:50.43,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐỎ
-Dialogue: 1,0:21:50.26,0:21:50.43,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐỎ
-Dialogue: 0,0:21:51.72,0:21:51.89,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,0:21:51.72,0:21:51.89,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
-Dialogue: 0,0:22:17.97,0:22:18.15,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,0:22:17.97,0:22:18.15,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
-Dialogue: 0,0:23:36.44,0:23:37.94,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,0:23:36.44,0:23:37.94,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
-Dialogue: 0,0:24:13.47,0:24:14.89,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐỎ
-Dialogue: 1,0:24:13.47,0:24:14.89,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐỎ
-Dialogue: 0,0:26:12.49,0:26:13.24,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,0:26:12.49,0:26:13.24,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
-Dialogue: 0,0:29:46.96,0:29:47.71,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,0:29:46.96,0:29:47.71,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
-Dialogue: 0,0:30:45.66,0:30:46.27,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,0:30:45.66,0:30:46.27,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
-Dialogue: 0,0:31:54.05,0:31:54.68,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐỎ
-Dialogue: 1,0:31:54.05,0:31:54.68,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐỎ
-Dialogue: 0,0:35:17.80,0:35:18.67,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,0:35:17.80,0:35:18.67,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
-Dialogue: 0,0:36:30.58,0:36:31.08,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,0:36:30.58,0:36:31.08,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
+Dialogue: 1,0:18:02.89,0:18:05.92,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx196\fscy196\blur1\bord0\shad0\fsp6}chia ly
+Dialogue: 0,0:20:15.54,0:20:15.68,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,0:20:15.54,0:20:15.68,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 0,0:21:42.32,0:21:42.64,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐỎ
+Dialogue: 1,0:21:42.32,0:21:42.64,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐỎ
+Dialogue: 0,0:21:50.26,0:21:50.43,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐỎ
+Dialogue: 1,0:21:50.26,0:21:50.43,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐỎ
+Dialogue: 0,0:21:51.72,0:21:51.89,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,0:21:51.72,0:21:51.89,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 0,0:22:17.97,0:22:18.15,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,0:22:17.97,0:22:18.15,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 0,0:23:36.44,0:23:37.94,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,0:23:36.44,0:23:37.94,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 0,0:24:13.47,0:24:14.89,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐỎ
+Dialogue: 1,0:24:13.47,0:24:14.89,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐỎ
+Dialogue: 0,0:26:12.49,0:26:13.24,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,0:26:12.49,0:26:13.24,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 0,0:29:46.96,0:29:47.71,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,0:29:46.96,0:29:47.71,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 0,0:30:45.66,0:30:46.27,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,0:30:45.66,0:30:46.27,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 0,0:31:54.05,0:31:54.68,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐỎ
+Dialogue: 1,0:31:54.05,0:31:54.68,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐỎ
+Dialogue: 0,0:35:17.80,0:35:18.67,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,0:35:17.80,0:35:18.67,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 0,0:36:30.58,0:36:31.08,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,0:36:30.58,0:36:31.08,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
 Dialogue: 0,0:37:14.54,0:37:15.29,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx196\fscy196\blur4\bord0\shad0\fsp6\alpha&H30&}kinh hãi
-Dialogue: 1,0:37:14.54,0:37:15.29,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx196\fscy196\blur0.9\bord0\shad0\fsp6}kinh hãi
-Dialogue: 0,0:37:36.69,0:37:37.81,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,0:37:36.69,0:37:37.81,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
+Dialogue: 1,0:37:14.54,0:37:15.29,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx196\fscy196\blur1\bord0\shad0\fsp6}kinh hãi
+Dialogue: 0,0:37:36.69,0:37:37.81,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,0:37:36.69,0:37:37.81,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
 Dialogue: 0,0:40:53.80,0:40:57.26,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx196\fscy196\blur4\bord0\shad0\fsp6\alpha&H30&}cầu xin
-Dialogue: 1,0:40:53.80,0:40:57.26,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx196\fscy196\blur0.9\bord0\shad0\fsp6}cầu xin
+Dialogue: 1,0:40:53.80,0:40:57.26,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx196\fscy196\blur1\bord0\shad0\fsp6}cầu xin
 Dialogue: 0,0:41:41.89,0:41:43.13,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx196\fscy196\blur4\bord0\shad0\fsp6\alpha&H30&}bạo dâm
-Dialogue: 1,0:41:41.89,0:41:43.13,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx196\fscy196\blur0.9\bord0\shad0\fsp6}bạo dâm
+Dialogue: 1,0:41:41.89,0:41:43.13,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx196\fscy196\blur1\bord0\shad0\fsp6}bạo dâm
 Dialogue: 0,0:42:33.36,0:42:33.78,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx196\fscy196\blur4\bord0\shad0\fsp6\alpha&H30&}thì thâm tha thiết
-Dialogue: 1,0:42:33.36,0:42:33.78,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx196\fscy196\blur0.9\bord0\shad0\fsp6}thì thâm tha thiết
+Dialogue: 1,0:42:33.36,0:42:33.78,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx196\fscy196\blur1\bord0\shad0\fsp6}thì thâm tha thiết
 Dialogue: 0,0:42:41.83,0:42:42.83,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx196\fscy196\blur4\bord0\shad0\fsp6\alpha&H30&}đỉnh điểm
-Dialogue: 1,0:42:41.83,0:42:42.83,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx196\fscy196\blur0.9\bord0\shad0\fsp6}đỉnh điểm
+Dialogue: 1,0:42:41.83,0:42:42.83,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx196\fscy196\blur1\bord0\shad0\fsp6}đỉnh điểm
 Dialogue: 0,0:44:08.37,0:44:09.00,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx196\fscy196\blur4\bord0\shad0\fsp6\alpha&H30&}thịnh nộ
-Dialogue: 1,0:44:08.37,0:44:09.00,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx196\fscy196\blur0.9\bord0\shad0\fsp6}thịnh nộ
-Dialogue: 0,0:45:51.81,0:45:52.56,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,0:45:51.81,0:45:52.56,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
-Dialogue: 0,0:46:47.15,0:46:47.40,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐỎ
-Dialogue: 1,0:46:47.15,0:46:47.40,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐỎ
-Dialogue: 0,0:47:20.60,0:47:20.85,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,0:47:20.60,0:47:20.85,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
+Dialogue: 1,0:44:08.37,0:44:09.00,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx196\fscy196\blur1\bord0\shad0\fsp6}thịnh nộ
+Dialogue: 0,0:45:51.81,0:45:52.56,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,0:45:51.81,0:45:52.56,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 0,0:46:47.15,0:46:47.40,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐỎ
+Dialogue: 1,0:46:47.15,0:46:47.40,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐỎ
+Dialogue: 0,0:47:20.60,0:47:20.85,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,0:47:20.60,0:47:20.85,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
 Dialogue: 0,0:54:35.37,0:54:36.12,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx196\fscy196\blur4\bord0\shad0\fsp6\alpha&H30&}mơ mộng
-Dialogue: 1,0:54:35.37,0:54:36.12,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx196\fscy196\blur0.9\bord0\shad0\fsp6}mơ mộng
-Dialogue: 0,0:57:08.02,0:57:09.32,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx212\fscy212\c&H000000&\blur8\bord0\shad0\fsp6\alpha&H30&}TRẮNG
-Dialogue: 1,0:57:08.02,0:57:09.32,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx212\fscy212\c&H000000&\blur0.9\bord0\shad0\fsp6}TRẮNG
-Dialogue: 0,0:57:34.51,0:57:35.01,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,0:57:34.51,0:57:35.01,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
-Dialogue: 0,0:58:05.66,0:58:06.67,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,0:58:05.66,0:58:06.67,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
-Dialogue: 0,0:58:13.63,0:58:14.01,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐỎ
-Dialogue: 1,0:58:13.63,0:58:14.01,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐỎ
-Dialogue: 0,1:01:16.98,1:01:17.23,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,1:01:16.98,1:01:17.23,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
-Dialogue: 0,1:01:25.11,1:01:25.36,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,1:01:25.11,1:01:25.36,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
-Dialogue: 0,1:01:41.00,1:01:42.01,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,1:01:41.00,1:01:42.01,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
-Dialogue: 0,1:05:15.64,1:05:16.39,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,1:05:15.64,1:05:16.39,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
-Dialogue: 0,1:05:57.47,1:05:58.51,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,1:05:57.47,1:05:58.51,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
-Dialogue: 0,1:07:43.24,1:07:47.50,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,1:07:43.24,1:07:47.50,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
+Dialogue: 1,0:54:35.37,0:54:36.12,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx196\fscy196\blur1\bord0\shad0\fsp6}mơ mộng
+Dialogue: 0,0:57:08.02,0:57:09.32,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx212\fscy212\c&H000000&\blur3\bord0\shad0\fsp15\alpha&H30&\fs60}TRẮNG
+Dialogue: 1,0:57:08.02,0:57:09.32,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx212\fscy212\c&H000000&\blur1\bord0\shad0\fsp15\fs60}TRẮNG
+Dialogue: 0,0:57:34.51,0:57:35.01,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,0:57:34.51,0:57:35.01,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 0,0:58:05.66,0:58:06.67,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,0:58:05.66,0:58:06.67,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 0,0:58:13.63,0:58:14.01,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐỎ
+Dialogue: 1,0:58:13.63,0:58:14.01,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐỎ
+Dialogue: 0,1:01:16.98,1:01:17.23,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,1:01:16.98,1:01:17.23,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 0,1:01:25.11,1:01:25.36,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,1:01:25.11,1:01:25.36,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 0,1:01:41.00,1:01:42.01,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,1:01:41.00,1:01:42.01,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 0,1:05:15.64,1:05:16.39,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,1:05:15.64,1:05:16.39,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 0,1:05:57.47,1:05:58.51,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,1:05:57.47,1:05:58.51,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 0,1:07:43.24,1:07:47.50,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,1:07:43.24,1:07:47.50,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
 Dialogue: 0,1:08:03.51,1:08:05.22,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx212\fscy212\blur4\bord0\shad0\fsp6\alpha&H30&}TRƯỜNG HỢP 1
-Dialogue: 1,1:08:03.51,1:08:05.22,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx212\fscy212\blur0.9\bord0\shad0\fsp6}TRƯỜNG HỢP 1
+Dialogue: 1,1:08:03.51,1:08:05.22,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx212\fscy212\blur1\bord0\shad0\fsp6}TRƯỜNG HỢP 1
 Dialogue: 0,1:08:39.59,1:08:41.55,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx212\fscy212\blur4\bord0\shad0\fsp6\alpha&H30&}TRƯỜNG HỢP 2
-Dialogue: 1,1:08:39.59,1:08:41.55,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx212\fscy212\blur0.9\bord0\shad0\fsp6}TRƯỜNG HỢP 2
-Dialogue: 0,1:09:33.31,1:09:36.31,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx212\fscy212\c&H000000&\blur3\bord0\shad0\fsp6\alpha&H80&}TRƯỜNG HỢP 3
-Dialogue: 1,1:09:33.31,1:09:36.31,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx212\fscy212\c&H000000&\blur0.9\bord0\shad0\fsp6}TRƯỜNG HỢP 3
-Dialogue: 0,1:10:23.69,1:10:27.11,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,1:10:23.69,1:10:27.11,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
-Dialogue: 0,1:10:42.88,1:10:43.88,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx212\fscy212\c&H000000&\blur8\bord0\shad0\fsp6\alpha&H30&}TRẮNG
-Dialogue: 1,1:10:42.88,1:10:43.88,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx212\fscy212\c&H000000&\blur0.9\bord0\shad0\fsp6}TRẮNG
-Dialogue: 0,1:11:08.86,1:11:11.62,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,1:11:08.86,1:11:11.62,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
-Dialogue: 0,1:11:34.22,1:11:35.47,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,1:11:34.22,1:11:35.47,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
-Dialogue: 0,1:12:42.58,1:12:42.96,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,1:12:42.58,1:12:42.96,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
-Dialogue: 0,1:15:00.18,1:15:00.93,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,1:15:00.18,1:15:00.93,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
-Dialogue: 0,1:15:20.20,1:15:20.95,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur8\bord0\shad0\fsp6\alpha&H30&}ĐEN
-Dialogue: 1,1:15:20.20,1:15:20.95,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx240\fscy240\blur0.9\bord0\shad0\fsp6}ĐEN
+Dialogue: 1,1:08:39.59,1:08:41.55,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx212\fscy212\blur1\bord0\shad0\fsp6}TRƯỜNG HỢP 2
+Dialogue: 0,1:09:33.31,1:09:36.31,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx212\fscy212\c&H000000&\blur2\bord0\shad0\fsp6\alpha&H80&}TRƯỜNG HỢP 3
+Dialogue: 1,1:09:33.31,1:09:36.31,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx212\fscy212\c&H000000&\blur1\bord0\shad0\fsp6}TRƯỜNG HỢP 3
+Dialogue: 0,1:10:23.69,1:10:27.11,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,1:10:23.69,1:10:27.11,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 0,1:10:42.88,1:10:43.88,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx212\fscy212\c&H000000&\blur3\bord0\shad0\fsp15\alpha&H30&\fs60}TRẮNG
+Dialogue: 1,1:10:42.88,1:10:43.88,Signs,,0,0,0,,{\fnSVN-Avo\pos(960,215.07)\fscx212\fscy212\c&H000000&\blur1\bord0\shad0\fsp15\fs60}TRẮNG
+Dialogue: 0,1:11:08.86,1:11:11.62,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,1:11:08.86,1:11:11.62,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 0,1:11:34.22,1:11:35.47,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,1:11:34.22,1:11:35.47,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 0,1:12:42.58,1:12:42.96,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,1:12:42.58,1:12:42.96,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 0,1:15:00.18,1:15:00.93,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,1:15:00.18,1:15:00.93,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 0,1:15:20.20,1:15:20.95,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur8\bord0\shad0\fsp15\alpha&H30&\fs80\pos(971.99,228.07)}ĐEN
+Dialogue: 1,1:15:20.20,1:15:20.95,Signs,,0,0,0,,{\fnSVN-Avo\fscx212\fscy212\blur1\bord0\shad0\fsp15\fs80\pos(971.99,228.07)}ĐEN
